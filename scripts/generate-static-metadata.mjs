@@ -51,7 +51,7 @@ for (const bookRef of books) {
   urls.push({
     loc: absoluteUrl(`/articles/${book.slug}`),
     lastmod,
-    priority: book.slug === 'affiliate-product-comparisons' ? '0.9' : '0.7',
+    priority: book.slug === 'product-comparisons' ? '0.9' : '0.7',
   });
 
   const chapters = [...(book.chapters || [])]
@@ -62,7 +62,7 @@ for (const bookRef of books) {
     urls.push({
       loc: absoluteUrl(`/articles/${book.slug}/${chapter.slug}`),
       lastmod,
-      priority: book.slug === 'affiliate-product-comparisons' ? '0.8' : '0.6',
+      priority: book.slug === 'product-comparisons' ? '0.8' : '0.6',
     });
   }
 }

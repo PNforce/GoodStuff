@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="675" viewBox="0 0 1400 675" role="img" aria-labelledby="title desc">
   <title id="title">Dyson BP04 與 Dyson HushJet 適用空間示意圖</title>
   <desc id="desc">自製商品比較插圖，左側呈現大坪數客廳使用 BP04，右側呈現臥室或書房使用 HushJet。</desc>
   <defs>
@@ -10,17 +10,17 @@
       <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#1d2a35" flood-opacity="0.18"/>
     </filter>
   </defs>
-  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect width="1400" height="675" fill="url(#bg)"/>
   <rect x="72" y="74" width="496" height="480" rx="28" fill="#ffffff" stroke="#c9d7e0" filter="url(#shadow)"/>
-  <rect x="632" y="74" width="496" height="480" rx="28" fill="#ffffff" stroke="#c9d7e0" filter="url(#shadow)"/>
+  <rect x="832" y="74" width="496" height="480" rx="28" fill="#ffffff" stroke="#c9d7e0" filter="url(#shadow)"/>
   <text x="320" y="132" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="34" font-weight="700" fill="#17324d">BP04：大空間長時間清淨</text>
-  <text x="880" y="132" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="34" font-weight="700" fill="#17324d">HushJet：小房間安靜維持</text>
+  <text x="1080" y="132" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="34" font-weight="700" fill="#17324d">HushJet：小房間安靜維持</text>
   <path d="M112 468 C210 390, 415 390, 528 468" fill="none" stroke="#cdd8df" stroke-width="12" stroke-linecap="round"/>
-  <path d="M668 468 C755 420, 996 420, 1092 468" fill="none" stroke="#d8dfd7" stroke-width="12" stroke-linecap="round"/>
+  <path d="M868 468 C955 420, 1196 420, 1292 468" fill="none" stroke="#d8dfd7" stroke-width="12" stroke-linecap="round"/>
   <rect x="126" y="402" width="96" height="54" rx="10" fill="#e9f1f6"/>
   <rect x="418" y="368" width="104" height="88" rx="12" fill="#eef1e7"/>
-  <rect x="704" y="394" width="138" height="62" rx="12" fill="#eef1e7"/>
-  <rect x="948" y="368" width="96" height="88" rx="12" fill="#e9f1f6"/>
+  <rect x="904" y="394" width="138" height="62" rx="12" fill="#eef1e7"/>
+  <rect x="1148" y="368" width="96" height="88" rx="12" fill="#e9f1f6"/>
   <g transform="translate(275 202)">
     <ellipse cx="0" cy="298" rx="94" ry="20" fill="#d9e1e8"/>
     <rect x="-58" y="126" width="116" height="174" rx="44" fill="#243746"/>
@@ -32,7 +32,7 @@
     <path d="M12 116 C152 76, 198 24, 240 -36" fill="none" stroke="#7fc2df" stroke-width="10" stroke-linecap="round" opacity="0.65"/>
     <path d="M0 118 C-58 54, -42 -4, -18 -64" fill="none" stroke="#7fc2df" stroke-width="8" stroke-linecap="round" opacity="0.5"/>
   </g>
-  <g transform="translate(880 242)">
+  <g transform="translate(1080 242)">
     <ellipse cx="0" cy="262" rx="62" ry="16" fill="#d9e1e8"/>
     <rect x="-44" y="72" width="88" height="190" rx="44" fill="#f4f7f8" stroke="#8ba6b6" stroke-width="5"/>
     <ellipse cx="0" cy="72" rx="44" ry="18" fill="#6cb5d7"/>
@@ -41,6 +41,6 @@
     <path d="M4 66 C82 42, 96 8, 114 -36" fill="none" stroke="#86d6df" stroke-width="7" stroke-linecap="round" opacity="0.7"/>
   </g>
   <text x="320" y="584" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="24" fill="#384b59">重點：大風量、甲醛處理、遠距送風</text>
-  <text x="880" y="584" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="24" fill="#384b59">重點：小坪數、低噪、桌邊或床邊情境</text>
-  <text x="600" y="640" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="18" fill="#687983">自製示意圖，依公開規格與評測整理；非產品實拍，比例與外觀僅供選購理解。</text>
+  <text x="1080" y="584" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="24" fill="#384b59">重點：小坪數、低噪、桌邊或床邊情境</text>
+  <text x="700" y="640" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="18" fill="#687983">自製示意圖，依公開規格與評測整理；非產品實拍，比例與外觀僅供選購理解。</text>
 </svg>

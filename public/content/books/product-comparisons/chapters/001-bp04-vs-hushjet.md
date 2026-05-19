@@ -1,0 +1,86 @@
+# Dyson BP04 vs Dyson HushJet：大空間旗艦清淨與小房間低噪清淨怎麼選
+
+## 插圖圖片
+
+![Dyson BP04 與 Dyson HushJet 適用空間示意圖](/images/product-comparisons/001-bp04-hushjet-room-fit.svg)
+
+圖一：自製商品情境示意圖。左側用大坪數客廳呈現 BP04 的長時間清淨定位，右側用臥室與書房呈現 HushJet HJ10 的小空間低噪定位。此圖依公開規格與評測重點繪製，非產品實拍，也沒有使用官網產品照片。
+
+![Dyson BP04 與 Dyson HushJet 濾網與氣流差異示意圖](/images/product-comparisons/001-bp04-hushjet-filter-flow.svg)
+
+圖二：自製濾網與氣流資訊圖。BP04 以 HEPA、K-Carbon 與 SCO 催化濾網作為主要賣點，HushJet HJ10 則以 360 度靜電濾網與活性碳濾網鎖定小房間使用。官網與評測資料只作為規格查核來源，插圖本身為原創示意。
+
+## 購買參考
+
+- Dyson BP04：[查看 Dyson BP04 目前賣場資訊](https://s.shopee.tw/8KkhcqtzhU)
+- Dyson HushJet HJ10：[查看 Dyson HushJet HJ10 目前賣場資訊](https://s.shopee.tw/3VfRrupCYX)
+
+## 適合誰看這篇
+
+這篇適合已經鎖定 Dyson 空氣清淨機，但還卡在「要買大台旗艦，還是買小台安靜機」的人。BP04 和 HushJet HJ10 都不是單純比誰比較新、誰比較便宜；它們的使用邏輯其實差很多。BP04 比較像放在客廳、開放式餐廚、寵物活動區的長時間清淨主機，重點是大風量、甲醛處理、濾網系統與遠距送風。HushJet HJ10 則比較像放在臥室、書房、床邊或小坪數工作區的日常維持機，重點是體積、低噪、近距離使用與小空間效率。
+
+如果你家有寵物、幼兒、裝潢味、開放式空間，或希望一台機器長時間守住主要生活區，BP04 會比較符合需求；但前提是你能接受它的體積、價格與擺放存在感。如果你只是想讓房間睡覺時空氣穩定一點，或在書桌旁降低灰塵、味道與過敏原負擔，HushJet HJ10 的小型定位反而更合理。它不是 BP04 的縮小版，而是另一個使用場景。
+
+這篇也適合正在比較「官方標示」與「實測評價」的人。官方資料能看濾網、感測與功能定位，獨立評測能補上 CADR、噪音、房間面積與使用限制；網友心得則能提醒你日常會遇到的麻煩，例如濾網價格、App 依賴、聲音感受、機身重量與夜間模式是否真的舒服。若你只看折扣價，很容易買到規格很強但不適合自家空間的機器；這篇會把兩台放回真實生活情境比較。
+
+## 兩款商品快速比較
+
+| 比較項目 | Dyson Purifier Big+Quiet BP04 強效極靜除甲醛空氣清淨機 | Dyson HushJet HJ10 噴射氣流空氣清淨機 |
+| --- | --- | --- |
+| 主要定位 | 大空間、長時間、旗艦濾淨與甲醛處理 | 小空間、低噪、臥室或書房日常清淨 |
+| 適合情境 | 客廳、開放式餐廚、寵物家庭、裝潢後空間 | 臥室、書房、套房、桌邊或床邊 |
+| 濾網重點 | HEPA H13、K-Carbon、SCO 催化濾網，主打顆粒、氣味與甲醛 | 360 度靜電濾網與活性碳濾網，主打小房間顆粒與異味 |
+| 實測清淨能力參考 | RTINGS 測得 PM1.0 CADR 約 329 m3/h，建議房間約 28.1 m2 | RTINGS 測得 PM1.0 CADR 約 250 m3/h，建議房間約 21.4 m2 |
+| 噪音參考 | RTINGS 測得約 33.4 到 47.6 dBA | RTINGS 測得約 31.5 到 53.7 dBA |
+| 操作方式 | 機身、遙控器與 App 操作較完整 | 偏向 App 與機身操作，評測指出沒有遙控器 |
+| 目前賣場價格參考 | 約 NT$30,000，頁面顯示銷量約 2,000+ 件 | 約 NT$13,000，頁面顯示銷量約 284 件 |
+| 優點 | 功能完整，適合主要生活區長時間處理複合污染 | 體積小、放置彈性高，適合近距離與夜間使用 |
+| 可能要注意 | 價格、體積、重量與濾網成本都比較高 | 覆蓋空間有限，高速時仍可能有明顯風聲 |
+
+## 產品重點
+
+### [Dyson BP04](https://s.shopee.tw/8KkhcqtzhU) 重點
+BP04 的核心價值不是「比較大台」而已，而是把 Dyson 高階空氣清淨機的濾網、感測、甲醛處理與送風設計放進一台偏客廳取向的機器。官方資料顯示，BP04 使用 360 度 HEPA H13 濾網、K-Carbon 濾網與 SCO 催化濾網；其中 HEPA 用來處理微粒，碳濾網偏向氣味與氣體污染，SCO 則主打分解甲醛。這對新裝潢、木作、寵物氣味、廚房與客廳相連的家庭比較有意義，因為問題通常不是只有灰塵，而是灰塵、味道與揮發性氣體一起出現。
+
+獨立測試讓 BP04 的定位更清楚。RTINGS 測得它的 PM1.0 CADR 約 329 m3/h，並給出約 28.1 m2 的建議房間面積；這代表它很適合中大型封閉空間，但不要把「大台」解讀成可以無限制處理整層開放空間。評測也提到它的噪音約 33.4 到 47.6 dBA，最低速相對安靜，高速仍會有存在感。若你期待客廳長時間開著、不想一直聽到明顯風切聲，最好讓它有足夠時間以中低速維持，而不是等空氣變差才開最大風量急救。
+
+使用者意見方面，公開討論大致分成兩派：喜歡的人看重它在主臥、客廳或寵物家庭的穩定感，覺得大風量與自動偵測能降低日常照看負擔；保留的人則多半卡在價格、濾網成本、機身重量與真實清淨範圍。這些意見其實很合理，因為 BP04 是「主要空間的長期設備」，不是小房間的便宜解法。如果你的預算夠、家中污染來源複雜、希望一台機器扛起主要生活區，它有說服力；如果只是臥室睡覺使用，規格可能會過頭。
+
+### [Dyson HushJet HJ10](https://s.shopee.tw/3VfRrupCYX) 重點
+HushJet HJ10 的重點是小空間與安靜維持。官方頁面把它定位成 compact purifier，標示適合約 203 平方英尺的小房間，並主打 HushJet 噴射氣流與 360 度濾網。它使用靜電濾網處理顆粒，並以活性碳濾網降低異味與氣體污染；這種配置不追求 BP04 那種大型旗艦感，而是希望在臥室、書房、套房或工作區以較小機身維持空氣品質。對租屋族、桌邊工作者或床邊過敏族群來說，這種定位比大台機器更貼近實際使用。
+
+RTINGS 測得 HushJet HJ10 的 PM1.0 CADR 約 250 m3/h，建議房間約 21.4 m2；這個表現放在小型機裡不差，但它仍是小空間取向。評測同時指出，HushJet HJ10 最低噪音約 31.5 dBA，高速可到約 53.7 dBA，所以它並不是任何風量都無聲，而是低速與睡眠情境較有優勢。TechRadar 與 T3 的評測也都把「安靜、設計簡潔、小空間好用」列為優點，但提醒價格不低，且如果放在大客廳，期待值就要調整。
+
+網友意見同樣呈現兩面。正面心得多半出現在小房間、錄音室、臥室或桌邊使用者，重點是機身不佔空間、低速不打擾、App 能看空氣變化；負面心得則集中在高速聲音、某些人覺得有低頻嗡聲、沒有遙控器、以及對自動模式反應速度的期待落差。換句話說，HushJet HJ10 最適合把空間縮小、需求說清楚的人：你要的是一台小房間清淨機，而不是拿它取代客廳旗艦主機。若你能接受這點，它比 BP04 更省空間，也比較不會買到用不到的規格。
+## 真實評測與網友意見整理
+
+官方資料能回答「這台設計來做什麼」，但實測與網友意見更能回答「買回家後會不會符合期待」。BP04 在評測中的優勢是濾網完整、操作完整、低速安靜、污染偵測清楚；缺點是價格高、體積重、濾網成本與真實覆蓋面積需要理性看待。公開討論裡，有人肯定它在主臥或寵物家庭的穩定感，也有人認為 Dyson 的售價相對於 CADR 不一定划算。這代表 BP04 更適合重視整體體驗、品牌售後與甲醛處理的人，而不是只用「每元 CADR」去算的人。
+
+HushJet HJ10 的評測與網友心得則更集中在「小空間舒適度」。喜歡它的人通常把它放在房間、工作室或小型錄音空間，重點是低速聲音舒服、機身好放、空氣數據變化看得見；不喜歡的人多半覺得高速還是吵、價格不像一般小型清淨機、沒有遙控器不夠方便。這些意見不互相矛盾，因為它的最佳用法本來就不是全速吹整天，而是靠小空間低速長時間維持。若你的使用方式是「睡覺時安靜開著」，它會比「白天大客廳快速清淨」更有說服力。
+
+## 怎麼選
+
+如果把兩台放在同一張購物清單，第一個問題應該是空間，而不是價格。你要處理的是客廳、餐廚、寵物活動區、裝潢後的主要生活區，還是臥室、書房、套房這類小空間？前者才是 BP04 的戰場，因為它的濾網組合、甲醛處理、送風設計與操作方式都比較像一台主要空間設備。後者則更適合 HushJet HJ10，因為小空間最怕的不是規格不夠豪華，而是機器太大、太吵、太佔位置，最後反而懶得開。
+
+第二個問題是污染來源。若你在意的是新裝潢味、寵物氣味、開放式廚房、長時間客廳活動，BP04 的多層濾網與甲醛處理會比較有意義。若你主要面對的是房間灰塵、睡覺鼻敏感、書桌旁空氣悶、偶爾有味道，HushJet HJ10 的 360 度濾網與小機身就夠接近日常痛點。不要把小房間需求想成「以後也許會搬去客廳用」，因為空氣清淨機最有效的方式通常是放在你真的會長時間使用的空間。
+
+第三個問題是總成本。BP04 目前賣場價約 NT$30,000，HushJet HJ10 約 NT$13,000，價差不只是一次購買支出，也包含未來濾網、擺放空間與你願不願意長期開機。若你希望一台設備處理家中主要空間，願意為完整濾網、品牌體驗與客廳覆蓋付費，BP04 比較合理。若你想先改善睡眠、工作或小房間空氣，HushJet HJ10 更容易買得精準。最穩的選法是：大空間、複合污染、預算足夠選 BP04；小房間、低噪、空間有限選 HushJet HJ10。
+
+## 購買參考
+
+- Dyson BP04：[查看 Dyson BP04 目前賣場資訊](https://s.shopee.tw/8KkhcqtzhU)
+- Dyson HushJet HJ10：[查看 Dyson HushJet HJ10 目前賣場資訊](https://s.shopee.tw/3VfRrupCYX)
+
+## 資料來源與查核
+
+- [Dyson BP04 官方支援與濾網說明](https://www.dyson.com/support/air-treatment/purifiers/purifier-big-quiet-formaldehyde-bp04)
+- [Dyson BP04 官方技術規格 PDF](https://www.dyson.co.uk/content/dam/dyson/maintain/commercial-shop/air-treatment/big-quiet-formaldehyde/BP04%20Tech%20Spec%20N426.pdf)
+- [Dyson HushJet HJ10 官方產品頁](https://www.dyson.com/content/dyson/us/en/products/air-treatment/air-purifiers/hushjet)
+- [RTINGS：Dyson Purifier Big+Quiet Formaldehyde BP04 評測](https://www.rtings.com/air-purifier/reviews/dyson/purifier-big-quiet-formaldehyde-bp04)
+- [RTINGS：Dyson HushJet Purifier Compact 評測](https://www.rtings.com/air-purifier/reviews/dyson/hushjet-purifier-compact)
+- [TechRadar：Dyson HushJet Purifier Compact 評測](https://www.techradar.com/home/air-quality/dyson-hushjet-purifier-compact-review)
+- [T3：Dyson HushJet Compact Purifier 評測](https://www.t3.com/home-living/dyson-hushjet-compact-purifier-review)
+- [Reddit：BP04 使用者討論串](https://www.reddit.com/r/dyson/comments/1cyhff9/dyson_purifier_bigquiet_formaldehyde/)
+- [Reddit：HushJet 使用者討論串](https://www.reddit.com/r/dyson/comments/1mva1ga/loving_the_new_hushjet/)
+
+免責聲明：本文整理賣場公開資訊、官方規格、公開評測與使用者討論。價格、優惠、庫存、保固、濾網壽命與配送條件可能變動，請以下單前賣場與品牌頁面為準。

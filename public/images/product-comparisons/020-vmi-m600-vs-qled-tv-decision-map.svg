@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="720" viewBox="0 0 1400 720" role="img" aria-labelledby="title desc">
   <title id="title">VMI M600 投影機 vs 65型 4K QLED 電視：租屋大畫面與客廳穩定畫質怎麼選：使用場景地圖</title>
   <desc id="desc">自製功能說明 SVG，依官方規格、公開評測與討論重點整理，非產品實拍。</desc>
   <defs>
@@ -17,33 +17,33 @@
     .small { font: 500 20px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #48667d; }
     .pill { font: 700 20px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #ffffff; }
   </style>
-  <rect width="1200" height="720" rx="0" fill="url(#bg)"/>
+  <rect width="1400" height="720" rx="0" fill="url(#bg)"/>
   <text x="64" y="70" class="title">VMI M600 投影機 vs 65型 4K QLED 電視：租屋大畫面與客廳穩定畫質怎麼選：使用場景地圖</text>
   <text x="66" y="112" class="small">自製功能說明 SVG，依官方規格、公開評測與討論重點整理，非產品實拍。</text>
 
   <rect x="68" y="155" width="492" height="430" rx="20" fill="#ffffff" filter="url(#shadow)"/>
-  <rect x="640" y="155" width="492" height="430" rx="20" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="840" y="155" width="492" height="430" rx="20" fill="#ffffff" filter="url(#shadow)"/>
   <rect x="96" y="185" width="160" height="42" rx="21" fill="#2f7da1"/>
-  <rect x="668" y="185" width="160" height="42" rx="21" fill="#4f8b5f"/>
+  <rect x="868" y="185" width="160" height="42" rx="21" fill="#4f8b5f"/>
   <text x="116" y="214" class="pill">方案 A</text>
-  <text x="688" y="214" class="pill">方案 B</text>
+  <text x="888" y="214" class="pill">方案 B</text>
   <text x="96" y="270" class="label">VMI M600</text>
-  <text x="668" y="270" class="label">65 型 4K QLED 電視</text>
+  <text x="868" y="270" class="label">65 型 4K QLED 電視</text>
   <circle cx="485" cy="248" r="44" fill="#2f7da1" opacity="0.16"/>
-  <circle cx="1058" cy="248" r="44" fill="#4f8b5f" opacity="0.16"/>
+  <circle cx="1258" cy="248" r="44" fill="#4f8b5f" opacity="0.16"/>
   <path d="M470 248 h30 m-15 -15 v30" stroke="#2f7da1" stroke-width="7" stroke-linecap="round"/>
-  <path d="M1043 248 h30 m-15 -15 v30" stroke="#4f8b5f" stroke-width="7" stroke-linecap="round"/>
+  <path d="M1243 248 h30 m-15 -15 v30" stroke="#4f8b5f" stroke-width="7" stroke-linecap="round"/>
   <text x="96" y="332" class="body" font-size="26">適合：租屋、露營、臨時大畫面、Switch 或手</text>
 <text x="96" y="374" class="body" font-size="26">價格：約 NT$6,480 / 銷量 約 1,000+ 件</text>
 <text x="96" y="416" class="body" font-size="26">賣場名稱主打 Netflix、HDR 真彩、側投、自動對</text>
 <text x="96" y="458" class="body" font-size="26">投影亮度、授權 App、延遲與保固細節需下單前逐項確認；</text>
-  <text x="668" y="332" class="body" font-size="26">適合：客廳固定觀看、白天也要穩定亮度、想要開機即</text>
-<text x="668" y="374" class="body" font-size="26">價格：約 NT$13,000 / 銷量 約 3,000+ 件</text>
-<text x="668" y="416" class="body" font-size="26">賣場名稱標示 65 型、4K、智慧聯網、QLED，並提到</text>
-<text x="668" y="458" class="body" font-size="26">品牌與通路機種的面板、HDR、HDMI、刷新率、系統版本</text>
+  <text x="868" y="332" class="body" font-size="26">適合：客廳固定觀看、白天也要穩定亮度、想要開機即</text>
+<text x="868" y="374" class="body" font-size="26">價格：約 NT$13,000 / 銷量 約 3,000+ 件</text>
+<text x="868" y="416" class="body" font-size="26">賣場名稱標示 65 型、4K、智慧聯網、QLED，並提到</text>
+<text x="868" y="458" class="body" font-size="26">品牌與通路機種的面板、HDR、HDMI、刷新率、系統版本</text>
 
-  <path d="M560 360 C590 330 610 330 640 360" fill="none" stroke="#91a8ba" stroke-width="6" stroke-linecap="round"/>
-  <path d="M624 343 L642 360 L624 377" fill="none" stroke="#91a8ba" stroke-width="6" stroke-linecap="round"/>
-  <rect x="112" y="610" width="976" height="56" rx="28" fill="#17324d"/>
+  <path d="M560 360 C650 330 750 330 840 360" fill="none" stroke="#91a8ba" stroke-width="6" stroke-linecap="round"/>
+  <path d="M824 343 L842 360 L824 377" fill="none" stroke="#91a8ba" stroke-width="6" stroke-linecap="round"/>
+  <rect x="112" y="610" width="1176" height="56" rx="28" fill="#17324d"/>
   <text x="150" y="647" class="pill">判斷順序：先看空間與需求，再看功能，最後才看價格與促銷。</text>
 </svg>

@@ -1,15 +1,15 @@
 {
   "siteName": "GoodStuff",
-  "version": "2026-05-17-001",
+  "version": "2026-05-19-001",
   "hero": {
     "titlePrefix": "找到值得研究的好物，",
     "titleHighlight": "用資料做出更好選擇。",
     "searchPlaceholders": [
       "Dyson",
       "除濕機",
-      "OpenClaw",
+      "店鋪推薦",
       "日本股票",
-      "店鋪比較"
+      "商品比較"
     ],
     "founder": {
       "quote": "這裡收錄可被更新、查找、重組的好物指南：",
@@ -20,6 +20,6 @@
   },
   "library": {
     "title": "Featured Collections",
-    "subtitle": "內容由 public/content 裡的 JSON 與 Markdown 即時驅動。"
+    "subtitle": "精選商品比較、店鋪推薦與實用選購指南。"
   }
 }

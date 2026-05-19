@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="675" viewBox="0 0 1400 675" role="img" aria-labelledby="title desc">
   <title id="title">Dyson BP04 與 Dyson HushJet 濾網與氣流比較示意圖</title>
   <desc id="desc">自製插圖，比較 BP04 的 HEPA、K-Carbon、SCO 濾網與 HushJet 的 360 度靜電濾網、活性碳濾網。</desc>
-  <rect width="1200" height="675" fill="#fbfcf7"/>
-  <text x="600" y="70" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="38" font-weight="700" fill="#19364d">濾網與氣流：功能差異不是只有大小</text>
+  <rect width="1400" height="675" fill="#fbfcf7"/>
+  <text x="700" y="70" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="38" font-weight="700" fill="#19364d">濾網與氣流：功能差異不是只有大小</text>
   <g transform="translate(90 126)">
     <rect width="480" height="445" rx="28" fill="#ffffff" stroke="#d5dde5"/>
     <text x="240" y="54" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="30" font-weight="700" fill="#1f4d72">BP04</text>
@@ -16,7 +16,7 @@
     <path d="M72 394 C150 338, 330 338, 408 394" fill="none" stroke="#75b6d5" stroke-width="12" stroke-linecap="round" opacity="0.7"/>
     <text x="240" y="425" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="20" fill="#334e5f">適合長時間處理大空間複合污染</text>
   </g>
-  <g transform="translate(630 126)">
+  <g transform="translate(830 126)">
     <rect width="480" height="445" rx="28" fill="#ffffff" stroke="#d5dde5"/>
     <text x="240" y="54" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="30" font-weight="700" fill="#1f4d72">HushJet HJ10</text>
     <text x="240" y="88" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="18" fill="#61727f">小型濾網與安靜維持空氣品質</text>
@@ -28,5 +28,5 @@
     <path d="M126 390 C188 350, 292 350, 354 390" fill="none" stroke="#7fd0d8" stroke-width="10" stroke-linecap="round" opacity="0.74"/>
     <text x="240" y="425" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="20" fill="#334e5f">適合房間、書房、床邊低噪使用</text>
   </g>
-  <text x="600" y="626" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="19" fill="#687983">自製資訊圖；依 Dyson 官方濾網說明、RTINGS 測試與公開評測整理。</text>
+  <text x="700" y="626" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="19" fill="#687983">自製資訊圖；依 Dyson 官方濾網說明、RTINGS 測試與公開評測整理。</text>
 </svg>

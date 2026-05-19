@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="720" viewBox="0 0 1400 720" role="img" aria-labelledby="title desc">
   <title id="title">Panasonic 11L vs HITACHI 8L 除濕機：安全功能與小容量節電怎麼選：使用場景地圖</title>
   <desc id="desc">自製功能說明 SVG，依官方規格、公開評測與討論重點整理，非產品實拍。</desc>
   <defs>
@@ -17,33 +17,33 @@
     .small { font: 500 20px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #48667d; }
     .pill { font: 700 20px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #ffffff; }
   </style>
-  <rect width="1200" height="720" rx="0" fill="url(#bg)"/>
+  <rect width="1400" height="720" rx="0" fill="url(#bg)"/>
   <text x="64" y="70" class="title">Panasonic 11L vs HITACHI 8L 除濕機：安全功能與小容量節電怎麼選：使用場景地圖</text>
   <text x="66" y="112" class="small">自製功能說明 SVG，依官方規格、公開評測與討論重點整理，非產品實拍。</text>
 
   <rect x="68" y="155" width="492" height="430" rx="20" fill="#ffffff" filter="url(#shadow)"/>
-  <rect x="640" y="155" width="492" height="430" rx="20" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="840" y="155" width="492" height="430" rx="20" fill="#ffffff" filter="url(#shadow)"/>
   <rect x="96" y="185" width="160" height="42" rx="21" fill="#5368a6"/>
-  <rect x="668" y="185" width="160" height="42" rx="21" fill="#b16d45"/>
+  <rect x="868" y="185" width="160" height="42" rx="21" fill="#b16d45"/>
   <text x="116" y="214" class="pill">方案 A</text>
-  <text x="688" y="214" class="pill">方案 B</text>
+  <text x="888" y="214" class="pill">方案 B</text>
   <text x="96" y="270" class="label">Panasonic F-Y22PN 11L</text>
-  <text x="668" y="270" class="label">HITACHI RD-16FR1 8L</text>
+  <text x="868" y="270" class="label">HITACHI RD-16FR1 8L</text>
   <circle cx="485" cy="248" r="44" fill="#5368a6" opacity="0.16"/>
-  <circle cx="1058" cy="248" r="44" fill="#b16d45" opacity="0.16"/>
+  <circle cx="1258" cy="248" r="44" fill="#b16d45" opacity="0.16"/>
   <path d="M470 248 h30 m-15 -15 v30" stroke="#5368a6" stroke-width="7" stroke-linecap="round"/>
-  <path d="M1043 248 h30 m-15 -15 v30" stroke="#b16d45" stroke-width="7" stroke-linecap="round"/>
+  <path d="M1243 248 h30 m-15 -15 v30" stroke="#b16d45" stroke-width="7" stroke-linecap="round"/>
   <text x="96" y="332" class="body" font-size="26">適合：想要台灣常見 11L、nanoeX、ECO</text>
 <text x="96" y="374" class="body" font-size="26">價格：約 NT$8,800 / 銷量 約 1,000+ 件</text>
 <text x="96" y="416" class="body" font-size="26">Panasonic 官方頁標示 27°C/RH60% 除</text>
 <text x="96" y="458" class="body" font-size="26">它不是最大公升數機型，若家裡濕度很高或乾衣量大，11L </text>
-  <text x="668" y="332" class="body" font-size="26">適合：小房間、浴室旁、地下室角落或需要基本乾衣模</text>
-<text x="668" y="374" class="body" font-size="26">價格：約 NT$6,503 / 銷量 約 227 件</text>
-<text x="668" y="416" class="body" font-size="26">通路頁標示 RD-16FR1 除濕能力 8 L/日，適用</text>
-<text x="668" y="458" class="body" font-size="26">能源等級在不同通路與新舊標示可能有差異，購買前應以當期能</text>
+  <text x="868" y="332" class="body" font-size="26">適合：小房間、浴室旁、地下室角落或需要基本乾衣模</text>
+<text x="868" y="374" class="body" font-size="26">價格：約 NT$6,503 / 銷量 約 227 件</text>
+<text x="868" y="416" class="body" font-size="26">通路頁標示 RD-16FR1 除濕能力 8 L/日，適用</text>
+<text x="868" y="458" class="body" font-size="26">能源等級在不同通路與新舊標示可能有差異，購買前應以當期能</text>
 
-  <path d="M560 360 C590 330 610 330 640 360" fill="none" stroke="#91a8ba" stroke-width="6" stroke-linecap="round"/>
-  <path d="M624 343 L642 360 L624 377" fill="none" stroke="#91a8ba" stroke-width="6" stroke-linecap="round"/>
-  <rect x="112" y="610" width="976" height="56" rx="28" fill="#17324d"/>
+  <path d="M560 360 C650 330 750 330 840 360" fill="none" stroke="#91a8ba" stroke-width="6" stroke-linecap="round"/>
+  <path d="M824 343 L842 360 L824 377" fill="none" stroke="#91a8ba" stroke-width="6" stroke-linecap="round"/>
+  <rect x="112" y="610" width="1176" height="56" rx="28" fill="#17324d"/>
   <text x="150" y="647" class="pill">判斷順序：先看空間與需求，再看功能，最後才看價格與促銷。</text>
 </svg>

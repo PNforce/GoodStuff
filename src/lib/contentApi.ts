@@ -124,7 +124,7 @@ export function normalizeSiteContent(value: unknown): SiteContent {
   };
 
   if (site.hero.searchPlaceholders.length === 0) {
-    site.hero.searchPlaceholders = ['Dyson', '除濕機', 'OpenClaw'];
+    site.hero.searchPlaceholders = ['Dyson', '除濕機', '店鋪推薦'];
   }
 
   return site;

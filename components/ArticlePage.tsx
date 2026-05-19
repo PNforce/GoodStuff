@@ -1,6 +1,7 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import { ArrowLeft, ArrowRight } from 'lucide-react';
 import {
   fetchMarkdown,
@@ -145,6 +146,7 @@ const ChapterView: React.FC<{
 
         <div className="mt-10 text-slate-700">
           <ReactMarkdown
+            remarkPlugins={[remarkGfm]}
             components={{
               h1: ({ children }) => <h2 className="mt-10 font-serif text-3xl font-bold text-slate-900">{children}</h2>,
               h2: ({ children }) => <h2 className="mt-10 font-serif text-2xl font-bold text-slate-900">{children}</h2>,
@@ -177,6 +179,20 @@ const ChapterView: React.FC<{
               ),
               pre: ({ children }) => (
                 <pre className="mt-6 overflow-x-auto rounded-lg bg-slate-950 p-5 text-sm leading-7 text-slate-100">{children}</pre>
+              ),
+              table: ({ children }) => (
+                <div className="mt-8 overflow-x-auto rounded-lg border border-slate-200 shadow-sm">
+                  <table className="min-w-full border-collapse bg-white text-left text-sm leading-6">{children}</table>
+                </div>
+              ),
+              thead: ({ children }) => <thead className="bg-slate-900 text-white">{children}</thead>,
+              tbody: ({ children }) => <tbody className="divide-y divide-slate-200">{children}</tbody>,
+              tr: ({ children }) => <tr className="align-top">{children}</tr>,
+              th: ({ children }) => (
+                <th className="min-w-40 px-4 py-3 font-semibold">{children}</th>
+              ),
+              td: ({ children }) => (
+                <td className="min-w-40 px-4 py-3 text-slate-700">{children}</td>
               ),
             }}
           >

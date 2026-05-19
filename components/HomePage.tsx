@@ -1,69 +1,11 @@
 import React, { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
-import {
-  Search,
-  ArrowRight,
-} from 'lucide-react';
 import BookCard from './BookCard.tsx';
 import { loadHomeContent } from '../src/lib/contentApi.ts';
 import { setPageMeta } from '../src/lib/seo.ts';
 import type { CatalogBook, CatalogContent, HomeContent, SiteContent } from '../src/types/index.ts';
 
-const AnimatedPlaceholder: React.FC<{ placeholders: string[] }> = ({ placeholders }) => {
-  const [index, setIndex] = useState(0);
-  const [subIndex, setSubIndex] = useState(0);
-  const [reverse, setReverse] = useState(false);
-  const [blink, setBlink] = useState(true);
-
-  useEffect(() => {
-    const timeout = setTimeout(() => setBlink((prev) => !prev), 500);
-    return () => clearTimeout(timeout);
-  }, [blink]);
-
-  useEffect(() => {
-    if (placeholders.length === 0) {
-      return;
-    }
-
-    if (index >= placeholders.length) {
-      setIndex(0);
-      return;
-    }
-
-    if (subIndex === placeholders[index].length + 1 && !reverse) {
-      const timeout = setTimeout(() => setReverse(true), 1000);
-      return () => clearTimeout(timeout);
-    }
-
-    if (subIndex === 0 && reverse) {
-      setReverse(false);
-      setIndex((prev) => (prev + 1) % placeholders.length);
-      return;
-    }
-
-    const timeout = setTimeout(() => {
-      setSubIndex((prev) => prev + (reverse ? -1 : 1));
-    }, reverse ? 75 : 150);
-
-    return () => clearTimeout(timeout);
-  }, [subIndex, index, reverse, placeholders]);
-
-  return (
-    <span className="pointer-events-none absolute left-14 top-1/2 hidden -translate-y-1/2 text-lg text-slate-400 sm:block">
-      搜尋資料、比較、關鍵字：
-      <span className="font-medium text-slate-600">
-        {(placeholders[index] ?? '').substring(0, subIndex)}
-      </span>
-      <span className={`${blink ? 'opacity-100' : 'opacity-0'} ml-0.5 inline-block h-5 border-r-2 border-slate-400 align-middle`} />
-    </span>
-  );
-};
-
-const HeroSection: React.FC<{
-  site: SiteContent;
-  query: string;
-  onQueryChange: (value: string) => void;
-}> = ({ site, query, onQueryChange }) => {
+const HeroSection: React.FC<{ site: SiteContent }> = ({ site }) => {
   const { hero } = site;
 
   return (
@@ -87,25 +29,6 @@ const HeroSection: React.FC<{
             </span>
           </h1>
 
-          <div className="group relative mx-auto w-full max-w-2xl lg:mx-0">
-            <div className="absolute -inset-1 rounded-full bg-gradient-to-r from-slate-200 to-slate-100 opacity-40 blur transition duration-200 group-hover:opacity-75" />
-            <div className="relative flex h-16 items-center rounded-full border border-slate-100 bg-white p-2 shadow-2xl md:h-20">
-              <div className="pl-6 text-slate-400">
-                <Search className="h-6 w-6" />
-              </div>
-              <input
-                type="text"
-                value={query}
-                onChange={(event) => onQueryChange(event.target.value)}
-                className="z-10 h-full w-full border-none bg-transparent pl-4 text-lg text-slate-900 outline-none placeholder:text-slate-400 sm:placeholder-transparent"
-                placeholder="Search content"
-              />
-              {!query && <AnimatedPlaceholder placeholders={hero.searchPlaceholders} />}
-              <button className="flex h-full items-center gap-2 rounded-full bg-slate-900 px-6 font-medium text-white transition-colors hover:bg-slate-800 md:px-8">
-                Search <ArrowRight className="h-4 w-4" />
-              </button>
-            </div>
-          </div>
         </motion.div>
 
         <motion.div
@@ -176,7 +99,7 @@ const LibrarySection: React.FC<{
           </div>
         ) : (
           <div className="rounded-lg border border-dashed border-slate-300 bg-white p-10 text-center text-slate-500">
-            目前沒有已發布內容，請檢查 <code className="rounded bg-slate-100 px-1.5 py-0.5">public/content/catalog.json</code>。
+            目前沒有已發布內容。
           </div>
         )}
       </div>
@@ -187,7 +110,6 @@ const LibrarySection: React.FC<{
 const HomePage: React.FC = () => {
   const [content, setContent] = useState<HomeContent | null>(null);
   const [error, setError] = useState('');
-  const [query, setQuery] = useState('');
 
   useEffect(() => {
     const controller = new AbortController();
@@ -236,19 +158,10 @@ const HomePage: React.FC = () => {
     );
   }
 
-  const normalizedQuery = query.trim().toLowerCase();
-  const filteredBooks = normalizedQuery
-    ? content.books.filter((book) =>
-        [book.title, book.summary, book.category].some((value) =>
-          value.toLowerCase().includes(normalizedQuery),
-        ),
-      )
-    : content.books;
-
   return (
     <main className="min-h-screen w-full bg-white">
-      <HeroSection site={content.site} query={query} onQueryChange={setQuery} />
-      <LibrarySection site={content.site} catalog={content.catalog} books={filteredBooks} />
+      <HeroSection site={content.site} />
+      <LibrarySection site={content.site} catalog={content.catalog} books={content.books} />
     </main>
   );
 };

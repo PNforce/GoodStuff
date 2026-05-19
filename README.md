@@ -9,7 +9,7 @@ https://pnforce.github.io/GoodStuff/
 ## What This Site Contains
 
 - Product comparison articles and buying notes
-- Research-style collections such as OpenClaw generated content
+- Store and product recommendation collections
 - Markdown chapters and JSON catalog data that can be updated without rewriting the app
 - Static pages published through GitHub Pages
 
