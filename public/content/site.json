@@ -1,0 +1,25 @@
+{
+  "siteName": "GoodStuff",
+  "version": "2026-05-17-001",
+  "hero": {
+    "titlePrefix": "找到值得研究的好物，",
+    "titleHighlight": "用資料做出更好選擇。",
+    "searchPlaceholders": [
+      "Dyson",
+      "除濕機",
+      "OpenClaw",
+      "日本股票",
+      "店鋪比較"
+    ],
+    "founder": {
+      "quote": "這裡收錄可被更新、查找、重組的好物指南：",
+      "quoteHighlight": "只改資料，不改程式。",
+      "image": "https://picsum.photos/id/64/300/300",
+      "label": "FOUNDER"
+    }
+  },
+  "library": {
+    "title": "Featured Collections",
+    "subtitle": "內容由 public/content 裡的 JSON 與 Markdown 即時驅動。"
+  }
+}

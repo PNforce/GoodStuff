@@ -1,0 +1,171 @@
+{
+  "slug": "affiliate-product-comparisons",
+  "title": "家電與生活商品比較指南",
+  "category": "shopping",
+  "summary": "整理空氣清淨、除濕、吸塵清潔與影音設備的選購比較，協助依照空間、預算與使用頻率判斷。",
+  "cover": "",
+  "updatedAt": "2026-05-18",
+  "affiliateLinks": [],
+  "chapters": [
+    {
+      "slug": "bp04-vs-hushjet",
+      "title": "Dyson BP04 vs Dyson HushJet：大空間旗艦清淨與小房間低噪清淨怎麼選",
+      "summary": "整合官方規格、獨立評測與公開使用者討論，深入比較 Dyson BP04 與 Dyson HushJet HJ10 的空間定位、濾網差異、噪音表現與真實選購取捨。",
+      "md": "/content/books/affiliate-product-comparisons/chapters/001-bp04-vs-hushjet.md",
+      "order": 10,
+      "published": true
+    },
+    {
+      "slug": "bp04-vs-hp11",
+      "title": "Dyson BP04 vs Dyson HP11：大空間旗艦清淨與涼暖三合一怎麼選",
+      "summary": "比較 Dyson BP04 與 HP11 的清淨定位、暖風功能、濾網配置、使用者期待落差與購買取捨。",
+      "md": "/content/books/affiliate-product-comparisons/chapters/002-bp04-vs-hp11.md",
+      "order": 20,
+      "published": true
+    },
+    {
+      "slug": "hushjet-vs-lg-as651",
+      "title": "Dyson HushJet vs LG AS651：小房間低噪與寵物家庭清淨怎麼選",
+      "summary": "從房間大小、寵物毛髮與氣味、低噪需求、濾網設計與公開評測討論比較 HushJet HJ10 和 LG AS651。",
+      "md": "/content/books/affiliate-product-comparisons/chapters/003-hushjet-vs-lg-as651.md",
+      "order": 30,
+      "published": true
+    },
+    {
+      "slug": "lg-as651-vs-lg-as601",
+      "title": "LG AS651 vs LG AS601：寵物版二代 LITE 與大白 Hit 怎麼選",
+      "summary": "比較 LG AS651 寵物功能增加版與 AS601 大白 Hit 的空間定位、濾網訴求、價格差距與使用族群。",
+      "md": "/content/books/affiliate-product-comparisons/chapters/004-lg-as651-vs-lg-as601.md",
+      "order": 40,
+      "published": true
+    },
+    {
+      "slug": "lg-as601-vs-electrolux-ep32",
+      "title": "LG AS601 vs Electrolux EP32：18坪大白與8坪抗敏小機怎麼選",
+      "summary": "從坪數、預算、濾網功能、外型與長期維護比較 LG AS601 和 Electrolux EP32。",
+      "md": "/content/books/affiliate-product-comparisons/chapters/005-lg-as601-vs-electrolux-ep32.md",
+      "order": 50,
+      "published": true
+    },
+    {
+      "slug": "v12s-complete-vs-v12s-origin",
+      "title": "Dyson V12s Complete vs V12s Origin：三主吸頭完整組與精簡濕拖組怎麼選",
+      "summary": "比較 Dyson V12s Complete 與 V12s Origin 的配件差異、Submarine 濕拖定位、價格與適合族群。",
+      "md": "/content/books/affiliate-product-comparisons/chapters/006-v12s-complete-vs-v12s-origin.md",
+      "order": 60,
+      "published": true
+    },
+    {
+      "slug": "v12-detect-vs-digital-slim",
+      "title": "Dyson V12 Detect Slim vs Digital Slim：灰塵偵測科技與輕量預算款怎麼選",
+      "summary": "比較 V12 Detect Slim 與 Digital Slim 的偵測功能、重量、吸力、價格與日常清潔體驗。",
+      "md": "/content/books/affiliate-product-comparisons/chapters/007-v12-detect-vs-digital-slim.md",
+      "order": 70,
+      "published": true
+    },
+    {
+      "slug": "v8-vs-digital-slim",
+      "title": "Dyson V8 Cyclone vs Digital Slim：入門經典與輕量智慧款怎麼選",
+      "summary": "從價格、機身架構、手感、功能新舊與日常維護比較 Dyson V8 Cyclone 和 Digital Slim。",
+      "md": "/content/books/affiliate-product-comparisons/chapters/008-v8-vs-digital-slim.md",
+      "order": 80,
+      "published": true
+    },
+    {
+      "slug": "pencilvac-vs-digital-slim",
+      "title": "Dyson PencilVac vs Digital Slim：硬地快掃與全能輕量吸塵怎麼選",
+      "summary": "比較 PencilVac SV50 和 Digital Slim 的硬地定位、集塵容量、續航、手持能力與適合家庭。",
+      "md": "/content/books/affiliate-product-comparisons/chapters/009-pencilvac-vs-digital-slim.md",
+      "order": 90,
+      "published": true
+    },
+    {
+      "slug": "v12-detect-vs-v8",
+      "title": "Dyson V12 Detect Slim vs V8 Cyclone：智慧偵測與入門價格怎麼選",
+      "summary": "比較 V12 Detect Slim 和 V8 Cyclone 的感測科技、吸力架構、重量、價格與適用清潔習慣。",
+      "md": "/content/books/affiliate-product-comparisons/chapters/010-v12-detect-vs-v8.md",
+      "order": 100,
+      "published": true
+    },
+    {
+      "slug": "lg-18l-vs-lg-16l",
+      "title": "LG 18L vs LG 16L 除濕機：新款大容量與熱銷經典怎麼選",
+      "summary": "比較 LG DD181MWE0 18L 與 MD161QPK3 16L 的除濕量、噪音、功能、價格與銷量口碑。",
+      "md": "/content/books/affiliate-product-comparisons/chapters/011-lg-18l-vs-lg-16l.md",
+      "order": 110,
+      "published": true
+    },
+    {
+      "slug": "lg-18l-vs-lg-12l",
+      "title": "LG 18L vs LG 12L 除濕機：大坪數主力與小家庭中階怎麼選",
+      "summary": "比較 LG DD181MWE0 18L 與 DD121MWE0 12L 的容量、功能、重量、價格與適合空間。",
+      "md": "/content/books/affiliate-product-comparisons/chapters/012-lg-18l-vs-lg-12l.md",
+      "order": 120,
+      "published": true
+    },
+    {
+      "slug": "lg-16l-vs-lg-12l",
+      "title": "LG 16L vs LG 12L 除濕機：熱銷甜蜜點與小空間新款怎麼選",
+      "summary": "比較 LG MD161QPK3 16L 與 DD121MWE0 12L 的價格、銷量、容量、噪音與空間適配。",
+      "md": "/content/books/affiliate-product-comparisons/chapters/013-lg-16l-vs-lg-12l.md",
+      "order": 130,
+      "published": true
+    },
+    {
+      "slug": "panasonic-11l-vs-9l",
+      "title": "Panasonic 11L vs 9L nanoeX 除濕機：14坪與11坪房間機怎麼選",
+      "summary": "比較 Panasonic F-Y22PN 11L 和 F-Y18PN 9L 的除濕量、適用坪數、nanoeX、安全裝置與價格。",
+      "md": "/content/books/affiliate-product-comparisons/chapters/014-panasonic-11l-vs-9l.md",
+      "order": 140,
+      "published": true
+    },
+    {
+      "slug": "panasonic-11l-vs-hitachi-8l",
+      "title": "Panasonic 11L vs HITACHI 8L 除濕機：安全功能與小容量節電怎麼選",
+      "summary": "比較 Panasonic F-Y22PN 11L 與 HITACHI RD-16FR1 8L 的容量、坪數、安全、乾衣模式與價格。",
+      "md": "/content/books/affiliate-product-comparisons/chapters/015-panasonic-11l-vs-hitachi-8l.md",
+      "order": 150,
+      "published": true
+    },
+    {
+      "slug": "panasonic-9l-vs-sharp-6l",
+      "title": "Panasonic 9L vs SHARP 6L mini：小房間除濕與美型迷你機怎麼選",
+      "summary": "比較 Panasonic F-Y18PN 9L 與 SHARP DW-X6NT-W 6L 的容量、體積、噪音、安全與小空間適配。",
+      "md": "/content/books/affiliate-product-comparisons/chapters/016-panasonic-9l-vs-sharp-6l.md",
+      "order": 160,
+      "published": true
+    },
+    {
+      "slug": "xiaomi-vs-electrolux-10l",
+      "title": "Xiaomi 智慧除濕機 vs Electrolux 10L：智慧聯動與清淨除濕怎麼選",
+      "summary": "比較 Xiaomi CSJ0110DM 與 Electrolux ED1031WC 的公升數標示、App、清淨功能、噪音與評價。",
+      "md": "/content/books/affiliate-product-comparisons/chapters/017-xiaomi-vs-electrolux-10l.md",
+      "order": 170,
+      "published": true
+    },
+    {
+      "slug": "hitachi-8l-vs-sharp-6l",
+      "title": "HITACHI 8L vs SHARP 6L mini：小容量務實機與美型安靜機怎麼選",
+      "summary": "比較 HITACHI RD-16FR1 8L 與 SHARP DW-X6NT-W 6L 的公升數、乾衣模式、體積、噪音與價格。",
+      "md": "/content/books/affiliate-product-comparisons/chapters/018-hitachi-8l-vs-sharp-6l.md",
+      "order": 180,
+      "published": true
+    },
+    {
+      "slug": "lg-12l-vs-electrolux-10l",
+      "title": "LG 12L vs Electrolux 10L：新款雙變頻與清淨除濕折衷款怎麼選",
+      "summary": "比較 LG DD121MWE0 12L 與 Electrolux ED1031WC 10L 的容量、Wi-Fi、UVnano、清淨功能與價格。",
+      "md": "/content/books/affiliate-product-comparisons/chapters/019-lg-12l-vs-electrolux-10l.md",
+      "order": 190,
+      "published": true
+    },
+    {
+      "slug": "vmi-m600-vs-qled-tv",
+      "title": "VMI M600 投影機 vs 65型 4K QLED 電視：租屋大畫面與客廳穩定畫質怎麼選",
+      "summary": "比較 VMI M600 投影機與 65 型 4K QLED 電視的使用場景、畫面穩定性、環境光、安裝與長期體驗。",
+      "md": "/content/books/affiliate-product-comparisons/chapters/020-vmi-m600-vs-qled-tv.md",
+      "order": 200,
+      "published": true
+    }
+  ]
+}

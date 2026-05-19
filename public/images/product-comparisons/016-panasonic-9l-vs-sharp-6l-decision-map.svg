@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Panasonic 9L vs SHARP 6L mini：小房間除濕與美型迷你機怎麼選：使用場景地圖</title>
+  <desc id="desc">自製功能說明 SVG，依官方規格、公開評測與討論重點整理，非產品實拍。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f7fbff"/>
+      <stop offset="100%" stop-color="#eef7f4"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#17324d" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+  <style>
+    .title { font: 700 38px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #17324d; }
+    .label { font: 700 28px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #17324d; }
+    .body { font: 500 24px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #25445f; }
+    .small { font: 500 20px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #48667d; }
+    .pill { font: 700 20px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #ffffff; }
+  </style>
+  <rect width="1200" height="720" rx="0" fill="url(#bg)"/>
+  <text x="64" y="70" class="title">Panasonic 9L vs SHARP 6L mini：小房間除濕與美型迷你機怎麼選：使用場景地圖</text>
+  <text x="66" y="112" class="small">自製功能說明 SVG，依官方規格、公開評測與討論重點整理，非產品實拍。</text>
+
+  <rect x="68" y="155" width="492" height="430" rx="20" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="640" y="155" width="492" height="430" rx="20" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="96" y="185" width="160" height="42" rx="21" fill="#2f7da1"/>
+  <rect x="668" y="185" width="160" height="42" rx="21" fill="#4f8b5f"/>
+  <text x="116" y="214" class="pill">方案 A</text>
+  <text x="688" y="214" class="pill">方案 B</text>
+  <text x="96" y="270" class="label">Panasonic F-Y18PN 9L</text>
+  <text x="668" y="270" class="label">SHARP DW-X6NT-W 6L</text>
+  <circle cx="485" cy="248" r="44" fill="#2f7da1" opacity="0.16"/>
+  <circle cx="1058" cy="248" r="44" fill="#4f8b5f" opacity="0.16"/>
+  <path d="M470 248 h30 m-15 -15 v30" stroke="#2f7da1" stroke-width="7" stroke-linecap="round"/>
+  <path d="M1043 248 h30 m-15 -15 v30" stroke="#4f8b5f" stroke-width="7" stroke-linecap="round"/>
+  <text x="96" y="332" class="body" font-size="26">適合：小房間、套房、預算較緊但想保留 nanoe</text>
+<text x="96" y="374" class="body" font-size="26">價格：約 NT$7,838 / 銷量 約 368 件</text>
+<text x="96" y="416" class="body" font-size="26">Panasonic 官方頁標示 27°C/RH60% 除</text>
+<text x="96" y="458" class="body" font-size="26">若拿它處理開放式客廳、連續乾衣或潮濕樓層，除濕速度會受限</text>
+  <text x="668" y="332" class="body" font-size="26">適合：小坪數、外觀優先、想要除濕兼 Plasma</text>
+<text x="668" y="374" class="body" font-size="26">價格：約 NT$6,311 / 銷量 約 595 件</text>
+<text x="668" y="416" class="body" font-size="26">SHARP 官方頁標示 27°C/RH60% 除濕能力 </text>
+<text x="668" y="458" class="body" font-size="26">6L 是明確小容量，對梅雨季大房間或大量乾衣不要期待太快</text>
+
+  <path d="M560 360 C590 330 610 330 640 360" fill="none" stroke="#91a8ba" stroke-width="6" stroke-linecap="round"/>
+  <path d="M624 343 L642 360 L624 377" fill="none" stroke="#91a8ba" stroke-width="6" stroke-linecap="round"/>
+  <rect x="112" y="610" width="976" height="56" rx="28" fill="#17324d"/>
+  <text x="150" y="647" class="pill">判斷順序：先看空間與需求，再看功能，最後才看價格與促銷。</text>
+</svg>

@@ -1,0 +1,28 @@
+{
+  "name": "goodstuff",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "generate:metadata": "node scripts/generate-static-metadata.mjs",
+    "prebuild": "node scripts/generate-static-metadata.mjs",
+    "build": "vite build",
+    "postbuild": "node scripts/copy-spa-fallback.mjs",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react-dom": "^19.2.3",
+    "react-router-dom": "^7.10.1",
+    "framer-motion": "^12.23.26",
+    "react": "^19.2.3",
+    "lucide-react": "^0.561.0",
+    "react-markdown": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

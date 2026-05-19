@@ -1,0 +1,36 @@
+{
+  "slug": "127-jp-stock",
+  "title": "127_jp_stock",
+  "category": "finance",
+  "summary": "以日本股市、產業結構與代表企業為主題的資料驅動內容範例。",
+  "cover": "/images/books/127-jp-stock.jpg",
+  "updatedAt": "2026-05-17",
+  "affiliateLinks": [
+    {
+      "label": "示範購買連結",
+      "url": "https://example.com/affiliate1"
+    },
+    {
+      "label": "示範電子書連結",
+      "url": "https://example.com/ebook1"
+    }
+  ],
+  "chapters": [
+    {
+      "slug": "market-overview",
+      "title": "第一章：日本股票市場概覽",
+      "summary": "從市場結構、產業特性與投資觀察切入。",
+      "md": "/content/books/127-jp-stock/chapters/001-market-overview.md",
+      "order": 10,
+      "published": true
+    },
+    {
+      "slug": "toyota",
+      "title": "第八章：豐田汽車 Toyota",
+      "summary": "以豐田作為日本大型企業分析範例。",
+      "md": "/content/books/127-jp-stock/chapters/002-toyota.md",
+      "order": 20,
+      "published": true
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "version": "2026-05-18-openclaw",
+  "categories": [
+    {
+      "id": "finance",
+      "label": "Finance",
+      "order": 10
+    },
+    {
+      "id": "tech",
+      "label": "Tech",
+      "order": 20
+    },
+    {
+      "id": "life",
+      "label": "Life",
+      "order": 30
+    },
+    {
+      "id": "survival",
+      "label": "Survival",
+      "order": 40
+    },
+    {
+      "id": "shopping",
+      "label": "購物指南",
+      "order": 50
+    },
+    {
+      "id": "uncategorized",
+      "label": "Uncategorized",
+      "order": 999
+    },
+    {
+      "id": "openclaw",
+      "label": "OpenClaw 選品內容",
+      "order": 60
+    }
+  ],
+  "books": [
+    {
+      "slug": "127-jp-stock",
+      "title": "127_jp_stock",
+      "category": "finance",
+      "summary": "日本股票與代表企業的投資觀察範例。這筆資料來自 public/content，而不是 src/data/siteData.ts。",
+      "cover": "/images/books/127-jp-stock.jpg",
+      "bookJson": "/content/books/127-jp-stock/book.json",
+      "published": true,
+      "order": 10,
+      "updatedAt": "2026-05-17"
+    },
+    {
+      "slug": "affiliate-product-comparisons",
+      "title": "家電與生活商品比較指南",
+      "category": "shopping",
+      "summary": "為台灣消費者整理的家電與影音商品比較，聚焦使用情境、價格帶與下單前確認重點。",
+      "cover": "",
+      "bookJson": "/content/books/affiliate-product-comparisons/book.json",
+      "published": true,
+      "order": 20,
+      "updatedAt": "2026-05-18"
+    },
+    {
+      "slug": "openclaw-generated-content",
+      "title": "OpenClaw 店鋪與商品推薦內容",
+      "category": "openclaw",
+      "summary": "整合 public/content/books/openclaw-generated-content 的店鋪比較與推薦文章，獨立成 OpenClaw 選品內容分類。",
+      "cover": "",
+      "bookJson": "/content/books/openclaw-generated-content/book.json",
+      "published": true,
+      "order": 30,
+      "updatedAt": "2026-05-18"
+    }
+  ]
+}

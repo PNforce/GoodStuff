@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">LG 12L vs Electrolux 10L：新款雙變頻與清淨除濕折衷款怎麼選：使用場景地圖</title>
+  <desc id="desc">自製功能說明 SVG，依官方規格、公開評測與討論重點整理，非產品實拍。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f7fbff"/>
+      <stop offset="100%" stop-color="#eef7f4"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#17324d" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+  <style>
+    .title { font: 700 38px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #17324d; }
+    .label { font: 700 28px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #17324d; }
+    .body { font: 500 24px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #25445f; }
+    .small { font: 500 20px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #48667d; }
+    .pill { font: 700 20px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #ffffff; }
+  </style>
+  <rect width="1200" height="720" rx="0" fill="url(#bg)"/>
+  <text x="64" y="70" class="title">LG 12L vs Electrolux 10L：新款雙變頻與清淨除濕折衷款怎麼選：使用場景地圖</text>
+  <text x="66" y="112" class="small">自製功能說明 SVG，依官方規格、公開評測與討論重點整理，非產品實拍。</text>
+
+  <rect x="68" y="155" width="492" height="430" rx="20" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="640" y="155" width="492" height="430" rx="20" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="96" y="185" width="160" height="42" rx="21" fill="#5368a6"/>
+  <rect x="668" y="185" width="160" height="42" rx="21" fill="#b16d45"/>
+  <text x="116" y="214" class="pill">方案 A</text>
+  <text x="688" y="214" class="pill">方案 B</text>
+  <text x="96" y="270" class="label">LG DD121MWE0 12L</text>
+  <text x="668" y="270" class="label">Electrolux ED1031WC 10L</text>
+  <circle cx="485" cy="248" r="44" fill="#5368a6" opacity="0.16"/>
+  <circle cx="1058" cy="248" r="44" fill="#b16d45" opacity="0.16"/>
+  <path d="M470 248 h30 m-15 -15 v30" stroke="#5368a6" stroke-width="7" stroke-linecap="round"/>
+  <path d="M1043 248 h30 m-15 -15 v30" stroke="#b16d45" stroke-width="7" stroke-linecap="round"/>
+  <text x="96" y="332" class="body" font-size="26">適合：房間、套房、小客廳，想要 LG 新款設計但</text>
+<text x="96" y="374" class="body" font-size="26">價格：約 NT$13,000 / 銷量 約 2,000+ 件</text>
+<text x="96" y="416" class="body" font-size="26">LG 官方頁標示 DD121MWE0 為 12 公升白色</text>
+<text x="96" y="458" class="body" font-size="26">12L 對潮濕大客廳或連日乾衣會比較吃力；若常滿水或除很</text>
+  <text x="668" y="332" class="body" font-size="26">適合：想要 10L 除濕加清淨輔助、睡眠模式與簡</text>
+<text x="668" y="374" class="body" font-size="26">價格：約 NT$6,111 / 銷量 約 2,000+ 件</text>
+<text x="668" y="416" class="body" font-size="26">Electrolux 官方頁標示 ED1031WC 為 </text>
+<text x="668" y="458" class="body" font-size="26">清淨功能不等於大型空氣清淨機；若主要問題是 PM2.5 </text>
+
+  <path d="M560 360 C590 330 610 330 640 360" fill="none" stroke="#91a8ba" stroke-width="6" stroke-linecap="round"/>
+  <path d="M624 343 L642 360 L624 377" fill="none" stroke="#91a8ba" stroke-width="6" stroke-linecap="round"/>
+  <rect x="112" y="610" width="976" height="56" rx="28" fill="#17324d"/>
+  <text x="150" y="647" class="pill">判斷順序：先看空間與需求，再看功能，最後才看價格與促銷。</text>
+</svg>
