@@ -150,6 +150,166 @@
       "md": "/content/books/shops-introduce/chapters/018-shops-018.md",
       "order": 180,
       "published": true
+    },
+    {
+      "slug": "shops-019",
+      "title": "Electrolux ZB3324B HEPA 除蟎版無線吸塵器：床墊、毛髮與日常地板清潔選購筆記",
+      "summary": "整理 Electrolux ZB3324B 的 UV 床墊吸頭、HEPA 過濾、毛髮截斷與二合一手持設計，協助需要床墊除蟎與日常清潔的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/019-shops-019.md",
+      "order": 190,
+      "published": true
+    },
+    {
+      "slug": "shops-020",
+      "title": "Whirlpool WM07PW 7公斤直立洗衣機：小家庭、租屋與陽台空間的實用選購筆記",
+      "summary": "整理 Whirlpool WM07PW 的 7 公斤容量、直立式配置、不鏽鋼內槽、6th Sense 與多段洗程，協助小家庭判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/020-shops-020.md",
+      "order": 200,
+      "published": true
+    },
+    {
+      "slug": "shops-021",
+      "title": "Hysure 海說 Q9 除濕清淨機：小空間濕氣、衣櫃旁與臥室角落的選購筆記",
+      "summary": "整理 Hysure Q9 的半導體除濕、空氣清淨輔助定位與小空間使用限制，協助買家判斷是否符合需求。",
+      "md": "/content/books/shops-introduce/chapters/021-shops-021.md",
+      "order": 210,
+      "published": true
+    },
+    {
+      "slug": "shops-022",
+      "title": "Apolnus Ultra S7 空氣清淨機：小坪數、低噪音與免頻繁換濾網需求的選購筆記",
+      "summary": "整理 Apolnus Ultra S7 的奈米級淨化、睡眠噪音、CASR 數值與小空間使用情境，協助讀者保守判斷。",
+      "md": "/content/books/shops-introduce/chapters/022-shops-022.md",
+      "order": 220,
+      "published": true
+    },
+    {
+      "slug": "shops-023",
+      "title": "1Zpresso K-Ultra 手搖磨豆機：手沖、義式入門與高階手磨使用者的選購筆記",
+      "summary": "整理 1Zpresso K-Ultra 的外部調整、折疊把手、磁吸粉杯、研磨範圍與使用限制，協助咖啡玩家判斷是否值得升級。",
+      "md": "/content/books/shops-introduce/chapters/023-shops-023.md",
+      "order": 230,
+      "published": true
+    },
+    {
+      "slug": "shops-024",
+      "title": "Electrolux Well Q6 WQ61-1OGG 無線吸塵器：毛髮、灰塵與輕量日常清潔選購筆記",
+      "summary": "整理 Electrolux Well Q6 WQ61-1OGG 的五重過濾、毛髮截斷、45 分鐘低速續航與適合情境。",
+      "md": "/content/books/shops-introduce/chapters/024-shops-024.md",
+      "order": 240,
+      "published": true
+    },
+    {
+      "slug": "shops-025",
+      "title": "Roborock Q8 Max Pro 掃拖機器人：10,000Pa、LiDAR 導航與防纏繞需求選購筆記",
+      "summary": "整理 Roborock Q8 Max Pro 的 10,000Pa 吸力、雙重防纏繞、LiDAR 導航、APP 控制與購買前注意事項。",
+      "md": "/content/books/shops-introduce/chapters/025-shops-025.md",
+      "order": 250,
+      "published": true
+    },
+    {
+      "slug": "shops-026",
+      "title": "K200 三代 4K 國民投影機：租屋、臥室與入門大畫面娛樂選購筆記",
+      "summary": "整理 K200 投影機的入門大畫面定位、4K 解碼說法、應用程式使用注意事項與投影環境判斷。",
+      "md": "/content/books/shops-introduce/chapters/026-shops-026.md",
+      "order": 260,
+      "published": true
+    },
+    {
+      "slug": "shops-027",
+      "title": "Esense LED 超明亮護眼檯燈：讀書、辦公與長時間桌面照明選購筆記",
+      "summary": "整理 Esense LED 護眼檯燈的高演色性、多段色溫、旋鈕調光、定時與桌面使用情境。",
+      "md": "/content/books/shops-introduce/chapters/027-shops-027.md",
+      "order": 270,
+      "published": true
+    },
+    {
+      "slug": "shops-028",
+      "title": "Hysure Polo 空氣清淨除濕機：小房間、衣櫃旁與局部濕氣管理選購筆記",
+      "summary": "整理 Hysure Polo 的半導體除濕定位、清淨功能限制、小空間使用方式與購買前確認重點。",
+      "md": "/content/books/shops-introduce/chapters/028-shops-028.md",
+      "order": 280,
+      "published": true
+    },
+    {
+      "slug": "shops-029",
+      "title": "recolte Cordless Bonne RCP-7 無線萬用調理機：備料、絞碎與小家庭料理選購筆記",
+      "summary": "整理 recolte Cordless Bonne RCP-7 的無線設計、8 種料理用途、玻璃杯與充電限制，協助小家庭判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/029-shops-029.md",
+      "order": 290,
+      "published": true
+    },
+    {
+      "slug": "shops-030",
+      "title": "Electrolux ZB3302AK HEPA 進化版無線吸塵器：日常地板與床墊配件選購筆記",
+      "summary": "整理 Electrolux ZB3302AK 的二合一設計、42 分鐘續航、毛髮截斷、零糾結床墊吸頭與價格定位。",
+      "md": "/content/books/shops-introduce/chapters/030-shops-030.md",
+      "order": 300,
+      "published": true
+    },
+    {
+      "slug": "shops-031",
+      "title": "1Zpresso ZP6 Special 手搖磨豆機：手沖清晰度、風味層次與非義式玩家選購筆記",
+      "summary": "整理 1Zpresso ZP6 Special 的手沖取向、90 格外部調整、48mm 六角刀盤與不適合高階義式的限制。",
+      "md": "/content/books/shops-introduce/chapters/031-shops-031.md",
+      "order": 310,
+      "published": true
+    },
+    {
+      "slug": "shops-032",
+      "title": "HERAN HDH-12DY030(N) 6公升除濕機：臥室、小房間與節能除濕選購筆記",
+      "summary": "整理 HERAN HDH-12DY030(N) 的 6L 日除濕量、2.3L 水箱、新一級能效、乾衣模式與安全保護。",
+      "md": "/content/books/shops-introduce/chapters/032-shops-032.md",
+      "order": 320,
+      "published": true
+    },
+    {
+      "slug": "shops-033",
+      "title": "Jazzy DP-10+ 88鍵折疊電子琴：租屋、初學與可攜練琴選購筆記",
+      "summary": "整理 Jazzy DP-10+ 的 88 鍵折疊設計、音色節奏、藍牙與鋰電池定位，協助初學者判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/033-shops-033.md",
+      "order": 330,
+      "published": true
+    },
+    {
+      "slug": "shops-034",
+      "title": "SANSUI WHITE-A1 高壓織物清潔機：沙發、床墊與布面污漬清潔選購筆記",
+      "summary": "整理 SANSUI WHITE-A1 的 18KPa 吸力、50°C 熱水溶漬、自清潔、雙水箱與布面使用注意事項。",
+      "md": "/content/books/shops-introduce/chapters/034-shops-034.md",
+      "order": 340,
+      "published": true
+    },
+    {
+      "slug": "shops-035",
+      "title": "40吋智慧聯網液晶電視：租屋、小客廳、民宿與預算型大螢幕選購筆記",
+      "summary": "整理 40 吋智慧聯網液晶電視的預算定位、連網應用、解析度確認、保固與使用情境。",
+      "md": "/content/books/shops-introduce/chapters/035-shops-035.md",
+      "order": 350,
+      "published": true
+    },
+    {
+      "slug": "shops-036",
+      "title": "1Zpresso X-Pro S / X-Ultra 手搖磨豆機：中階手沖與多用途咖啡玩家選購筆記",
+      "summary": "整理 1Zpresso X-Pro S / X-Ultra 的外部調整、七芯刀盤、手沖與入門義式使用邊界。",
+      "md": "/content/books/shops-introduce/chapters/036-shops-036.md",
+      "order": 360,
+      "published": true
+    },
+    {
+      "slug": "shops-037",
+      "title": "IRIS OHYAMA SCD-141P 無線吸塵器：輕量、樓梯、車內與小坪數清潔選購筆記",
+      "summary": "整理 IRIS OHYAMA SCD-141P 的 1.3kg 本體、氣旋式分離、35/15 分鐘續航、集塵盒水洗與使用情境。",
+      "md": "/content/books/shops-introduce/chapters/037-shops-037.md",
+      "order": 370,
+      "published": true
+    },
+    {
+      "slug": "shops-038",
+      "title": "SAMPO RE-B020PM 20L 平台式微波爐：小家庭、便當加熱與無轉盤清潔選購筆記",
+      "summary": "整理 SAMPO RE-B020PM 的 20L 容量、平台式內腔、700W 微波輸出、5 段火力、7 組自動菜單與兒童安全鎖。",
+      "md": "/content/books/shops-introduce/chapters/038-shops-038.md",
+      "order": 380,
+      "published": true
     }
   ]
 }
