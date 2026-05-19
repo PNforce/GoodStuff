@@ -38,6 +38,38 @@ Do not edit `src/data/siteData.ts` for public content. It is legacy fallback/ref
 - JSON has no comments and no trailing commas.
 - Markdown images use public paths such as `/images/product-comparisons/example.svg`.
 
+## Production Rules
+
+### Product Comparisons
+
+The public route is `/articles/product-comparisons/{chapterSlug}`. Do not reintroduce the old `affiliate-product-comparisons` slug.
+
+- Keep the book slug as `product-comparisons`.
+- Keep all 20 product comparison chapters in `public/content/books/product-comparisons/chapters/`.
+- Each chapter must include an upper `## 購買參考` section before `## 適合誰看這篇`.
+- Product headings under `## 產品重點` must link to their matching purchase URL, for example `### [Product Name](https://...) 重點`.
+- `## 兩款商品快速比較` must remain a GitHub Flavored Markdown table.
+- Keep `remark-gfm` in `components/ArticlePage.tsx` and `package.json` so tables render as styled HTML tables.
+- Keep two self-made SVGs per product comparison article under `/images/product-comparisons/`.
+- Current product comparison SVGs use a widened `1400` canvas/viewBox. Preserve the widened left/right plan spacing; do not return to the older 1200-wide layout.
+
+### Shop Introductions
+
+The public route is `/articles/shops-introduce/{chapterSlug}`. Do not reintroduce the old `openclaw-generated-content` slug or `openclaw-001` chapter format.
+
+- Keep the book slug as `shops-introduce`.
+- Chapter slugs use `shops-001` through `shops-018`; filenames use `001-shops-001.md` style.
+- Under `## 商品介紹`, link product headings when the source article provides a reliable purchase URL.
+- Do not invent purchase URLs when the source article has no reliable link.
+- Public content, metadata, and route data must not contain `OpenClaw` or `openclaw`.
+
+### Covers
+
+The two category thumbnails are required:
+
+- `public/images/books/product-comparisons.svg`
+- `public/images/books/shops-introduce.svg`
+
 ## Deployment
 
 Build with:
