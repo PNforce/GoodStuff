@@ -4,7 +4,7 @@
   "category": "shops",
   "summary": "店鋪比較與推薦文章",
   "cover": "/images/books/shops-introduce.svg",
-  "updatedAt": "2026-05-19",
+  "updatedAt": "2026-05-20",
   "affiliateLinks": [],
   "chapters": [
     {
@@ -309,6 +309,174 @@
       "summary": "整理 SAMPO RE-B020PM 的 20L 容量、平台式內腔、700W 微波輸出、5 段火力、7 組自動菜單與兒童安全鎖。",
       "md": "/content/books/shops-introduce/chapters/038-shops-038.md",
       "order": 380,
+      "published": true
+    },
+    {
+      "slug": "shops-039",
+      "title": "AKN 手搖升降移動電視支架：客廳、會議室與租屋彈性擺放選購筆記",
+      "summary": "整理 AKN 手搖升降移動電視支架 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助需要把電視或大型螢幕移動到不同位置的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/039-shops-039.md",
+      "order": 390,
+      "published": true
+    },
+    {
+      "slug": "shops-040",
+      "title": "BRUNO BOE076 手持蒸氣掛燙機：上班族、旅行與日常快速除皺選購筆記",
+      "summary": "整理 BRUNO BOE076 手持蒸氣掛燙機 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助需要快速整理襯衫、外套、洋裝與旅行衣物的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/040-shops-040.md",
+      "order": 400,
+      "published": true
+    },
+    {
+      "slug": "shops-041",
+      "title": "Xiaomi 空氣淨化器 4 Lite：小家庭、臥室與客廳空氣清淨選購筆記",
+      "summary": "整理 Xiaomi 空氣淨化器 4 Lite 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想用中階預算改善室內灰塵、異味與空氣循環的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/041-shops-041.md",
+      "order": 410,
+      "published": true
+    },
+    {
+      "slug": "shops-042",
+      "title": "2025 升級款窗戶排風扇：浴室、廚房與窗邊換氣選購筆記",
+      "summary": "整理 2025 升級款窗戶排風扇 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想改善悶熱、濕氣、油煙或廁所異味的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/042-shops-042.md",
+      "order": 420,
+      "published": true
+    },
+    {
+      "slug": "shops-043",
+      "title": "Future Lab PrimeZone GC2 光能清淨機 2.0：車內、小房間與桌邊空氣清淨選購筆記",
+      "summary": "整理 Future Lab PrimeZone GC2 光能清淨機 2.0 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想要小型清淨設備、重視異味與局部空氣品質的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/043-shops-043.md",
+      "order": 430,
+      "published": true
+    },
+    {
+      "slug": "shops-044",
+      "title": "Future Lab Midizon 衛浴殺菌除濕機：浴室、櫃內與潮濕角落管理選購筆記",
+      "summary": "整理 Future Lab Midizon 衛浴殺菌除濕機 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想改善衛浴潮濕、異味、霉味與小空間除濕的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/044-shops-044.md",
+      "order": 440,
+      "published": true
+    },
+    {
+      "slug": "shops-045",
+      "title": "SANSUI GRA360+NF100 小植淨除濕器：衣櫃、鞋櫃與局部防潮除味選購筆記",
+      "summary": "整理 SANSUI GRA360+NF100 小植淨除濕器 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助需要處理櫃內潮氣、鞋櫃味道與小空間防霉的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/045-shops-045.md",
+      "order": 450,
+      "published": true
+    },
+    {
+      "slug": "shops-046",
+      "title": "SONGH 松禾全鋼破壁豆漿機：豆漿、輔食與小家庭料理選購筆記",
+      "summary": "整理 SONGH 松禾全鋼破壁豆漿機 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想在家製作豆漿、濃湯、輔食與果汁的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/046-shops-046.md",
+      "order": 460,
+      "published": true
+    },
+    {
+      "slug": "shops-047",
+      "title": "酒精大亨 The Drunk Land 桌遊：聚會、派對與朋友破冰遊戲選購筆記",
+      "summary": "整理 酒精大亨 The Drunk Land 桌遊 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想找聚會互動、派對破冰或成人桌遊的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/047-shops-047.md",
+      "order": 470,
+      "published": true
+    },
+    {
+      "slug": "shops-048",
+      "title": "大同 TAC-10L-MCW 10人份蘋果白電鍋：家庭煮飯、蒸煮與日常備餐選購筆記",
+      "summary": "整理 大同 TAC-10L-MCW 10人份蘋果白電鍋 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想買穩定電鍋、需要 10 人份容量與簡單操作的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/048-shops-048.md",
+      "order": 480,
+      "published": true
+    },
+    {
+      "slug": "shops-049",
+      "title": "日本松禾多功能冷熱破壁調理機：豆漿、果汁、輔食與熱飲料理選購筆記",
+      "summary": "整理 日本松禾多功能冷熱破壁調理機 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想一台處理冷打、熱打、豆漿與蔬果料理的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/049-shops-049.md",
+      "order": 490,
+      "published": true
+    },
+    {
+      "slug": "shops-050",
+      "title": "CoinPick 零錢取用器：零錢分類、桌面收納與 3D 列印小物選購筆記",
+      "summary": "整理 CoinPick 零錢取用器 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想整理硬幣、零錢盒或櫃台找零流程的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/050-shops-050.md",
+      "order": 500,
+      "published": true
+    },
+    {
+      "slug": "shops-051",
+      "title": "兆基電子 32吋智慧聯網液晶電視：租屋、臥室與預算型小螢幕選購筆記",
+      "summary": "整理 兆基電子 32吋智慧聯網液晶電視 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想用較低預算買 32 吋智慧連網電視的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/051-shops-051.md",
+      "order": 510,
+      "published": true
+    },
+    {
+      "slug": "shops-052",
+      "title": "兆基電子 32吋 FHD 液晶電視：小房間、監看螢幕與預算型電視選購筆記",
+      "summary": "整理 兆基電子 32吋 FHD 液晶電視 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助需要 32 吋基本螢幕、重視價格與保固的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/052-shops-052.md",
+      "order": 520,
+      "published": true
+    },
+    {
+      "slug": "shops-053",
+      "title": "Whirlpool MWP201EBT Coloris 20L 微波爐：租屋、小家庭與便當加熱選購筆記",
+      "summary": "整理 Whirlpool MWP201EBT Coloris 20L 微波爐 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想買 20L 微波爐、重視外型與日常加熱的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/053-shops-053.md",
+      "order": 530,
+      "published": true
+    },
+    {
+      "slug": "shops-054",
+      "title": "Hysure George 小型空氣清淨除濕機：浴室、小房間與局部濕氣管理選購筆記",
+      "summary": "整理 Hysure George 小型空氣清淨除濕機 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助需要小型除濕、浴室防潮或局部空氣清淨的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/054-shops-054.md",
+      "order": 540,
+      "published": true
+    },
+    {
+      "slug": "shops-055",
+      "title": "多功能多段數桌上型電暖器：桌邊、露營與小範圍取暖選購筆記",
+      "summary": "整理 多功能多段數桌上型電暖器 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助需要局部暖風、桌邊取暖或短時間輔助加熱的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/055-shops-055.md",
+      "order": 550,
+      "published": true
+    },
+    {
+      "slug": "shops-056",
+      "title": "Future Lab GC2 光能清淨機 2.0：車用、小空間與局部空氣品質選購筆記",
+      "summary": "整理 Future Lab GC2 光能清淨機 2.0 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想處理車內、桌邊或小坪數空氣異味的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/056-shops-056.md",
+      "order": 560,
+      "published": true
+    },
+    {
+      "slug": "shops-057",
+      "title": "SAMPO RE-C020PR 20L 機械式平台微波爐：簡單加熱、長輩使用與好清潔平台式設計選購筆記",
+      "summary": "整理 SAMPO RE-C020PR 20L 機械式平台微波爐 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想要旋鈕操作、20L 容量與平台式好清潔微波爐的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/057-shops-057.md",
+      "order": 570,
+      "published": true
+    },
+    {
+      "slug": "shops-058",
+      "title": "Future Lab AbsolutePure A1+ 超濾直飲濾水器：租屋、免安裝與桌上型飲水過濾選購筆記",
+      "summary": "整理 Future Lab AbsolutePure A1+ 超濾直飲濾水器 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想改善飲用水口感、又不方便安裝廚下濾水器的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/058-shops-058.md",
+      "order": 580,
+      "published": true
+    },
+    {
+      "slug": "shops-059",
+      "title": "KINYO TRFP 3in1 雙電壓旅行鍋：旅行、宿舍與小份量簡單料理選購筆記",
+      "summary": "整理 KINYO TRFP 3in1 雙電壓旅行鍋 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助需要可折疊、雙電壓、小容量旅行鍋的人判斷是否適合。",
+      "md": "/content/books/shops-introduce/chapters/059-shops-059.md",
+      "order": 590,
       "published": true
     }
   ]
