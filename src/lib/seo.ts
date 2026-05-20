@@ -1,3 +1,4 @@
+import { trackPageView } from './analytics.ts';
 const DEFAULT_SITE_URL = 'https://PNforce.github.io/GoodStuff/';
 
 type MetaKey = 'name' | 'property';
@@ -55,4 +56,5 @@ export const setPageMeta = ({ title, description, path, type = 'website' }: Page
   upsertMeta('property', 'og:title', title);
   upsertMeta('property', 'og:description', cleanDescription);
   upsertMeta('property', 'og:url', canonical);
+  trackPageView(path, title);
 };

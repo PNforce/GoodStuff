@@ -8,6 +8,7 @@ import {
   loadBookRouteContent,
   versionedAssetPath,
 } from '../src/lib/contentApi.ts';
+import { trackAffiliateClick } from '../src/lib/analytics.ts';
 import { setPageMeta } from '../src/lib/seo.ts';
 import type { BookContent, CatalogBook, CatalogContent, ChapterContent } from '../src/types/index.ts';
 
@@ -130,6 +131,21 @@ const ChapterView: React.FC<{
   const previous = chapterIndex > 0 ? chapters[chapterIndex - 1] : undefined;
   const next = chapterIndex >= 0 && chapterIndex < chapters.length - 1 ? chapters[chapterIndex + 1] : undefined;
   const assetVersion = book.updatedAt || catalog.version;
+  const textFromChildren = (children: React.ReactNode) => React.Children.toArray(children)
+    .map((child) => (typeof child === 'string' || typeof child === 'number' ? String(child) : ''))
+    .join(' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+  const trackChapterAffiliateClick = (url?: string, label?: React.ReactNode) => {
+    trackAffiliateClick({
+      url,
+      label: typeof label === 'string' ? label : textFromChildren(label),
+      bookSlug: book.slug,
+      bookTitle: book.title,
+      chapterSlug: chapter.slug,
+      chapterTitle: chapter.title,
+    });
+  };
 
   return (
     <main className="min-h-screen bg-white">
@@ -162,6 +178,7 @@ const ChapterView: React.FC<{
                   href={href}
                   target={href?.startsWith('http') ? '_blank' : undefined}
                   rel={href?.startsWith('http') ? 'noreferrer' : undefined}
+                  onClick={() => trackChapterAffiliateClick(href, children)}
                   className="font-semibold text-slate-900 underline decoration-slate-300 underline-offset-4 hover:decoration-slate-900"
                 >
                   {children}
@@ -206,7 +223,13 @@ const ChapterView: React.FC<{
             <ul className="mt-4 space-y-3">
               {book.affiliateLinks.map((link) => (
                 <li key={link.url}>
-                  <a href={link.url} className="font-semibold text-slate-900 underline decoration-slate-300 underline-offset-4" target="_blank" rel="noreferrer">
+                  <a
+                    href={link.url}
+                    onClick={() => trackChapterAffiliateClick(link.url, link.label)}
+                    className="font-semibold text-slate-900 underline decoration-slate-300 underline-offset-4"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     {link.label}
                   </a>
                 </li>

@@ -32,5 +32,6 @@ Operational notes are kept in `docs/`:
 - `docs/human-user-operation.md`
 - `docs/ai-agent-operation.md`
 - `docs/github-pages-deploy.md`
+- `docs/analytics.md`
 
 The production site is built by GitHub Actions and published to GitHub Pages.
