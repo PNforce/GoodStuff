@@ -2,7 +2,9 @@
 
 GoodStuff currently uses Google Analytics 4 Measurement ID `G-49G5GBLQRP`.
 
-The Measurement ID is public by design. It is safe to include in frontend code. If the old GA4 property or web data stream was deleted, create a new GA4 web stream and replace this ID.
+The fixed Google tag is in `index.html`. It sets `send_page_view: false` because this is a React single-page app; route page views are sent manually from `src/lib/analytics.ts` after the page metadata updates.
+
+The Measurement ID is public by design. It is safe to include in frontend code. If the old GA4 property or web data stream was deleted, create a new GA4 web stream and replace this ID. If GA4 shows `G-49G5GBLQR` without the final `P`, treat that as a mismatch and use the full Measurement ID shown in the Google tag snippet: `G-49G5GBLQRP`.
 
 ## What Is Tracked
 

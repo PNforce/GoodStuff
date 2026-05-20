@@ -8,6 +8,7 @@ declare global {
   interface Window {
     dataLayer?: unknown[];
     gtag?: (command: GtagCommand, target: string | Date, params?: Record<string, unknown>) => void;
+    goodstuffAnalyticsReady?: boolean;
   }
 }
 
@@ -37,8 +38,12 @@ export const initAnalytics = () => {
     document.head.appendChild(script);
   }
 
-  window.gtag('js', new Date());
-  window.gtag('config', measurementId, { send_page_view: false });
+  if (!window.goodstuffAnalyticsReady) {
+    window.gtag('js', new Date());
+    window.gtag('config', measurementId, { send_page_view: false });
+    window.goodstuffAnalyticsReady = true;
+  }
+
   initialized = true;
 };
 
