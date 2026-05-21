@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-21-profuct-introduce-split",
+  "version": "2026-05-21-profuct-051-082-expanded",
   "categories": [
     {
       "id": "finance",
@@ -80,7 +80,7 @@
       "slug": "profuct-introduce",
       "title": "單件商品介紹",
       "category": "profuct",
-      "summary": "單件商品的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "summary": "單件商品的產品介紹、適合族群、使用情境、公開銷售訊號與推薦理由。",
       "cover": "/images/books/profuct-introduce.svg",
       "bookJson": "/content/books/profuct-introduce/book.json",
       "published": true,
