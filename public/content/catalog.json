@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-20-shop-product-pages-060-080",
+  "version": "2026-05-21-profuct-introduce-split",
   "categories": [
     {
       "id": "finance",
@@ -32,6 +32,11 @@
       "order": 60
     },
     {
+      "id": "profuct",
+      "label": "單件商品",
+      "order": 70
+    },
+    {
       "id": "uncategorized",
       "label": "Uncategorized",
       "order": 999
@@ -62,14 +67,25 @@
     },
     {
       "slug": "shops-introduce",
-      "title": "店鋪與商品推薦內容",
+      "title": "店鋪介紹",
       "category": "shops",
       "summary": "店鋪比較與推薦文章",
       "cover": "/images/books/shops-introduce.svg",
       "bookJson": "/content/books/shops-introduce/book.json",
       "published": true,
       "order": 30,
-      "updatedAt": "2026-05-20"
+      "updatedAt": "2026-05-21"
+    },
+    {
+      "slug": "profuct-introduce",
+      "title": "單件商品介紹",
+      "category": "profuct",
+      "summary": "單件商品的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "cover": "/images/books/profuct-introduce.svg",
+      "bookJson": "/content/books/profuct-introduce/book.json",
+      "published": true,
+      "order": 40,
+      "updatedAt": "2026-05-21"
     }
   ]
 }

@@ -1,0 +1,667 @@
+{
+  "slug": "profuct-introduce",
+  "title": "單件商品介紹",
+  "category": "profuct",
+  "summary": "單件商品的購買參考、商品圖片、價格、銷售量與選購檢查。",
+  "cover": "/images/books/profuct-introduce.svg",
+  "updatedAt": "2026-05-21",
+  "affiliateLinks": [],
+  "chapters": [
+    {
+      "slug": "profuct-001",
+      "title": "Electrolux ZB3324B HEPA 除蟎版無線吸塵器：床墊、毛髮與日常地板清潔選購筆記",
+      "summary": "整理 Electrolux ZB3324B 的 UV 床墊吸頭、HEPA 過濾、毛髮截斷與二合一手持設計，協助需要床墊除蟎與日常清潔的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/001-profuct-001.md",
+      "order": 10,
+      "published": true
+    },
+    {
+      "slug": "profuct-002",
+      "title": "Whirlpool WM07PW 7公斤直立洗衣機：小家庭、租屋與陽台空間的實用選購筆記",
+      "summary": "整理 Whirlpool WM07PW 的 7 公斤容量、直立式配置、不鏽鋼內槽、6th Sense 與多段洗程，協助小家庭判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/002-profuct-002.md",
+      "order": 20,
+      "published": true
+    },
+    {
+      "slug": "profuct-003",
+      "title": "Hysure 海說 Q9 除濕清淨機：小空間濕氣、衣櫃旁與臥室角落的選購筆記",
+      "summary": "整理 Hysure Q9 的半導體除濕、空氣清淨輔助定位與小空間使用限制，協助買家判斷是否符合需求。",
+      "md": "/content/books/profuct-introduce/chapters/003-profuct-003.md",
+      "order": 30,
+      "published": true
+    },
+    {
+      "slug": "profuct-004",
+      "title": "Apolnus Ultra S7 空氣清淨機：小坪數、低噪音與免頻繁換濾網需求的選購筆記",
+      "summary": "整理 Apolnus Ultra S7 的奈米級淨化、睡眠噪音、CASR 數值與小空間使用情境，協助讀者保守判斷。",
+      "md": "/content/books/profuct-introduce/chapters/004-profuct-004.md",
+      "order": 40,
+      "published": true
+    },
+    {
+      "slug": "profuct-005",
+      "title": "1Zpresso K-Ultra 手搖磨豆機：手沖、義式入門與高階手磨使用者的選購筆記",
+      "summary": "整理 1Zpresso K-Ultra 的外部調整、折疊把手、磁吸粉杯、研磨範圍與使用限制，協助咖啡玩家判斷是否值得升級。",
+      "md": "/content/books/profuct-introduce/chapters/005-profuct-005.md",
+      "order": 50,
+      "published": true
+    },
+    {
+      "slug": "profuct-006",
+      "title": "Electrolux Well Q6 WQ61-1OGG 無線吸塵器：毛髮、灰塵與輕量日常清潔選購筆記",
+      "summary": "整理 Electrolux Well Q6 WQ61-1OGG 的五重過濾、毛髮截斷、45 分鐘低速續航與適合情境。",
+      "md": "/content/books/profuct-introduce/chapters/006-profuct-006.md",
+      "order": 60,
+      "published": true
+    },
+    {
+      "slug": "profuct-007",
+      "title": "Roborock Q8 Max Pro 掃拖機器人：10,000Pa、LiDAR 導航與防纏繞需求選購筆記",
+      "summary": "整理 Roborock Q8 Max Pro 的 10,000Pa 吸力、雙重防纏繞、LiDAR 導航、APP 控制與購買前注意事項。",
+      "md": "/content/books/profuct-introduce/chapters/007-profuct-007.md",
+      "order": 70,
+      "published": true
+    },
+    {
+      "slug": "profuct-008",
+      "title": "K200 三代 4K 國民投影機：租屋、臥室與入門大畫面娛樂選購筆記",
+      "summary": "整理 K200 投影機的入門大畫面定位、4K 解碼說法、應用程式使用注意事項與投影環境判斷。",
+      "md": "/content/books/profuct-introduce/chapters/008-profuct-008.md",
+      "order": 80,
+      "published": true
+    },
+    {
+      "slug": "profuct-009",
+      "title": "Esense LED 超明亮護眼檯燈：讀書、辦公與長時間桌面照明選購筆記",
+      "summary": "整理 Esense LED 護眼檯燈的高演色性、多段色溫、旋鈕調光、定時與桌面使用情境。",
+      "md": "/content/books/profuct-introduce/chapters/009-profuct-009.md",
+      "order": 90,
+      "published": true
+    },
+    {
+      "slug": "profuct-010",
+      "title": "Hysure Polo 空氣清淨除濕機：小房間、衣櫃旁與局部濕氣管理選購筆記",
+      "summary": "整理 Hysure Polo 的半導體除濕定位、清淨功能限制、小空間使用方式與購買前確認重點。",
+      "md": "/content/books/profuct-introduce/chapters/010-profuct-010.md",
+      "order": 100,
+      "published": true
+    },
+    {
+      "slug": "profuct-011",
+      "title": "recolte Cordless Bonne RCP-7 無線萬用調理機：備料、絞碎與小家庭料理選購筆記",
+      "summary": "整理 recolte Cordless Bonne RCP-7 的無線設計、8 種料理用途、玻璃杯與充電限制，協助小家庭判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/011-profuct-011.md",
+      "order": 110,
+      "published": true
+    },
+    {
+      "slug": "profuct-012",
+      "title": "Electrolux ZB3302AK HEPA 進化版無線吸塵器：日常地板與床墊配件選購筆記",
+      "summary": "整理 Electrolux ZB3302AK 的二合一設計、42 分鐘續航、毛髮截斷、零糾結床墊吸頭與價格定位。",
+      "md": "/content/books/profuct-introduce/chapters/012-profuct-012.md",
+      "order": 120,
+      "published": true
+    },
+    {
+      "slug": "profuct-013",
+      "title": "1Zpresso ZP6 Special 手搖磨豆機：手沖清晰度、風味層次與非義式玩家選購筆記",
+      "summary": "整理 1Zpresso ZP6 Special 的手沖取向、90 格外部調整、48mm 六角刀盤與不適合高階義式的限制。",
+      "md": "/content/books/profuct-introduce/chapters/013-profuct-013.md",
+      "order": 130,
+      "published": true
+    },
+    {
+      "slug": "profuct-014",
+      "title": "HERAN HDH-12DY030(N) 6公升除濕機：臥室、小房間與節能除濕選購筆記",
+      "summary": "整理 HERAN HDH-12DY030(N) 的 6L 日除濕量、2.3L 水箱、新一級能效、乾衣模式與安全保護。",
+      "md": "/content/books/profuct-introduce/chapters/014-profuct-014.md",
+      "order": 140,
+      "published": true
+    },
+    {
+      "slug": "profuct-015",
+      "title": "Jazzy DP-10+ 88鍵折疊電子琴：租屋、初學與可攜練琴選購筆記",
+      "summary": "整理 Jazzy DP-10+ 的 88 鍵折疊設計、音色節奏、藍牙與鋰電池定位，協助初學者判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/015-profuct-015.md",
+      "order": 150,
+      "published": true
+    },
+    {
+      "slug": "profuct-016",
+      "title": "SANSUI WHITE-A1 高壓織物清潔機：沙發、床墊與布面污漬清潔選購筆記",
+      "summary": "整理 SANSUI WHITE-A1 的 18KPa 吸力、50°C 熱水溶漬、自清潔、雙水箱與布面使用注意事項。",
+      "md": "/content/books/profuct-introduce/chapters/016-profuct-016.md",
+      "order": 160,
+      "published": true
+    },
+    {
+      "slug": "profuct-017",
+      "title": "40吋智慧聯網液晶電視：租屋、小客廳、民宿與預算型大螢幕選購筆記",
+      "summary": "整理 40 吋智慧聯網液晶電視的預算定位、連網應用、解析度確認、保固與使用情境。",
+      "md": "/content/books/profuct-introduce/chapters/017-profuct-017.md",
+      "order": 170,
+      "published": true
+    },
+    {
+      "slug": "profuct-018",
+      "title": "1Zpresso X-Pro S / X-Ultra 手搖磨豆機：中階手沖與多用途咖啡玩家選購筆記",
+      "summary": "整理 1Zpresso X-Pro S / X-Ultra 的外部調整、七芯刀盤、手沖與入門義式使用邊界。",
+      "md": "/content/books/profuct-introduce/chapters/018-profuct-018.md",
+      "order": 180,
+      "published": true
+    },
+    {
+      "slug": "profuct-019",
+      "title": "IRIS OHYAMA SCD-141P 無線吸塵器：輕量、樓梯、車內與小坪數清潔選購筆記",
+      "summary": "整理 IRIS OHYAMA SCD-141P 的 1.3kg 本體、氣旋式分離、35/15 分鐘續航、集塵盒水洗與使用情境。",
+      "md": "/content/books/profuct-introduce/chapters/019-profuct-019.md",
+      "order": 190,
+      "published": true
+    },
+    {
+      "slug": "profuct-020",
+      "title": "SAMPO RE-B020PM 20L 平台式微波爐：小家庭、便當加熱與無轉盤清潔選購筆記",
+      "summary": "整理 SAMPO RE-B020PM 的 20L 容量、平台式內腔、700W 微波輸出、5 段火力、7 組自動菜單與兒童安全鎖。",
+      "md": "/content/books/profuct-introduce/chapters/020-profuct-020.md",
+      "order": 200,
+      "published": true
+    },
+    {
+      "slug": "profuct-021",
+      "title": "AKN 手搖升降移動電視支架：客廳、會議室與租屋彈性擺放選購筆記",
+      "summary": "整理 AKN 手搖升降移動電視支架 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助需要把電視或大型螢幕移動到不同位置的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/021-profuct-021.md",
+      "order": 210,
+      "published": true
+    },
+    {
+      "slug": "profuct-022",
+      "title": "BRUNO BOE076 手持蒸氣掛燙機：上班族、旅行與日常快速除皺選購筆記",
+      "summary": "整理 BRUNO BOE076 手持蒸氣掛燙機 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助需要快速整理襯衫、外套、洋裝與旅行衣物的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/022-profuct-022.md",
+      "order": 220,
+      "published": true
+    },
+    {
+      "slug": "profuct-023",
+      "title": "Xiaomi 空氣淨化器 4 Lite：小家庭、臥室與客廳空氣清淨選購筆記",
+      "summary": "整理 Xiaomi 空氣淨化器 4 Lite 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想用中階預算改善室內灰塵、異味與空氣循環的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/023-profuct-023.md",
+      "order": 230,
+      "published": true
+    },
+    {
+      "slug": "profuct-024",
+      "title": "2025 升級款窗戶排風扇：浴室、廚房與窗邊換氣選購筆記",
+      "summary": "整理 2025 升級款窗戶排風扇 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想改善悶熱、濕氣、油煙或廁所異味的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/024-profuct-024.md",
+      "order": 240,
+      "published": true
+    },
+    {
+      "slug": "profuct-025",
+      "title": "Future Lab PrimeZone GC2 光能清淨機 2.0：車內、小房間與桌邊空氣清淨選購筆記",
+      "summary": "整理 Future Lab PrimeZone GC2 光能清淨機 2.0 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想要小型清淨設備、重視異味與局部空氣品質的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/025-profuct-025.md",
+      "order": 250,
+      "published": true
+    },
+    {
+      "slug": "profuct-026",
+      "title": "Future Lab Midizon 衛浴殺菌除濕機：浴室、櫃內與潮濕角落管理選購筆記",
+      "summary": "整理 Future Lab Midizon 衛浴殺菌除濕機 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想改善衛浴潮濕、異味、霉味與小空間除濕的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/026-profuct-026.md",
+      "order": 260,
+      "published": true
+    },
+    {
+      "slug": "profuct-027",
+      "title": "SANSUI GRA360+NF100 小植淨除濕器：衣櫃、鞋櫃與局部防潮除味選購筆記",
+      "summary": "整理 SANSUI GRA360+NF100 小植淨除濕器 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助需要處理櫃內潮氣、鞋櫃味道與小空間防霉的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/027-profuct-027.md",
+      "order": 270,
+      "published": true
+    },
+    {
+      "slug": "profuct-028",
+      "title": "SONGH 松禾全鋼破壁豆漿機：豆漿、輔食與小家庭料理選購筆記",
+      "summary": "整理 SONGH 松禾全鋼破壁豆漿機 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想在家製作豆漿、濃湯、輔食與果汁的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/028-profuct-028.md",
+      "order": 280,
+      "published": true
+    },
+    {
+      "slug": "profuct-029",
+      "title": "酒精大亨 The Drunk Land 桌遊：聚會、派對與朋友破冰遊戲選購筆記",
+      "summary": "整理 酒精大亨 The Drunk Land 桌遊 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想找聚會互動、派對破冰或成人桌遊的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/029-profuct-029.md",
+      "order": 290,
+      "published": true
+    },
+    {
+      "slug": "profuct-030",
+      "title": "大同 TAC-10L-MCW 10人份蘋果白電鍋：家庭煮飯、蒸煮與日常備餐選購筆記",
+      "summary": "整理 大同 TAC-10L-MCW 10人份蘋果白電鍋 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想買穩定電鍋、需要 10 人份容量與簡單操作的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/030-profuct-030.md",
+      "order": 300,
+      "published": true
+    },
+    {
+      "slug": "profuct-031",
+      "title": "日本松禾多功能冷熱破壁調理機：豆漿、果汁、輔食與熱飲料理選購筆記",
+      "summary": "整理 日本松禾多功能冷熱破壁調理機 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想一台處理冷打、熱打、豆漿與蔬果料理的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/031-profuct-031.md",
+      "order": 310,
+      "published": true
+    },
+    {
+      "slug": "profuct-032",
+      "title": "CoinPick 零錢取用器：零錢分類、桌面收納與 3D 列印小物選購筆記",
+      "summary": "整理 CoinPick 零錢取用器 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想整理硬幣、零錢盒或櫃台找零流程的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/032-profuct-032.md",
+      "order": 320,
+      "published": true
+    },
+    {
+      "slug": "profuct-033",
+      "title": "兆基電子 32吋智慧聯網液晶電視：租屋、臥室與預算型小螢幕選購筆記",
+      "summary": "整理 兆基電子 32吋智慧聯網液晶電視 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想用較低預算買 32 吋智慧連網電視的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/033-profuct-033.md",
+      "order": 330,
+      "published": true
+    },
+    {
+      "slug": "profuct-034",
+      "title": "兆基電子 32吋 FHD 液晶電視：小房間、監看螢幕與預算型電視選購筆記",
+      "summary": "整理 兆基電子 32吋 FHD 液晶電視 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助需要 32 吋基本螢幕、重視價格與保固的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/034-profuct-034.md",
+      "order": 340,
+      "published": true
+    },
+    {
+      "slug": "profuct-035",
+      "title": "Whirlpool MWP201EBT Coloris 20L 微波爐：租屋、小家庭與便當加熱選購筆記",
+      "summary": "整理 Whirlpool MWP201EBT Coloris 20L 微波爐 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想買 20L 微波爐、重視外型與日常加熱的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/035-profuct-035.md",
+      "order": 350,
+      "published": true
+    },
+    {
+      "slug": "profuct-036",
+      "title": "Hysure George 小型空氣清淨除濕機：浴室、小房間與局部濕氣管理選購筆記",
+      "summary": "整理 Hysure George 小型空氣清淨除濕機 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助需要小型除濕、浴室防潮或局部空氣清淨的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/036-profuct-036.md",
+      "order": 360,
+      "published": true
+    },
+    {
+      "slug": "profuct-037",
+      "title": "多功能多段數桌上型電暖器：桌邊、露營與小範圍取暖選購筆記",
+      "summary": "整理 多功能多段數桌上型電暖器 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助需要局部暖風、桌邊取暖或短時間輔助加熱的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/037-profuct-037.md",
+      "order": 370,
+      "published": true
+    },
+    {
+      "slug": "profuct-038",
+      "title": "Future Lab GC2 光能清淨機 2.0：車用、小空間與局部空氣品質選購筆記",
+      "summary": "整理 Future Lab GC2 光能清淨機 2.0 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想處理車內、桌邊或小坪數空氣異味的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/038-profuct-038.md",
+      "order": 380,
+      "published": true
+    },
+    {
+      "slug": "profuct-039",
+      "title": "SAMPO RE-C020PR 20L 機械式平台微波爐：簡單加熱、長輩使用與好清潔平台式設計選購筆記",
+      "summary": "整理 SAMPO RE-C020PR 20L 機械式平台微波爐 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想要旋鈕操作、20L 容量與平台式好清潔微波爐的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/039-profuct-039.md",
+      "order": 390,
+      "published": true
+    },
+    {
+      "slug": "profuct-040",
+      "title": "Future Lab AbsolutePure A1+ 超濾直飲濾水器：租屋、免安裝與桌上型飲水過濾選購筆記",
+      "summary": "整理 Future Lab AbsolutePure A1+ 超濾直飲濾水器 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想改善飲用水口感、又不方便安裝廚下濾水器的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/040-profuct-040.md",
+      "order": 400,
+      "published": true
+    },
+    {
+      "slug": "profuct-041",
+      "title": "KINYO TRFP 3in1 雙電壓旅行鍋：旅行、宿舍與小份量簡單料理選購筆記",
+      "summary": "整理 KINYO TRFP 3in1 雙電壓旅行鍋 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助需要可折疊、雙電壓、小容量旅行鍋的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/041-profuct-041.md",
+      "order": 410,
+      "published": true
+    },
+    {
+      "slug": "profuct-042",
+      "title": "1:64 迷你遙控漂移車：桌面玩具、親子互動與入門遙控車選購筆記",
+      "summary": "整理 1:64 迷你遙控漂移車 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想找小型遙控車、漂移玩具或桌面娛樂的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/042-profuct-042.md",
+      "order": 420,
+      "published": true
+    },
+    {
+      "slug": "profuct-043",
+      "title": "客製化動畫手搖翻頁相框：生日、婚禮、情侶禮物與照片紀念選購筆記",
+      "summary": "整理 客製化動畫手搖翻頁相框 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想把照片做成客製化禮物、動態相冊或紀念擺件的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/043-profuct-043.md",
+      "order": 430,
+      "published": true
+    },
+    {
+      "slug": "profuct-044",
+      "title": "Whirlpool AKM2064ES 20L 微電腦微波爐：租屋、小家庭與便當加熱選購筆記",
+      "summary": "整理 Whirlpool AKM2064ES 20L 微電腦微波爐 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想買 20L 容量、基本穩定、操作不複雜微波爐的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/044-profuct-044.md",
+      "order": 440,
+      "published": true
+    },
+    {
+      "slug": "profuct-045",
+      "title": "Haier WD301 小海鷗瞬熱式飲水機：泡奶、桌上型熱水與免安裝飲水選購筆記",
+      "summary": "整理 Haier WD301 小海鷗瞬熱式飲水機 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助需要快速出熱水、租屋免安裝或泡奶備水的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/045-profuct-045.md",
+      "order": 450,
+      "published": true
+    },
+    {
+      "slug": "profuct-046",
+      "title": "Tefal Ultra 4.2L 氣炸鍋：小家庭、少油料理與快速加熱選購筆記",
+      "summary": "整理 Tefal Ultra 4.2L 氣炸鍋 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想用氣炸鍋處理炸物復熱、雞塊、蔬菜與簡單料理的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/046-profuct-046.md",
+      "order": 460,
+      "published": true
+    },
+    {
+      "slug": "profuct-047",
+      "title": "Future Lab STERMIDI 殺菌除濕機 II：小空間防潮、除霉與空氣淨化選購筆記",
+      "summary": "整理 Future Lab STERMIDI 殺菌除濕機 II 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想處理房間、浴室、櫃內潮濕與異味的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/047-profuct-047.md",
+      "order": 470,
+      "published": true
+    },
+    {
+      "slug": "profuct-048",
+      "title": "Kolin KNJP-SD2063 5L 透視旋風氣炸鍋：家庭氣炸料理、可視化烹調與少油加熱選購筆記",
+      "summary": "整理 Kolin KNJP-SD2063 5L 透視旋風氣炸鍋 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想買 5L 氣炸鍋、希望看得到烹調狀態的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/048-profuct-048.md",
+      "order": 480,
+      "published": true
+    },
+    {
+      "slug": "profuct-049",
+      "title": "TWICE 官方三代手燈：K-pop 應援、演唱會與粉絲收藏選購筆記",
+      "summary": "整理 TWICE 官方三代手燈 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助正在準備 TWICE 演唱會應援或收藏官方周邊的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/049-profuct-049.md",
+      "order": 490,
+      "published": true
+    },
+    {
+      "slug": "profuct-050",
+      "title": "CHIMEI WB-50YS02 5L 熱水瓶：家庭熱水、辦公室茶水與長時間保溫選購筆記",
+      "summary": "整理 CHIMEI WB-50YS02 5L 熱水瓶 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助需要 5L 容量、不鏽鋼內膽與穩定熱水供應的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/050-profuct-050.md",
+      "order": 500,
+      "published": true
+    },
+    {
+      "slug": "profuct-051",
+      "title": "Widelife 光能空氣清淨機：車用、桌邊與小空間空氣淨化選購筆記",
+      "summary": "整理 Widelife 光能空氣清淨機 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想改善車內或小空間異味、需要小型清淨設備的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/051-profuct-051.md",
+      "order": 510,
+      "published": true
+    },
+    {
+      "slug": "profuct-052",
+      "title": "CT17 空氣清淨除濕機：浴室、廁所與小房間除濕清淨選購筆記",
+      "summary": "整理 CT17 空氣清淨除濕機 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想用小型二合一設備改善潮濕與悶味的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/052-profuct-052.md",
+      "order": 520,
+      "published": true
+    },
+    {
+      "slug": "profuct-053",
+      "title": "KOCA Dusty Mini 1 無線吸塵器：車用、桌面與小範圍快速吸塵選購筆記",
+      "summary": "整理 KOCA Dusty Mini 1 無線吸塵器 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想處理車內灰塵、鍵盤縫隙、桌面碎屑與局部清潔的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/053-profuct-053.md",
+      "order": 530,
+      "published": true
+    },
+    {
+      "slug": "profuct-054",
+      "title": "Kolin PTC 陶瓷壁掛電暖器：浴室、房間與冬季局部取暖選購筆記",
+      "summary": "整理 Kolin PTC 陶瓷壁掛電暖器 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助需要可壁掛、快速出風、局部暖房設備的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/054-profuct-054.md",
+      "order": 540,
+      "published": true
+    },
+    {
+      "slug": "profuct-055",
+      "title": "recolte Bonne RCP-3 萬用調理機：副食品、甜點、切碎與小家庭備料選購筆記",
+      "summary": "整理 recolte Bonne RCP-3 萬用調理機 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想用小型調理機處理切碎、攪拌、冰品與副食品的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/055-profuct-055.md",
+      "order": 550,
+      "published": true
+    },
+    {
+      "slug": "profuct-056",
+      "title": "TWICE 官方三代手燈韓國代購款：K-pop 演唱會應援與粉絲收藏選購筆記",
+      "summary": "整理 TWICE 官方三代手燈韓國代購款 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助需要 TWICE 官方三代手燈、重視現貨與代購出貨的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/056-profuct-056.md",
+      "order": 560,
+      "published": true
+    },
+    {
+      "slug": "profuct-057",
+      "title": "GK2 台灣繁體 8K 電視盒：老電視升級、串流播放與客廳影音選購筆記",
+      "summary": "整理 GK2 台灣繁體 8K 電視盒 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想把一般電視升級成網路影音播放設備的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/057-profuct-057.md",
+      "order": 570,
+      "published": true
+    },
+    {
+      "slug": "profuct-058",
+      "title": "OX9 冷熱雙用多功能豆漿機：豆漿、果汁、熱飲與小家庭料理選購筆記",
+      "summary": "整理 OX9 冷熱雙用多功能豆漿機 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想在家製作豆漿、果汁、熱飲與簡單破壁料理的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/058-profuct-058.md",
+      "order": 580,
+      "published": true
+    },
+    {
+      "slug": "profuct-059",
+      "title": "110V 高溫高壓蒸汽清洗機：廚房油污、空調縫隙與高溫清潔選購筆記",
+      "summary": "整理 110V 高溫高壓蒸汽清洗機 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想用蒸汽清潔油煙機、廚房角落、浴室或空調縫隙的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/059-profuct-059.md",
+      "order": 590,
+      "published": true
+    },
+    {
+      "slug": "profuct-060",
+      "title": "CT15 空氣清淨除濕機：千元除濕、浴室廁所與小房間防潮選購筆記",
+      "summary": "整理 CT15 空氣清淨除濕機 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助想用入門預算處理局部潮濕與小空間悶味的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/060-profuct-060.md",
+      "order": 600,
+      "published": true
+    },
+    {
+      "slug": "profuct-061",
+      "title": "Jessga H3-S 浴室除濕機：浴室、房間與連續排水除濕選購筆記",
+      "summary": "整理 Jessga H3-S 浴室除濕機 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助需要浴室除濕、雙排水或小坪數家用除濕的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/061-profuct-061.md",
+      "order": 610,
+      "published": true
+    },
+    {
+      "slug": "profuct-062",
+      "title": "i-dle 官方手燈：K-pop 應援、演唱會與粉絲收藏選購筆記",
+      "summary": "整理 i-dle 官方手燈 的賣場定位、目前頁面價格、銷量、適合情境與下單前確認重點，協助正在準備 i-dle 演唱會應援或收藏官方周邊的人判斷是否適合。",
+      "md": "/content/books/profuct-introduce/chapters/062-profuct-062.md",
+      "order": 620,
+      "published": true
+    },
+    {
+      "slug": "profuct-063",
+      "title": "SAMPO聲寶20L機械式微波爐 RE-J020TR 現貨 廠商直送",
+      "summary": "整理 SAMPO聲寶20L機械式微波爐 RE-J020TR 現貨 廠商直送 的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "md": "/content/books/profuct-introduce/chapters/063-profuct-063.md",
+      "order": 630,
+      "published": true
+    },
+    {
+      "slug": "profuct-064",
+      "title": "🚀隔日到貨🚀【Jessga】智能除濕機 H2家用除濕機 20坪 除濕機 小型除濕機 房間/客廳/廁所除濕 冷凝除濕機",
+      "summary": "整理 🚀隔日到貨🚀【Jessga】智能除濕機 H2家用除濕機 20坪 除濕機 小型除濕機 房間/客廳/廁所除濕 冷凝除濕機 的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "md": "/content/books/profuct-introduce/chapters/064-profuct-064.md",
+      "order": 640,
+      "published": true
+    },
+    {
+      "slug": "profuct-065",
+      "title": "🔥台灣隔日達🔥投影機【可投白墻不需幕布】高清無線1080P投影機 手機投影機 無線投影儀 有線投影機 便攜式微型投影機",
+      "summary": "整理 🔥台灣隔日達🔥投影機【可投白墻不需幕布】高清無線1080P投影機 手機投影機 無線投影儀 有線投影機 便攜式微型投影機 的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "md": "/content/books/profuct-introduce/chapters/065-profuct-065.md",
+      "order": 650,
+      "published": true
+    },
+    {
+      "slug": "profuct-066",
+      "title": "隔日達 免運🔥除螨機 除螨儀 塵蟎吸塵器 無線除蟎儀 UV紫外線 塵蟎機 除蟎吸塵 除螨 床上吸塵 送濾芯 床上吸塵除螨",
+      "summary": "整理 隔日達 免運🔥除螨機 除螨儀 塵蟎吸塵器 無線除蟎儀 UV紫外線 塵蟎機 除蟎吸塵 除螨 床上吸塵 送濾芯 床上吸塵除螨 的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "md": "/content/books/profuct-introduce/chapters/066-profuct-066.md",
+      "order": 660,
+      "published": true
+    },
+    {
+      "slug": "profuct-067",
+      "title": "吸塵器【台灣現貨】手持吸塵器 小吸塵器 吸塵小鋼炮 車用吸塵器 無線吸塵器 suitu吸塵器 兩用吸塵器 家用吸塵器",
+      "summary": "整理 吸塵器【台灣現貨】手持吸塵器 小吸塵器 吸塵小鋼炮 車用吸塵器 無線吸塵器 suitu吸塵器 兩用吸塵器 家用吸塵器 的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "md": "/content/books/profuct-introduce/chapters/067-profuct-067.md",
+      "order": 670,
+      "published": true
+    },
+    {
+      "slug": "profuct-068",
+      "title": "免費試用30天/ 保固四年【日本TUGO滑雪訓練器】 滑雪機 抖抖機 走步機 夾腿機 美腿滑雪機 划船機 滑步機健身器材",
+      "summary": "整理 免費試用30天/ 保固四年【日本TUGO滑雪訓練器】 滑雪機 抖抖機 走步機 夾腿機 美腿滑雪機 划船機 滑步機健身器材 的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "md": "/content/books/profuct-introduce/chapters/068-profuct-068.md",
+      "order": 680,
+      "published": true
+    },
+    {
+      "slug": "profuct-069",
+      "title": "松禾【臺北現貨★全鋼破壁豆漿機】保固五年 破壁機 料理機 輔食機 24小時智能預約 豆漿機 多功能榨汁機 碎冰機",
+      "summary": "整理 松禾【臺北現貨★全鋼破壁豆漿機】保固五年 破壁機 料理機 輔食機 24小時智能預約 豆漿機 多功能榨汁機 碎冰機 的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "md": "/content/books/profuct-introduce/chapters/069-profuct-069.md",
+      "order": 690,
+      "published": true
+    },
+    {
+      "slug": "profuct-070",
+      "title": "【新品特價】Z1Air 台灣版繁體電視盒 電視機上盒 網絡電視盒 數位電視台 內建GooglePlay NETFLIX",
+      "summary": "整理 【新品特價】Z1Air 台灣版繁體電視盒 電視機上盒 網絡電視盒 數位電視台 內建GooglePlay NETFLIX 的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "md": "/content/books/profuct-introduce/chapters/070-profuct-070.md",
+      "order": 700,
+      "published": true
+    },
+    {
+      "slug": "profuct-071",
+      "title": "【PHILIPS 飛利浦】 手持式蒸氣掛燙機 STH3020 / STH3014 | 衣物熨燙",
+      "summary": "整理 【PHILIPS 飛利浦】 手持式蒸氣掛燙機 STH3020 / STH3014 | 衣物熨燙 的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "md": "/content/books/profuct-introduce/chapters/071-profuct-071.md",
+      "order": 710,
+      "published": true
+    },
+    {
+      "slug": "profuct-072",
+      "title": "【可投白墻✨保固一年】高清投影儀 無線投影機 便攜微型投影機 支援安卓手機/蘋果/平板/筆電投屏 迷你投影機 投影機",
+      "summary": "整理 【可投白墻✨保固一年】高清投影儀 無線投影機 便攜微型投影機 支援安卓手機/蘋果/平板/筆電投屏 迷你投影機 投影機 的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "md": "/content/books/profuct-introduce/chapters/072-profuct-072.md",
+      "order": 720,
+      "published": true
+    },
+    {
+      "slug": "profuct-073",
+      "title": "adidas VL COURT 3.0 運動休閒鞋 男鞋/女鞋 多款任選 官方直營",
+      "summary": "整理 adidas VL COURT 3.0 運動休閒鞋 男鞋/女鞋 多款任選 官方直營 的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "md": "/content/books/profuct-introduce/chapters/073-profuct-073.md",
+      "order": 730,
+      "published": true
+    },
+    {
+      "slug": "profuct-074",
+      "title": "【未來實驗室】GC1光能清淨機 空氣淨化器 家用 車用空氣清淨機 負離子空氣清淨機 清淨機 除臭 除異味 奈米活氧殺菌",
+      "summary": "整理 【未來實驗室】GC1光能清淨機 空氣淨化器 家用 車用空氣清淨機 負離子空氣清淨機 清淨機 除臭 除異味 奈米活氧殺菌 的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "md": "/content/books/profuct-introduce/chapters/074-profuct-074.md",
+      "order": 740,
+      "published": true
+    },
+    {
+      "slug": "profuct-075",
+      "title": "Electrolux 伊萊克斯 極致美味300 3.3公升健康氣炸鍋 E3AF1-110B",
+      "summary": "整理 Electrolux 伊萊克斯 極致美味300 3.3公升健康氣炸鍋 E3AF1-110B 的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "md": "/content/books/profuct-introduce/chapters/075-profuct-075.md",
+      "order": 750,
+      "published": true
+    },
+    {
+      "slug": "profuct-076",
+      "title": "Apple iPhone 13 Pro 系列 6.1 吋 A15 晶片 二手手機 蘋果手機",
+      "summary": "整理 Apple iPhone 13 Pro 系列 6.1 吋 A15 晶片 二手手機 蘋果手機 的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "md": "/content/books/profuct-introduce/chapters/076-profuct-076.md",
+      "order": 760,
+      "published": true
+    },
+    {
+      "slug": "profuct-077",
+      "title": "【台中出貨】316不銹鋼壓力鍋🔥 高壓鍋 燉鍋 防爆高壓鍋 多功能壓力鍋 湯鍋 悶燒鍋 電磁爐 燉鍋 燃氣電磁爐通用",
+      "summary": "整理 【台中出貨】316不銹鋼壓力鍋🔥 高壓鍋 燉鍋 防爆高壓鍋 多功能壓力鍋 湯鍋 悶燒鍋 電磁爐 燉鍋 燃氣電磁爐通用 的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "md": "/content/books/profuct-introduce/chapters/077-profuct-077.md",
+      "order": 770,
+      "published": true
+    },
+    {
+      "slug": "profuct-078",
+      "title": "韓居🇰🇷 獨家禮⭐️ i-dle dle idle - 2026 SEASON'S GREETINGS 年曆組 年曆",
+      "summary": "整理 韓居🇰🇷 獨家禮⭐️ i-dle dle idle - 2026 SEASON'S GREETINGS 年曆組 年曆 的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "md": "/content/books/profuct-introduce/chapters/078-profuct-078.md",
+      "order": 780,
+      "published": true
+    },
+    {
+      "slug": "profuct-079",
+      "title": "韓居🇰🇷現貨 D社 DICON N°32 LE SSERAFIM 寫真書 雜誌",
+      "summary": "整理 韓居🇰🇷現貨 D社 DICON N°32 LE SSERAFIM 寫真書 雜誌 的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "md": "/content/books/profuct-introduce/chapters/079-profuct-079.md",
+      "order": 790,
+      "published": true
+    },
+    {
+      "slug": "profuct-080",
+      "title": "台灣現貨【SUiTU🇩🇪德國工藝】大吸力 無線吸塵器 吸塵小鋼炮 附贈收納包 手持式車用吸塵器 車家兩用迷你吸塵器 禮物",
+      "summary": "整理 台灣現貨【SUiTU🇩🇪德國工藝】大吸力 無線吸塵器 吸塵小鋼炮 附贈收納包 手持式車用吸塵器 車家兩用迷你吸塵器 禮物 的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "md": "/content/books/profuct-introduce/chapters/080-profuct-080.md",
+      "order": 800,
+      "published": true
+    },
+    {
+      "slug": "profuct-081",
+      "title": "【台灣公司貨+30天免費試用】保固五年 炒菜電煮鍋 單柄電炒鍋 大功率電炒鍋 110V電炒鍋 不沾電炒鍋 料理鍋",
+      "summary": "整理 【台灣公司貨+30天免費試用】保固五年 炒菜電煮鍋 單柄電炒鍋 大功率電炒鍋 110V電炒鍋 不沾電炒鍋 料理鍋 的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "md": "/content/books/profuct-introduce/chapters/081-profuct-081.md",
+      "order": 810,
+      "published": true
+    },
+    {
+      "slug": "profuct-082",
+      "title": "仙女樹🌟 TWICE ' THIS IS FOR ' IN JAPAN 國立競技場 世界巡迴演唱會 官方周邊 賣場一",
+      "summary": "整理 仙女樹🌟 TWICE ' THIS IS FOR ' IN JAPAN 國立競技場 世界巡迴演唱會 官方周邊 賣場一 的購買參考、商品圖片、價格、銷售量與選購檢查。",
+      "md": "/content/books/profuct-introduce/chapters/082-profuct-082.md",
+      "order": 820,
+      "published": true
+    }
+  ]
+}
