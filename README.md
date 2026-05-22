@@ -8,30 +8,29 @@ https://pnforce.github.io/GoodStuff/
 
 ## What This Site Contains
 
-- Product comparison articles and buying notes
+- Product comparison articles
 - Store and product recommendation collections
-- Markdown chapters and JSON catalog data that can be updated without rewriting the app
-- Static pages published through GitHub Pages
+- Single-product introduction pages
+- Public Markdown and JSON content used to build the static website
 
-The public content lives under:
+The published content lives under:
 
 ```text
 public/content
 ```
 
-When JSON or Markdown content is updated and the site is rebuilt by GitHub Pages, the website content changes accordingly.
+When public JSON or Markdown content is updated and the GitHub Pages build succeeds, the website content changes accordingly.
 
 ## For Readers
 
-Use the website URL above as the entry point. The repository is mainly the public source for the site content and publishing workflow.
+Use the website URL above as the entry point. This repository is the public source for the published static site.
 
-## For Maintainers
+## Public Content Categories
 
-Operational notes are kept in `docs/`:
+- `product-comparisons`: product comparison guides
+- `shops-introduce`: store and multi-product introduction articles
+- `profuct-introduce`: single-product introduction articles
 
-- `docs/human-user-operation.md`
-- `docs/ai-agent-operation.md`
-- `docs/github-pages-deploy.md`
-- `docs/analytics.md`
+## Privacy And Safety
 
-The production site is built by GitHub Actions and published to GitHub Pages.
+This public repository should only contain files that are safe to publish. Internal operating prompts, maintenance playbooks, private credentials, API keys, tokens, passwords, private notes, and non-public datasets do not belong in this repository.
