@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="720" viewBox="0 0 1400 720" role="img" aria-labelledby="title desc">
   <title id="title">Roborock Q8 Max Pro vs Xiaomi S40 Pro：防纏繞掃拖與雙機械臂拖布怎麼選：功能取捨流程</title>
-  <desc id="desc">自製比較 SVG，依 CSV 商品資料、公開規格與選購查核重點整理，非產品實拍。</desc>
+  <desc id="desc">比較圖，依公開商品頁、官方資料與選購查核重點整理。</desc>
   <defs>
     <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0%" stop-color="#f8fbff"/>
@@ -38,11 +38,5 @@
   <text x="868" y="398" class="body">生態，且願意維護拖布與耗材。</text>
   <text x="868" y="434" class="body">下單前檢查：</text>
   <text x="868" y="470" class="body">門檻通過、拖布晾乾、避障與耗材取得</text>
-  <rect x="570" y="275" width="260" height="150" rx="28" fill="#17324d" opacity="0.92"/>
-  <text x="604" y="335" class="pill">用需求排序，避免只看折扣</text>
-  <text x="604" y="380" class="pill">價格只是入口</text>
-  <text x="604" y="425" class="pill">使用情境才是答案</text>
-  <path d="M560 360 C625 360 650 360 700 360" stroke="#9fbdd0" stroke-width="8" stroke-linecap="round"/>
-  <path d="M840 360 C775 360 750 360 700 360" stroke="#a5c7a9" stroke-width="8" stroke-linecap="round"/>
-  <text x="70" y="650" class="small">資料來源：CSV 商品列表、Shopee 商品頁、官方/公開查核資料。實際價格與庫存以下單頁為準。</text>
+  <text x="70" y="650" class="small">資料來源：Shopee 商品頁、官方/公開查核資料。實際價格與庫存以下單頁為準。</text>
 </svg>
