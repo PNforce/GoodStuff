@@ -1,0 +1,214 @@
+GoodStuff AI Agent Prompt 0517
+
+你正在維護 GitHub Pages 靜態網站 `PNforce/GoodStuff`。
+
+正式網站：
+https://pnforce.github.io/GoodStuff/
+
+Repo：
+https://github.com/PNforce/GoodStuff/
+
+核心任務：
+維護一個資料驅動靜態網站。公開內容由 `public/content` 底下的 JSON 與 Markdown 決定。除非是改 UI、追蹤或 build 行為，否則不要修改 React 程式。
+
+## 重要路徑
+
+- `public/content/site.json`：首頁文字與全站公開設定。
+- `public/content/catalog.json`：首頁內容集、分類、排序與 book manifest 路徑。
+- `public/content/books/{bookSlug}/book.json`：內容集 metadata 與章節清單。
+- `public/content/books/{bookSlug}/chapters/*.md`：文章內容。
+- `public/images/books/`：分類封面。
+- `public/images/product-comparisons/`：產品比較 SVG。
+- `src/lib/analytics.ts`：GA4 pageview 與 affiliate click tracking。
+- `src/lib/seo.ts`：metadata 與手動 page_view。
+- `components/ArticlePage.tsx`：Markdown rendering 與 Shopee link click tracking。
+
+不要把 `src/data/siteData.ts` 當作主要內容來源；它是 legacy fallback/reference。
+
+## 現有主要內容集
+
+1. `product-comparisons`
+   - 路由：`/articles/product-comparisons`
+   - 目前 20 篇
+   - 用途：兩款商品比較
+
+2. `shops-introduce`
+   - 路由：`/articles/shops-introduce`
+   - 目前 18 篇
+   - 用途：店鋪或多商品整理
+
+3. `profuct-introduce`
+   - 路由：`/articles/profuct-introduce`
+   - 目前 82 篇
+   - 用途：單件商品介紹
+   - 注意：`profuct` 是既有公開 slug，不要自動改成 `product`。
+
+## 文章撰寫規範
+
+### Product Comparisons
+
+位置：
+`public/content/books/product-comparisons/chapters/`
+
+必備結構：
+
+- `# A vs B：情境怎麼選`
+- `## 插圖圖片`
+- `## 購買參考`
+- `## 適合誰看這篇`
+- `## 兩款商品快速比較`
+- `## 產品重點`
+- `### [商品 A](https://s.shopee.tw/...) 重點`
+- `### [商品 B](https://s.shopee.tw/...) 重點`
+- `## 真實評測與網友意見整理`
+- `## 怎麼選`
+- `## 購買參考`
+- `## 資料來源與查核`
+
+規則：
+
+- 必須比較兩款商品，不要寫成單品推薦。
+- 上方 `## 購買參考` 要放在 `## 適合誰看這篇` 前。
+- `## 兩款商品快速比較` 必須是 Markdown 表格。
+- 商品重點標題要連到可靠 Shopee affiliate URL。
+- 每篇應有 2 張對應 SVG，放在 `public/images/product-comparisons/`。
+- 目前 SVG 使用 1400 寬 canvas/viewBox，保留左右方案間距。
+- 不得編造評價；若無法查核留言，寫「評價觀察方向」。
+
+### Shops Introduce
+
+位置：
+`public/content/books/shops-introduce/chapters/`
+
+常見結構：
+
+- `# 店鋪或主題名稱 產品比較指南 / 深度推薦評析`
+- `## 商品圖片`
+- `## 前言`
+- `## 商品介紹` 或 `## 內容介紹`
+- `### 1. [商品或內容項目](https://s.shopee.tw/...)`
+- `## 比較概況`
+- `## 推薦建議`
+- `### 針對不同顧客群體的專業推薦`
+- `## 如何購買` 或 `## 閱讀小撇步`
+- `## 免責聲明`
+
+規則：
+
+- 主體是店鋪、主題或多商品整理，不要改成單件商品頁。
+- 商品標題有可靠 URL 才加連結。
+- 沒有可靠 URL 時不要自行補連結。
+- 不得出現 `OpenClaw`、`openclaw` 或內部生成痕跡。
+- 要明確寫出適合客群、推薦理由、商品差異與注意事項。
+
+### Profuct Introduce
+
+位置：
+`public/content/books/profuct-introduce/chapters/`
+
+建議結構：
+
+- `# 商品名稱：情境與定位推薦分析`
+- `## 適合誰看這篇`
+- `## 商品圖片`
+- `## 商品介紹`
+- `## 推薦給哪些人` 或相近目標族群段落
+- `## 可能不適合的情境`
+- `## 評價留言應觀察什麼`
+- `## 產品定位摘要`
+- `## 相關連結`
+- `## 查核筆記`
+
+規則：
+
+- 必須是單件商品介紹。
+- `## 商品介紹` 至少 400 字，建議 500 到 700 字。
+- 不要每篇套同一個模板；語氣、段落、推薦理由要依商品類型變化。
+- 不是教人採購，而是理解產品後推薦適合的目標客戶並寫出理由。
+- 必須使用可公開查核資訊：商品標題、店鋪、價格、銷量、圖片、商品類型。
+- 留言不可編造；若平台驗證無法讀取，改寫「這類商品應觀察哪些留言訊號」。
+- 必須包含商品圖片與 Shopee affiliate 短連結。
+
+## 新增章節流程
+
+1. 判斷內容集。
+2. 新增 Markdown 到 `chapters/`。
+3. 檔名使用三位數序號，例如 `083-profuct-083.md`。
+4. 更新該內容集 `book.json` 的 `chapters`：
+
+```json
+{
+  "slug": "profuct-083",
+  "title": "文章標題",
+  "summary": "文章摘要",
+  "md": "/content/books/profuct-introduce/chapters/083-profuct-083.md",
+  "order": 830,
+  "published": true
+}
+```
+
+5. 更新 `updatedAt`。
+6. 如果新增內容集，再更新 `catalog.json`。
+
+## GA4 追蹤
+
+目前 GA4 Measurement ID：
+`G-49G5GBLQRP`
+
+已追蹤事件：
+
+- `page_view`
+- `affiliate_click`
+
+`affiliate_click` 只在文章內點擊 `s.shopee.*` 連結時觸發，事件參數包含：
+
+- `affiliate_network`
+- `link_domain`
+- `link_url`
+- `link_text`
+- `page_path`
+- `book_slug`
+- `book_title`
+- `chapter_slug`
+- `chapter_title`
+
+如需分析 CTR：
+
+```text
+全站 Shopee CTR = affiliate_click / page_view
+單頁 CTR = 該頁 affiliate_click / 該頁 page_view
+分類 CTR = 該分類 affiliate_click / 該分類 page_view
+```
+
+若要改善 CTR，優先建議：
+
+- 每篇商品頁首屏加入明顯 CTA。
+- 商品圖片可點擊並追蹤。
+- 中段與底部各放一個 CTA。
+- 新增 `cta_position` 事件參數，例如 `top_button`、`image`、`middle_button`、`bottom_link`。
+- 在 GA4 後台把 `affiliate_click` 設為 Key event，並建立 custom dimensions。
+
+## Build 與檢查
+
+建議 build：
+
+```powershell
+$env:VITE_BASE_PATH='/GoodStuff/'
+$env:VITE_SITE_URL='https://PNforce.github.io/GoodStuff/'
+npm.cmd run build
+```
+
+推送前檢查：
+
+```powershell
+rg -n -i "(api[_-]?key|secret|token|password|passwd|private key|BEGIN [A-Z ]*PRIVATE KEY|credential|access[_-]?key|client_secret|authorization:|bearer )" -g "!node_modules/**" -g "!dist/**" -g "!.git/**"
+git diff --check
+```
+
+安全規則：
+
+- 不提交 `.env`、API key、token、password、私鑰、帳密 URL。
+- 不提交未公開授權資料。
+- 不編造價格、銷量、留言、優惠或規格。
+- 價格、銷量、庫存、規格與優惠都可能變動，要標示以商品頁最新資訊為準。
+- 不破壞既有 slug。
