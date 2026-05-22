@@ -4,7 +4,7 @@
   "category": "shopping",
   "summary": "整理空氣清淨、除濕、吸塵清潔與影音設備的選購比較，協助依照空間、預算與使用頻率判斷。",
   "cover": "/images/books/product-comparisons.svg",
-  "updatedAt": "2026-05-19",
+  "updatedAt": "2026-05-22",
   "affiliateLinks": [],
   "chapters": [
     {
@@ -165,6 +165,86 @@
       "summary": "比較 VMI M600 投影機與 65 型 4K QLED 電視的使用場景、畫面穩定性、環境光、安裝與長期體驗。",
       "md": "/content/books/product-comparisons/chapters/020-vmi-m600-vs-qled-tv.md",
       "order": 200,
+      "published": true
+    },
+    {
+      "slug": "electrolux-zb3324b-vs-zb3302ak",
+      "title": "Electrolux ZB3324B vs ZB3302AK：除蟎 HEPA 與日常輕量清潔怎麼選",
+      "summary": "比較 Electrolux ZB3324B 與 ZB3302AK 兩款完美管家系列無線吸塵器，從除蟎需求、HEPA 過濾、地板清潔、價格與耗材維護判斷適合族群。",
+      "md": "/content/books/product-comparisons/chapters/021-electrolux-zb3324b-vs-zb3302ak.md",
+      "order": 210,
+      "published": true
+    },
+    {
+      "slug": "1zpresso-k-ultra-vs-zp6",
+      "title": "1Zpresso K-Ultra vs ZP6 特仕版：全能手搖磨豆機與手沖清晰派怎麼選",
+      "summary": "比較 1Zpresso K-Ultra 與 ZP6 特仕版，從手沖清晰度、義式與摩卡壺適配、刻度調整、研磨手感與預算判斷咖啡玩家該選哪台。",
+      "md": "/content/books/product-comparisons/chapters/022-1zpresso-k-ultra-vs-zp6.md",
+      "order": 220,
+      "published": true
+    },
+    {
+      "slug": "whirlpool-wm07pw-vs-songh-mini-washer",
+      "title": "Whirlpool WM07PW vs SONGH 迷你洗衣機：租屋日常洗衣與貼身衣物分洗怎麼選",
+      "summary": "比較 Whirlpool WM07PW 7 公斤直立洗衣機與 SONGH 迷你便攜洗衣機，從租屋空間、洗衣量、排水安裝、貼身衣物分洗與長期使用安全判斷。",
+      "md": "/content/books/product-comparisons/chapters/023-whirlpool-wm07pw-vs-songh-mini-washer.md",
+      "order": 230,
+      "published": true
+    },
+    {
+      "slug": "k200-vs-1080p-portable-projector",
+      "title": "K200 國民投影機 vs 1080P 便攜投影機：台灣保固與低價大畫面怎麼選",
+      "summary": "比較 K200 國民投影機與低價 1080P 便攜投影機，從保固、亮度、原生解析度、投影距離、白牆使用與租屋追劇情境判斷。",
+      "md": "/content/books/product-comparisons/chapters/024-k200-vs-1080p-portable-projector.md",
+      "order": 240,
+      "published": true
+    },
+    {
+      "slug": "sampo-reb020pm-vs-whirlpool-akm2064es",
+      "title": "SAMPO RE-B020PM vs Whirlpool AKM2064ES：20L 微波爐要選微電腦還是高銷量入門款",
+      "summary": "比較 SAMPO RE-B020PM 與 Whirlpool AKM2064ES 兩款 20L 微波爐，從租屋族、加熱便當、操作方式、安全注意與價格銷量判斷。",
+      "md": "/content/books/product-comparisons/chapters/025-sampo-reb020pm-vs-whirlpool-akm2064es.md",
+      "order": 250,
+      "published": true
+    },
+    {
+      "slug": "bruno-boe076-vs-philips-sth3020",
+      "title": "BRUNO BOE076 vs Philips STH3020：美型掛燙機與折疊旅行款怎麼選",
+      "summary": "比較 BRUNO BOE076 與 Philips STH3020 手持蒸氣掛燙機，從外型、旅行收納、水箱容量、預熱速度、安全查核與衣物材質判斷。",
+      "md": "/content/books/product-comparisons/chapters/026-bruno-boe076-vs-philips-sth3020.md",
+      "order": 260,
+      "published": true
+    },
+    {
+      "slug": "roborock-q8-max-pro-vs-xiaomi-s40-pro",
+      "title": "Roborock Q8 Max Pro vs Xiaomi S40 Pro：防纏繞掃拖與雙機械臂拖布怎麼選",
+      "summary": "比較 Roborock Q8 Max Pro 與 Xiaomi S40 Pro 掃拖機器人，從吸力、防纏繞、導航、拖地設計、App 生態與售價判斷。",
+      "md": "/content/books/product-comparisons/chapters/027-roborock-q8-max-pro-vs-xiaomi-s40-pro.md",
+      "order": 270,
+      "published": true
+    },
+    {
+      "slug": "tefal-ultra-vs-electrolux-e3af1",
+      "title": "Tefal Ultra 4.2L vs Electrolux E3AF1-110B：大容量氣炸鍋與小家庭旋鈕款怎麼選",
+      "summary": "比較 Tefal Ultra 4.2L 與 Electrolux E3AF1-110B 氣炸鍋，從容量、操作介面、小家庭份量、清潔與食安使用習慣判斷。",
+      "md": "/content/books/product-comparisons/chapters/028-tefal-ultra-vs-electrolux-e3af1.md",
+      "order": 280,
+      "published": true
+    },
+    {
+      "slug": "haier-wd301-vs-chimei-wb50ys02",
+      "title": "Haier WD301 vs CHIMEI WB-50YS02：瞬熱飲水機與 5L 熱水瓶怎麼選",
+      "summary": "比較 Haier 小海鷗 WD301 瞬熱式飲水機與 CHIMEI WB-50YS02 5L 熱水瓶，從泡奶、泡茶、辦公室、水量、保溫耗電與清潔判斷。",
+      "md": "/content/books/product-comparisons/chapters/029-haier-wd301-vs-chimei-wb50ys02.md",
+      "order": 290,
+      "published": true
+    },
+    {
+      "slug": "futurelab-gc2-vs-gc1",
+      "title": "Future Lab GC2 vs GC1 光能清淨機：車用小空間與家用除味需求怎麼選",
+      "summary": "比較 Future Lab GC2 與 GC1 光能清淨機，從車用、浴廁、小房間、HEPA/活氧宣稱、公開查核資料與廣告風險判斷。",
+      "md": "/content/books/product-comparisons/chapters/030-futurelab-gc2-vs-gc1.md",
+      "order": 300,
       "published": true
     }
   ]

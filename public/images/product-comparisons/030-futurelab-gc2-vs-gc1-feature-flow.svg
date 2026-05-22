@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="720" viewBox="0 0 1400 720" role="img" aria-labelledby="title desc">
+  <title id="title">Future Lab GC2 vs GC1 光能清淨機：車用小空間與家用除味需求怎麼選：功能取捨流程</title>
+  <desc id="desc">自製比較 SVG，依 CSV 商品資料、公開規格與選購查核重點整理，非產品實拍。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f8fbff"/>
+      <stop offset="100%" stop-color="#eef7f4"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#17324d" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+  <style>
+    .title { font: 700 34px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #17324d; }
+    .small { font: 500 20px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #48667d; }
+    .label { font: 700 28px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #17324d; }
+    .body { font: 500 22px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #25445f; }
+    .pill { font: 700 20px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #ffffff; }
+  </style>
+  <rect width="1400" height="720" fill="url(#bg)"/>
+  <text x="64" y="70" class="title">Future Lab GC2 vs GC1 光能清淨機：車用小空間與家用除味</text>
+  <text x="66" y="112" class="small">小型空氣淨化設備｜功能取捨流程｜2026-05-22</text>
+  <rect x="68" y="155" width="492" height="430" rx="20" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="840" y="155" width="492" height="430" rx="20" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="96" y="185" width="160" height="42" rx="21" fill="#2f7da1"/>
+  <rect x="868" y="185" width="160" height="42" rx="21" fill="#4f8b5f"/>
+  <text x="116" y="214" class="pill">方案 A</text>
+  <text x="888" y="214" class="pill">方案 B</text>
+  <text x="96" y="270" class="label">Future Lab GC2</text>
+  <text x="868" y="270" class="label">Future Lab GC1</text>
+  <text x="96" y="326" class="body">適合：</text>
+  <text x="96" y="362" class="body">你想買較新版本，重視狀態顯示、</text>
+  <text x="96" y="398" class="body">智能檢測或功能完整感，使用場景是車內、</text>
+  <text x="96" y="434" class="body">小房間或浴廁輔助除味。</text>
+  <text x="96" y="470" class="body">下單前檢查：</text>
+  <text x="96" y="506" class="body">活氧使用限制、濾網清潔、耗材、空間大小與保固</text>
+  <text x="868" y="326" class="body">適合：</text>
+  <text x="868" y="362" class="body">你預算較低，</text>
+  <text x="868" y="398" class="body">只想要一台高銷量的小型除味輔助工具，</text>
+  <text x="868" y="434" class="body">且能接受它不是大型空氣清淨機。</text>
+  <text x="868" y="470" class="body">下單前檢查：</text>
+  <text x="868" y="506" class="body">廣告宣稱、認證資料、</text>
+  <text x="868" y="542" class="body">使用環境與是否需要定期維護</text>
+  <rect x="570" y="275" width="260" height="150" rx="28" fill="#17324d" opacity="0.92"/>
+  <text x="604" y="335" class="pill">用需求排序，避免只看折扣</text>
+  <text x="604" y="380" class="pill">價格只是入口</text>
+  <text x="604" y="425" class="pill">使用情境才是答案</text>
+  <path d="M560 360 C625 360 650 360 700 360" stroke="#9fbdd0" stroke-width="8" stroke-linecap="round"/>
+  <path d="M840 360 C775 360 750 360 700 360" stroke="#a5c7a9" stroke-width="8" stroke-linecap="round"/>
+  <text x="70" y="650" class="small">資料來源：CSV 商品列表、Shopee 商品頁、官方/公開查核資料。實際價格與庫存以下單頁為準。</text>
+</svg>

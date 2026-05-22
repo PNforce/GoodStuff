@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="720" viewBox="0 0 1400 720" role="img" aria-labelledby="title desc">
+  <title id="title">K200 國民投影機 vs 1080P 便攜投影機：台灣保固與低價大畫面怎麼選：使用場景地圖</title>
+  <desc id="desc">自製比較 SVG，依 CSV 商品資料、公開規格與選購查核重點整理，非產品實拍。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f8fbff"/>
+      <stop offset="100%" stop-color="#eef7f4"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#17324d" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+  <style>
+    .title { font: 700 34px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #17324d; }
+    .small { font: 500 20px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #48667d; }
+    .label { font: 700 28px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #17324d; }
+    .body { font: 500 22px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #25445f; }
+    .pill { font: 700 20px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #ffffff; }
+  </style>
+  <rect width="1400" height="720" fill="url(#bg)"/>
+  <text x="64" y="70" class="title">K200 國民投影機 vs 1080P 便攜投影機：台灣保固與低價大畫面怎麼</text>
+  <text x="66" y="112" class="small">入門投影機｜使用場景地圖｜2026-05-22</text>
+  <rect x="68" y="155" width="492" height="430" rx="20" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="840" y="155" width="492" height="430" rx="20" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="96" y="185" width="160" height="42" rx="21" fill="#2f7da1"/>
+  <rect x="868" y="185" width="160" height="42" rx="21" fill="#4f8b5f"/>
+  <text x="116" y="214" class="pill">方案 A</text>
+  <text x="888" y="214" class="pill">方案 B</text>
+  <text x="96" y="270" class="label">K200 國民投影機</text>
+  <text x="868" y="270" class="label">1080P 便攜投影機</text>
+  <text x="96" y="326" class="body">K200國民投影機</text>
+  <text x="96" y="362" class="body">約NT$2,891｜銷量1,000+</text>
+  <text x="96" y="398" class="body">租屋固定角落、每週多次追劇、重視售後</text>
+  <text x="96" y="434" class="body">保固敘述較明確，定位比較像長期入門機</text>
+  <text x="868" y="326" class="body">1080P便攜投影機</text>
+  <text x="868" y="362" class="body">約NT$1,089｜銷量6,000+</text>
+  <text x="868" y="398" class="body">偶爾看劇、露營、臨時投影、預算非常緊</text>
+  <text x="868" y="434" class="body">價格低、銷量高、購買門檻低</text>
+  <rect x="570" y="275" width="260" height="150" rx="28" fill="#17324d" opacity="0.92"/>
+  <text x="604" y="335" class="pill">先看使用場景，再看價格</text>
+  <text x="604" y="380" class="pill">價格只是入口</text>
+  <text x="604" y="425" class="pill">使用情境才是答案</text>
+  <path d="M560 360 C625 360 650 360 700 360" stroke="#9fbdd0" stroke-width="8" stroke-linecap="round"/>
+  <path d="M840 360 C775 360 750 360 700 360" stroke="#a5c7a9" stroke-width="8" stroke-linecap="round"/>
+  <text x="70" y="650" class="small">資料來源：CSV 商品列表、Shopee 商品頁、官方/公開查核資料。實際價格與庫存以下單頁為準。</text>
+</svg>
