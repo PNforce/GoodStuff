@@ -246,6 +246,86 @@
       "md": "/content/books/product-comparisons/chapters/030-futurelab-gc2-vs-gc1.md",
       "order": 300,
       "published": true
+    },
+    {
+      "slug": "hysure-q9-vs-polo",
+      "title": "Hysure Q9 vs Polo 清淨除濕機：浴室、衣櫃與小房間防潮怎麼選",
+      "summary": "比較 Hysure Q9 與 Hysure Polo 兩款小型清淨除濕機，從浴室防潮、衣櫃鞋櫃、小房間濕氣、銷量訊號與長期維護判斷適合族群。",
+      "md": "/content/books/product-comparisons/chapters/031-hysure-q9-vs-polo.md",
+      "order": 310,
+      "published": true
+    },
+    {
+      "slug": "heran-hdh-12dy030-vs-hysure-george",
+      "title": "HERAN 6L 除濕機 vs Hysure George：新一級能效與小型浴室除濕怎麼選",
+      "summary": "比較 HERAN HDH-12DY030 6 公升除濕機與 Hysure George 小型除濕機，從除濕量、能效、浴室使用、小坪數與預算判斷。",
+      "md": "/content/books/product-comparisons/chapters/032-heran-hdh-12dy030-vs-hysure-george.md",
+      "order": 320,
+      "published": true
+    },
+    {
+      "slug": "apolnus-ultra-s7-vs-xiaomi-air-purifier-4-lite",
+      "title": "Apolnus Ultra S7 vs Xiaomi 4 Lite 空氣清淨機：8坪濾淨與智慧清淨怎麼選",
+      "summary": "比較 Apolnus Ultra S7 與 Xiaomi 空氣淨化器 4 Lite，從適用坪數、濾網、CADR 查核、智慧功能、耗材與預算判斷。",
+      "md": "/content/books/product-comparisons/chapters/033-apolnus-ultra-s7-vs-xiaomi-air-purifier-4-lite.md",
+      "order": 330,
+      "published": true
+    },
+    {
+      "slug": "futurelab-midizon-vs-sansui-gra360",
+      "title": "Future Lab Midizon vs SANSUI GRA360：浴室除濕與衣櫃鞋櫃防潮怎麼選",
+      "summary": "比較 Future Lab Midizon 衛浴殺菌除濕機與 SANSUI GRA360+NF100 小植淨除濕器，從浴室、衣櫃鞋櫃、活性碳、加熱還原與使用限制判斷。",
+      "md": "/content/books/product-comparisons/chapters/034-futurelab-midizon-vs-sansui-gra360.md",
+      "order": 340,
+      "published": true
+    },
+    {
+      "slug": "songh-soymilk-maker-vs-ox9",
+      "title": "SONGH 全鋼破壁豆漿機 vs OX9 冷熱豆漿機：免濾、容量與清潔怎麼選",
+      "summary": "比較 SONGH 全鋼破壁豆漿機與 OX9 冷熱雙用豆漿機，從豆漿、果汁、碎冰、預約、清洗與保固判斷適合客群。",
+      "md": "/content/books/product-comparisons/chapters/035-songh-soymilk-maker-vs-ox9.md",
+      "order": 350,
+      "published": true
+    },
+    {
+      "slug": "sampo-rec020pr-vs-whirlpool-mwp201ebt",
+      "title": "SAMPO RE-C020PR vs Whirlpool MWP201EBT：20L 平台微波爐怎麼選",
+      "summary": "比較 SAMPO RE-C020PR 與 Whirlpool MWP201EBT 兩款 20L 微波爐，從機械式與電子式、便當加熱、租屋族、清潔與安全判斷。",
+      "md": "/content/books/product-comparisons/chapters/036-sampo-rec020pr-vs-whirlpool-mwp201ebt.md",
+      "order": 360,
+      "published": true
+    },
+    {
+      "slug": "zhaoji-40-inch-vs-32-inch-smart-tv",
+      "title": "兆基 40 吋 vs 32 吋智慧電視：租屋、臥室與小客廳尺寸怎麼選",
+      "summary": "比較兆基 40 吋智慧聯網電視與 32 吋智慧聯網電視，從觀看距離、解析度、租屋空間、價格與安裝判斷。",
+      "md": "/content/books/product-comparisons/chapters/037-zhaoji-40-inch-vs-32-inch-smart-tv.md",
+      "order": 370,
+      "published": true
+    },
+    {
+      "slug": "xiaomi-g20-lite-vs-p30-vacuum",
+      "title": "Xiaomi G20 Lite vs P30 無線吸塵器：LED 探照、重量與租屋清潔怎麼選",
+      "summary": "比較 Xiaomi G20 Lite 與 Xiaomi P30 無線吸塵器，從吸力、LED 探照、續航、重量、Type-C 充電與清潔任務判斷。",
+      "md": "/content/books/product-comparisons/chapters/038-xiaomi-g20-lite-vs-p30-vacuum.md",
+      "order": 380,
+      "published": true
+    },
+    {
+      "slug": "kolin-5l-vs-arlink-2l-air-fryer",
+      "title": "Kolin 5L 透視氣炸鍋 vs Arlink 2L 小型氣炸鍋：容量、清潔與一人食怎麼選",
+      "summary": "比較 Kolin KNJP-SD2063 5L 透視旋風氣炸鍋與 Arlink AF205 2L 小型氣炸鍋，從容量、透視窗、租屋、一人食與食安判斷。",
+      "md": "/content/books/product-comparisons/chapters/039-kolin-5l-vs-arlink-2l-air-fryer.md",
+      "order": 390,
+      "published": true
+    },
+    {
+      "slug": "recolte-cordless-bonne-vs-bonne-rcp3",
+      "title": "recolte Cordless Bonne RCP-7 vs Bonne RCP-3：無線調理機與插電萬用調理機怎麼選",
+      "summary": "比較 recolte Cordless Bonne RCP-7 與 recolte Bonne RCP-3 萬用調理機，從無線便利、切碎攪拌、甜點副食品、清洗與收納判斷。",
+      "md": "/content/books/product-comparisons/chapters/040-recolte-cordless-bonne-vs-bonne-rcp3.md",
+      "order": 400,
+      "published": true
     }
   ]
 }

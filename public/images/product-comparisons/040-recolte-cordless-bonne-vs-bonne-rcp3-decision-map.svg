@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="720" viewBox="0 0 1400 720" role="img" aria-labelledby="title desc">
+  <title id="title">recolte Cordless Bonne RCP-7 vs Bonne RCP-3：無線調理機與插電萬用調理機怎麼選：使用場景地圖</title>
+  <desc id="desc">比較圖，依公開商品頁、官方資料與選購查核重點整理。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f8fbff"/>
+      <stop offset="100%" stop-color="#eef7f4"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#17324d" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+  <style>
+    .title { font: 700 34px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #17324d; }
+    .small { font: 500 20px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #48667d; }
+    .label { font: 700 28px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #17324d; }
+    .body { font: 500 22px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #25445f; }
+    .pill { font: 700 20px "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif; fill: #ffffff; }
+  </style>
+  <rect width="1400" height="720" fill="url(#bg)"/>
+  <text x="64" y="70" class="title">recolte Cordless Bonne RCP-7 vs Bonne </text>
+  <text x="66" y="112" class="small">萬用食物調理機｜使用場景地圖｜2026-05-23</text>
+  <rect x="68" y="155" width="492" height="430" rx="20" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="840" y="155" width="492" height="430" rx="20" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="96" y="185" width="160" height="42" rx="21" fill="#2f7da1"/>
+  <rect x="868" y="185" width="160" height="42" rx="21" fill="#4f8b5f"/>
+  <text x="116" y="214" class="pill">方案 A</text>
+  <text x="888" y="214" class="pill">方案 B</text>
+  <text x="96" y="270" class="label">recolte Cordless Bon</text>
+  <text x="868" y="270" class="label">recolte Bonne RCP-3</text>
+  <text x="96" y="326" class="body">recolteCordlessBonne</text>
+  <text x="96" y="362" class="body">RCP-7</text>
+  <text x="96" y="398" class="body">約NT$3,480｜銷量3,000+</text>
+  <text x="96" y="434" class="body">副食品、甜點、露營備料、餐桌旁快速處理</text>
+  <text x="96" y="470" class="body">不用找插座，使用場景更自由</text>
+  <text x="868" y="326" class="body">recolteBonneRCP-3</text>
+  <text x="868" y="362" class="body">約NT$1,850｜銷量2,000+</text>
+  <text x="868" y="398" class="body">廚房固定使用、醬料、切碎、冰品與日常備料</text>
+  <text x="868" y="434" class="body">價格低很多，功能定位成熟</text>
+  <text x="70" y="650" class="small">資料來源：Shopee 商品頁、官方/公開查核資料。實際價格與庫存以下單頁為準。</text>
+</svg>
