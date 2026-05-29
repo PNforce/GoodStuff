@@ -1,5 +1,5 @@
 const DEFAULT_GA_MEASUREMENT_ID = 'G-49G5GBLQRP';
-const DEFAULT_SITE_URL = 'https://PNforce.github.io/GoodStuff/';
+const DEFAULT_SITE_URL = 'https://pnforce.github.io/GoodStuff/';
 const GA_SCRIPT_ID = 'goodstuff-ga4';
 
 type GtagCommand = 'js' | 'config' | 'event';

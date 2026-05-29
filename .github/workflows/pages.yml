@@ -35,7 +35,7 @@ jobs:
         run: npm run build
         env:
           VITE_BASE_PATH: /GoodStuff/
-          VITE_SITE_URL: https://PNforce.github.io/GoodStuff/
+          VITE_SITE_URL: https://pnforce.github.io/GoodStuff/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

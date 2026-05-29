@@ -1,5 +1,5 @@
 import { trackPageView } from './analytics.ts';
-const DEFAULT_SITE_URL = 'https://PNforce.github.io/GoodStuff/';
+const DEFAULT_SITE_URL = 'https://pnforce.github.io/GoodStuff/';
 
 type MetaKey = 'name' | 'property';
 
@@ -17,7 +17,9 @@ export const absoluteSiteUrl = (path = '/') => {
     (import.meta.env.VITE_SITE_URL || DEFAULT_SITE_URL).trim() || DEFAULT_SITE_URL,
   );
   const normalizedPath = path === '/' ? '' : path.replace(/^\/+/, '');
-  return new URL(normalizedPath, siteUrl).toString();
+  const pageUrl = new URL(normalizedPath, siteUrl);
+  pageUrl.pathname = ensureTrailingSlash(pageUrl.pathname);
+  return pageUrl.toString();
 };
 
 const upsertMeta = (key: MetaKey, value: string, content: string) => {

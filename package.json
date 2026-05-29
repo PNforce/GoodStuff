@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "generate:metadata": "node scripts/generate-static-metadata.mjs",
-    "prebuild": "node scripts/generate-static-metadata.mjs",
+    "generate:metadata": "node scripts/generate-seo-metadata.mjs",
+    "prebuild": "node scripts/generate-seo-metadata.mjs",
     "build": "vite build",
     "postbuild": "node scripts/copy-spa-fallback.mjs",
     "preview": "vite preview"

@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-21-profuct-051-082-expanded",
+  "version": "2026-05-29",
   "categories": [
     {
       "id": "finance",
@@ -63,7 +63,7 @@
       "bookJson": "/content/books/product-comparisons/book.json",
       "published": true,
       "order": 20,
-      "updatedAt": "2026-05-19"
+      "updatedAt": "2026-05-29"
     },
     {
       "slug": "shops-introduce",
