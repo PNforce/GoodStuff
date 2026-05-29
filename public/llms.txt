@@ -5,6 +5,7 @@
 - Site: https://pnforce.github.io/GoodStuff/
 - Sitemap: https://pnforce.github.io/GoodStuff/sitemap.xml
 - RSS: https://pnforce.github.io/GoodStuff/feed.xml
+- Search: https://pnforce.github.io/GoodStuff/search/
 
 ## Collections
 - [127_jp_stock](https://pnforce.github.io/GoodStuff/articles/127-jp-stock/): 以日本股市、產業結構與代表企業為主題的資料驅動內容範例。

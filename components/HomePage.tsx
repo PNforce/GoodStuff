@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
+import { Link, useNavigate } from 'react-router-dom';
+import { Search } from 'lucide-react';
 import BookCard from './BookCard.tsx';
 import { loadHomeContent } from '../src/lib/contentApi.ts';
 import { setPageMeta } from '../src/lib/seo.ts';
@@ -7,6 +9,15 @@ import type { CatalogBook, CatalogContent, HomeContent, SiteContent } from '../s
 
 const HeroSection: React.FC<{ site: SiteContent }> = ({ site }) => {
   const { hero } = site;
+  const navigate = useNavigate();
+  const [query, setQuery] = useState('');
+  const placeholders = hero.searchPlaceholders.length > 0 ? hero.searchPlaceholders : ['Dyson', '除濕機', '店鋪推薦'];
+
+  const submitSearch = (event: React.FormEvent) => {
+    event.preventDefault();
+    const trimmed = query.trim();
+    navigate(trimmed ? `/search?q=${encodeURIComponent(trimmed)}` : '/search');
+  };
 
   return (
     <section className="relative flex h-[80vh] w-full items-center justify-center overflow-hidden">
@@ -29,6 +40,45 @@ const HeroSection: React.FC<{ site: SiteContent }> = ({ site }) => {
             </span>
           </h1>
 
+          <div className="mx-auto w-full max-w-2xl lg:mx-0">
+            <form
+              onSubmit={submitSearch}
+              className="flex flex-col gap-3 rounded-lg border border-slate-200 bg-white p-3 shadow-sm sm:flex-row"
+            >
+              <label className="flex min-h-12 flex-1 items-center gap-3 px-2">
+                <Search className="h-5 w-5 shrink-0 text-slate-400" />
+                <input
+                  value={query}
+                  onChange={(event) => setQuery(event.target.value)}
+                  placeholder={`搜尋 ${placeholders.join('、')}`}
+                  className="w-full bg-transparent text-base text-slate-900 outline-none placeholder:text-slate-400"
+                />
+              </label>
+              <button
+                type="submit"
+                className="rounded-md bg-slate-900 px-5 py-3 text-sm font-semibold text-white transition hover:bg-slate-700"
+              >
+                搜尋
+              </button>
+            </form>
+            <div className="mt-3 flex flex-wrap justify-center gap-2 lg:justify-start">
+              {placeholders.slice(0, 4).map((keyword) => (
+                <Link
+                  key={keyword}
+                  to={`/search?q=${encodeURIComponent(keyword)}`}
+                  className="rounded-full border border-slate-200 bg-white px-3 py-1.5 text-sm font-semibold text-slate-600 hover:border-slate-400 hover:text-slate-900"
+                >
+                  {keyword}
+                </Link>
+              ))}
+              <Link
+                to="/search"
+                className="rounded-full border border-slate-900 bg-slate-900 px-3 py-1.5 text-sm font-semibold text-white hover:bg-slate-700"
+              >
+                全部搜尋入口
+              </Link>
+            </div>
+          </div>
         </motion.div>
 
         <motion.div
@@ -131,7 +181,7 @@ const HomePage: React.FC = () => {
     }
 
     setPageMeta({
-      title: `${content.site.siteName} | Curated Guides`,
+      title: `${content.site.siteName} | 家電與生活商品比較指南`,
       description: `${content.site.hero.titlePrefix}${content.site.hero.titleHighlight} ${content.site.library.subtitle}`,
       path: '/',
       type: 'website',

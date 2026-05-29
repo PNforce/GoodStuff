@@ -158,6 +158,26 @@ export interface HomeContent {
   books: CatalogBook[];
 }
 
+export interface SearchIndexItem {
+  id: string;
+  type: 'collection' | 'article';
+  title: string;
+  summary: string;
+  url: string;
+  bookSlug: string;
+  bookTitle: string;
+  category: string;
+  order: number;
+  updatedAt: string;
+  searchableText: string;
+}
+
+export interface SearchContent {
+  catalog: CatalogContent;
+  books: BookContent[];
+  items: SearchIndexItem[];
+}
+
 export interface Article {
   slug: string;
   title: string;

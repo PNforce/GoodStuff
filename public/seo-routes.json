@@ -17,7 +17,7 @@
         "inLanguage": "zh-TW",
         "potentialAction": {
           "@type": "SearchAction",
-          "target": "https://pnforce.github.io/GoodStuff/?q={search_term_string}",
+          "target": "https://pnforce.github.io/GoodStuff/search/?q={search_term_string}",
           "query-input": "required name=search_term_string"
         }
       },
@@ -9414,5 +9414,536 @@
     ],
     "staticHtml": "<noscript data-goodstuff-seo>\n  <section lang=\"zh-TW\">\n    <h1>仙女樹 TWICE THIS IS FOR IN JAPAN 官方周邊：TWICE 日本巡演官方周邊收藏推薦分析</h1>\n    <p>補充 TWICE 日本巡演官方周邊的收藏定位、適合粉絲與評價觀察重點。</p>\n    <p>仙女樹 TWICE THIS IS FOR IN JAPAN 官方周邊：TWICE 日本巡演官方周邊收藏推薦分析 以下內容聚焦 仙女樹 TWICE THIS IS FOR IN JAPAN 官方周邊 的商品理解：它解決什麼問題、誰會用得上、哪些地方要保守看待。 適合誰看這篇 仙女樹 TWICE THIS IS FOR IN JAPAN 官方周邊 的重點不在於把規格堆滿，而是它能不能解決明確場景。公開頁面顯示販售店鋪為「仙女樹。FAIRYTREE🌟」，價格約 NT$1,200，目前公開銷量仍低，適合以商品題材、店鋪說明與自身收藏需求為主來判斷；因此本文會把商品定位、適合族群與使用限制拆開來看。 對想收藏 TWICE 日本國立競技場世界巡迴演唱會官方周邊，或正在補特定巡演商品的人來說，這件商品的吸引力在於巡演周邊的價值來自場次記憶、官方來源、版本與保存狀態，銷量較低也代表更需要細看頁面資訊。因此閱讀時可以先把自己的空間、使用頻率、保存方式或功能需求放在前面。 也有一群人不必急著考慮它：對尺寸、功率、版本、材質或售後條件要求很高，卻無法從頁面確認關鍵細節的人，應該先暫緩。 商品圖片 仙女…</p>\n    \n  </section>\n</noscript>",
     "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-082/"
+  },
+  {
+    "path": "/search",
+    "title": "搜尋商品比較、店鋪與單品指南 | GoodStuff",
+    "description": "用關鍵字快速搜尋 GoodStuff 的商品比較、店鋪介紹與單品推薦，依照用途、品牌、品類與使用情境找到可閱讀的選購內容。",
+    "type": "website",
+    "priority": "0.95",
+    "lastmod": "2026-05-29",
+    "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "SearchResultsPage",
+        "name": "搜尋商品比較、店鋪與單品指南 | GoodStuff",
+        "headline": "搜尋商品比較、店鋪與單品指南 | GoodStuff",
+        "description": "用關鍵字快速搜尋 GoodStuff 的商品比較、店鋪介紹與單品推薦，依照用途、品牌、品類與使用情境找到可閱讀的選購內容。",
+        "url": "https://pnforce.github.io/GoodStuff/search/",
+        "inLanguage": "zh-TW",
+        "dateModified": "2026-05-29",
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "GoodStuff",
+          "url": "https://pnforce.github.io/GoodStuff/"
+        },
+        "mainEntity": {
+          "@type": "ItemList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "127_jp_stock",
+              "url": "https://pnforce.github.io/GoodStuff/articles/127-jp-stock/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "第一章：日本股票市場概覽",
+              "url": "https://pnforce.github.io/GoodStuff/articles/127-jp-stock/market-overview/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "第八章：豐田汽車 Toyota",
+              "url": "https://pnforce.github.io/GoodStuff/articles/127-jp-stock/toyota/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "家電與生活商品比較指南",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Dyson BP04 vs Dyson HushJet：大空間旗艦清淨與小房間低噪清淨怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/bp04-vs-hushjet/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "Dyson BP04 vs Dyson HP11：大空間旗艦清淨與涼暖三合一怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/bp04-vs-hp11/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "Dyson HushJet vs LG AS651：小房間低噪與寵物家庭清淨怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/hushjet-vs-lg-as651/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "LG AS651 vs LG AS601：寵物版二代 LITE 與大白 Hit 怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-as651-vs-lg-as601/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "LG AS601 vs Electrolux EP32：18坪大白與8坪抗敏小機怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-as601-vs-electrolux-ep32/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "Dyson V12s Complete vs V12s Origin：三主吸頭完整組與精簡濕拖組怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/v12s-complete-vs-v12s-origin/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "Dyson V12 Detect Slim vs Digital Slim：灰塵偵測科技與輕量預算款怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/v12-detect-vs-digital-slim/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "Dyson V8 Cyclone vs Digital Slim：入門經典與輕量智慧款怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/v8-vs-digital-slim/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "Dyson PencilVac vs Digital Slim：硬地快掃與全能輕量吸塵怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/pencilvac-vs-digital-slim/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "Dyson V12 Detect Slim vs V8 Cyclone：智慧偵測與入門價格怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/v12-detect-vs-v8/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 15,
+              "name": "LG 18L vs LG 16L 除濕機：新款大容量與熱銷經典怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-18l-vs-lg-16l/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 16,
+              "name": "LG 18L vs LG 12L 除濕機：大坪數主力與小家庭中階怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-18l-vs-lg-12l/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 17,
+              "name": "LG 16L vs LG 12L 除濕機：熱銷甜蜜點與小空間新款怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-16l-vs-lg-12l/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 18,
+              "name": "Panasonic 11L vs 9L nanoeX 除濕機：14坪與11坪房間機怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/panasonic-11l-vs-9l/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 19,
+              "name": "Panasonic 11L vs HITACHI 8L 除濕機：安全功能與小容量節電怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/panasonic-11l-vs-hitachi-8l/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 20,
+              "name": "Panasonic 9L vs SHARP 6L mini：小房間除濕與美型迷你機怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/panasonic-9l-vs-sharp-6l/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 21,
+              "name": "Xiaomi 智慧除濕機 vs Electrolux 10L：智慧聯動與清淨除濕怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/xiaomi-vs-electrolux-10l/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 22,
+              "name": "HITACHI 8L vs SHARP 6L mini：小容量務實機與美型安靜機怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/hitachi-8l-vs-sharp-6l/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 23,
+              "name": "LG 12L vs Electrolux 10L：新款雙變頻與清淨除濕折衷款怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-12l-vs-electrolux-10l/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 24,
+              "name": "VMI M600 投影機 vs 65型 4K QLED 電視：租屋大畫面與客廳穩定畫質怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/vmi-m600-vs-qled-tv/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 25,
+              "name": "Electrolux ZB3324B vs ZB3302AK：除蟎 HEPA 與日常輕量清潔怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/electrolux-zb3324b-vs-zb3302ak/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 26,
+              "name": "1Zpresso K-Ultra vs ZP6 特仕版：全能手搖磨豆機與手沖清晰派怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/1zpresso-k-ultra-vs-zp6/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 27,
+              "name": "Whirlpool WM07PW vs SONGH 迷你洗衣機：租屋日常洗衣與貼身衣物分洗怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/whirlpool-wm07pw-vs-songh-mini-washer/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 28,
+              "name": "K200 國民投影機 vs 1080P 便攜投影機：台灣保固與低價大畫面怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/k200-vs-1080p-portable-projector/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 29,
+              "name": "SAMPO RE-B020PM vs Whirlpool AKM2064ES：20L 微波爐要選微電腦還是高銷量入門款",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/sampo-reb020pm-vs-whirlpool-akm2064es/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 30,
+              "name": "BRUNO BOE076 vs Philips STH3020：美型掛燙機與折疊旅行款怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/bruno-boe076-vs-philips-sth3020/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 31,
+              "name": "Roborock Q8 Max Pro vs Xiaomi S40 Pro：防纏繞掃拖與雙機械臂拖布怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/roborock-q8-max-pro-vs-xiaomi-s40-pro/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 32,
+              "name": "Tefal Ultra 4.2L vs Electrolux E3AF1-110B：大容量氣炸鍋與小家庭旋鈕款怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/tefal-ultra-vs-electrolux-e3af1/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 33,
+              "name": "Haier WD301 vs CHIMEI WB-50YS02：瞬熱飲水機與 5L 熱水瓶怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/haier-wd301-vs-chimei-wb50ys02/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 34,
+              "name": "Future Lab GC2 vs GC1 光能清淨機：車用小空間與家用除味需求怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/futurelab-gc2-vs-gc1/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 35,
+              "name": "Hysure Q9 vs Polo 清淨除濕機：浴室、衣櫃與小房間防潮怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/hysure-q9-vs-polo/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 36,
+              "name": "HERAN 6L 除濕機 vs Hysure George：新一級能效與小型浴室除濕怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/heran-hdh-12dy030-vs-hysure-george/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 37,
+              "name": "Apolnus Ultra S7 vs Xiaomi 4 Lite 空氣清淨機：8坪濾淨與智慧清淨怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/apolnus-ultra-s7-vs-xiaomi-air-purifier-4-lite/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 38,
+              "name": "Future Lab Midizon vs SANSUI GRA360：浴室除濕與衣櫃鞋櫃防潮怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/futurelab-midizon-vs-sansui-gra360/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 39,
+              "name": "SONGH 全鋼破壁豆漿機 vs OX9 冷熱豆漿機：免濾、容量與清潔怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/songh-soymilk-maker-vs-ox9/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 40,
+              "name": "SAMPO RE-C020PR vs Whirlpool MWP201EBT：20L 平台微波爐怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/sampo-rec020pr-vs-whirlpool-mwp201ebt/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 41,
+              "name": "兆基 40 吋 vs 32 吋智慧電視：租屋、臥室與小客廳尺寸怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/zhaoji-40-inch-vs-32-inch-smart-tv/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 42,
+              "name": "Xiaomi G20 Lite vs P30 無線吸塵器：LED 探照、重量與租屋清潔怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/xiaomi-g20-lite-vs-p30-vacuum/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 43,
+              "name": "Kolin 5L 透視氣炸鍋 vs Arlink 2L 小型氣炸鍋：容量、清潔與一人食怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/kolin-5l-vs-arlink-2l-air-fryer/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 44,
+              "name": "recolte Cordless Bonne RCP-7 vs Bonne RCP-3：無線調理機與插電萬用調理機怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/recolte-cordless-bonne-vs-bonne-rcp3/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 45,
+              "name": "店鋪介紹",
+              "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 46,
+              "name": "＂緣來是你＂雞血藤(台灣發貨) 產品比較指南",
+              "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-001/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 47,
+              "name": "168批發生活百貨館熱賣玩具比較指南",
+              "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-002/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 48,
+              "name": "🌸小花go物批發🌸 產品比較指南",
+              "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-003/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 49,
+              "name": "🎀安娜Shop🔥美麗養成計劃🌟美膚🌟美胸🌟超有感の女神秘密 產品比較指南",
+              "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-004/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 50,
+              "name": "🏆詮信商行 產品比較指南",
+              "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-005/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 51,
+              "name": "🐘石之靈🐘 產品比較指南",
+              "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-006/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 52,
+              "name": "🐳鯨達🐳【貼紙、兒童貼紙、卡通貼紙、獎勵貼紙、防水貼紙】 產品比較指南",
+              "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-007/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 53,
+              "name": "💃WillMusic 產品比較指南",
+              "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-008/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 54,
+              "name": "💎天宮珠寶💎 產品比較指南",
+              "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-009/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 55,
+              "name": "💎梦想家💎品质好物 產品比較指南",
+              "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-010/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 56,
+              "name": "💕購物狂女孩💕 小布飾品 & 之之平價服飾 直播場比較指南",
+              "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-011/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 57,
+              "name": "💖趁財財燈飾💖 產品比較指南",
+              "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-012/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 58,
+              "name": "💙小熊居家優選💙 產品比較指南",
+              "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-013/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 59,
+              "name": "💝氣質娘娘的嚴選客製水晶礦石💝 產品比較指南",
+              "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-014/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 60,
+              "name": "📢《特殊傳說》稀有周邊出清專場 產品比較指南",
+              "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-015/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 61,
+              "name": "😊居家樂😊 產品比較指南",
+              "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-016/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 62,
+              "name": "🛠艾瑪五金生活百貨🛠 專業電工接線器比較指南",
+              "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-017/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 63,
+              "name": "《100種桌遊介紹和技巧解說》深度推薦評析",
+              "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-018/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 64,
+              "name": "單件商品介紹",
+              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 65,
+              "name": "Electrolux ZB3324B HEPA 除蟎版無線吸塵器：床墊、毛髮與日常地板清潔選購筆記",
+              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-001/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 66,
+              "name": "Whirlpool WM07PW 7公斤直立洗衣機：小家庭、租屋與陽台空間的實用選購筆記",
+              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-002/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 67,
+              "name": "Hysure 海說 Q9 除濕清淨機：小空間濕氣、衣櫃旁與臥室角落的選購筆記",
+              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-003/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 68,
+              "name": "Apolnus Ultra S7 空氣清淨機：小坪數、低噪音與免頻繁換濾網需求的選購筆記",
+              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-004/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 69,
+              "name": "1Zpresso K-Ultra 手搖磨豆機：手沖、義式入門與高階手磨使用者的選購筆記",
+              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-005/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 70,
+              "name": "Electrolux Well Q6 WQ61-1OGG 無線吸塵器：毛髮、灰塵與輕量日常清潔選購筆記",
+              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-006/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 71,
+              "name": "Roborock Q8 Max Pro 掃拖機器人：10,000Pa、LiDAR 導航與防纏繞需求選購筆記",
+              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-007/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 72,
+              "name": "K200 三代 4K 國民投影機：租屋、臥室與入門大畫面娛樂選購筆記",
+              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-008/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 73,
+              "name": "Esense LED 超明亮護眼檯燈：讀書、辦公與長時間桌面照明選購筆記",
+              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-009/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 74,
+              "name": "Hysure Polo 空氣清淨除濕機：小房間、衣櫃旁與局部濕氣管理選購筆記",
+              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-010/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 75,
+              "name": "recolte Cordless Bonne RCP-7 無線萬用調理機：備料、絞碎與小家庭料理選購筆記",
+              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-011/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 76,
+              "name": "Electrolux ZB3302AK HEPA 進化版無線吸塵器：日常地板與床墊配件選購筆記",
+              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-012/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 77,
+              "name": "1Zpresso ZP6 Special 手搖磨豆機：手沖清晰度、風味層次與非義式玩家選購筆記",
+              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-013/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 78,
+              "name": "HERAN HDH-12DY030(N) 6公升除濕機：臥室、小房間與節能除濕選購筆記",
+              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-014/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 79,
+              "name": "Jazzy DP-10+ 88鍵折疊電子琴：租屋、初學與可攜練琴選購筆記",
+              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-015/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 80,
+              "name": "SANSUI WHITE-A1 高壓織物清潔機：沙發、床墊與布面污漬清潔選購筆記",
+              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-016/"
+            }
+          ]
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "GoodStuff",
+            "item": "https://pnforce.github.io/GoodStuff/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "搜尋入口",
+            "item": "https://pnforce.github.io/GoodStuff/search/"
+          }
+        ]
+      }
+    ],
+    "staticHtml": "<noscript data-goodstuff-seo>\n  <section lang=\"zh-TW\">\n    <h1>搜尋商品比較、店鋪與單品指南 | GoodStuff</h1>\n    <p>用關鍵字快速搜尋 GoodStuff 的商品比較、店鋪介紹與單品推薦，依照用途、品牌、品類與使用情境找到可閱讀的選購內容。</p>\n    \n    <ul><li><a href=\"https://pnforce.github.io/GoodStuff/articles/127-jp-stock/\">127_jp_stock</a>：以日本股市、產業結構與代表企業為主題的資料驅動內容範例。</li><li><a href=\"https://pnforce.github.io/GoodStuff/articles/127-jp-stock/market-overview/\">第一章：日本股票市場概覽</a>：從市場結構、產業特性與投資觀察切入。</li><li><a href=\"https://pnforce.github.io/GoodStuff/articles/127-jp-stock/toyota/\">第八章：豐田汽車 Toyota</a>：以豐田作為日本大型企業分析範例。</li><li><a href=\"https://pnforce.github.io/GoodStuff/articles/product-comparisons/\">家電與生活商品比較指南</a>：整理空氣清淨、除濕、吸塵清潔與影音設備的選購比較，協助依照空間、預算與使用頻率判斷。</li><li><a href=\"https://pnforce.github.io/GoodStuff/articles/product-comparisons/bp04-vs-hushjet/\">Dyson BP04 vs Dyson HushJet：大空間旗艦清淨與小房間低噪清淨怎麼選</a>：整合官方規格、獨立評測與公開使用者討論，深入比較 Dyson BP04 與 Dyson HushJet HJ10 的空間定位、濾網差異、噪音表現與真實選購取捨。</li><li><a href=\"https://pnforce.github.io/GoodStuff/articles/product-comparisons/bp04-vs-hp11/\">Dyson BP04 vs Dyson HP11：大空間旗艦清淨與涼暖三合一怎麼選</a>：比較 Dyson BP04 與 HP11 的清淨定位、暖風功能、濾網配置、使用者期待落差與購買取捨。</li><li><a href=\"https://pnforce.github.io/GoodStuff/articles/product-comparisons/hushjet-vs-lg-as651/\">Dyson HushJet vs LG AS651：小房間低噪與寵物家庭清淨怎麼選</a>：從房間大小、寵物毛髮與氣味、低噪需求、濾網設計與公開評測討論比較 HushJet HJ10 和 LG AS651。</li><li><a href=\"https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-as651-vs-lg-as601/\">LG AS651 vs LG AS601：寵物版二代 LITE 與大白 Hit 怎麼選</a>：比較 LG AS651 寵物功能增加版與 AS601 大白 Hit 的空間定位、濾網訴求、價格差距與使用族群。</li><li><a href=\"https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-as601-vs-electrolux-ep32/\">LG AS601 vs Electrolux EP32：18坪大白與8坪抗敏小機怎麼選</a>：從坪數、預算、濾網功能、外型與長期維護比較 LG AS601 和 Electrolux EP32。</li><li><a href=\"https://pnforce.github.io/GoodStuff/articles/product-comparisons/v12s-complete-vs-v12s-origin/\">Dyson V12s Complete vs V12s Origin：三主吸頭完整組與精簡濕拖組怎麼選</a>：比較 Dyson V12s Complete 與 V12s Origin 的配件差異、Submarine 濕拖定位、價格與適合族群。</li><li><a href=\"https://pnforce.github.io/GoodStuff/articles/product-comparisons/v12-detect-vs-digital-slim/\">Dyson V12 Detect Slim vs Digital Slim：灰塵偵測科技與輕量預算款怎麼選</a>：比較 V12 Detect Slim 與 Digital Slim 的偵測功能、重量、吸力、價格與日常清潔體驗。</li><li><a href=\"https://pnforce.github.io/GoodStuff/articles/product-comparisons/v8-vs-digital-slim/\">Dyson V8 Cyclone vs Digital Slim：入門經典與輕量智慧款怎麼選</a>：從價格、機身架構、手感、功能新舊與日常維護比較 Dyson V8 Cyclone 和 Digital Slim。</li><li><a href=\"https://pnforce.github.io/GoodStuff/articles/product-comparisons/pencilvac-vs-digital-slim/\">Dyson PencilVac vs Digital Slim：硬地快掃與全能輕量吸塵怎麼選</a>：比較 PencilVac SV50 和 Digital Slim 的硬地定位、集塵容量、續航、手持能力與適合家庭。</li><li><a href=\"https://pnforce.github.io/GoodStuff/articles/product-comparisons/v12-detect-vs-v8/\">Dyson V12 Detect Slim vs V8 Cyclone：智慧偵測與入門價格怎麼選</a>：比較 V12 Detect Slim 和 V8 Cyclone 的感測科技、吸力架構、重量、價格與適用清潔習慣。</li><li><a href=\"https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-18l-vs-lg-16l/\">LG 18L vs LG 16L 除濕機：新款大容量與熱銷經典怎麼選</a>：比較 LG DD181MWE0 18L 與 MD161QPK3 16L 的除濕量、噪音、功能、價格與銷量口碑。</li><li><a href=\"https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-18l-vs-lg-12l/\">LG 18L vs LG 12L 除濕機：大坪數主力與小家庭中階怎麼選</a>：比較 LG DD181MWE0 18L 與 DD121MWE0 12L 的容量、功能、重量、價格與適合空間。</li><li><a href=\"https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-16l-vs-lg-12l/\">LG 16L vs LG 12L 除濕機：熱銷甜蜜點與小空間新款怎麼選</a>：比較 LG MD161QPK3 16L 與 DD121MWE0 12L 的價格、銷量、容量、噪音與空間適配。</li><li><a href=\"https://pnforce.github.io/GoodStuff/articles/product-comparisons/panasonic-11l-vs-9l/\">Panasonic 11L vs 9L nanoeX 除濕機：14坪與11坪房間機怎麼選</a>：比較 Panasonic F-Y22PN 11L 和 F-Y18PN 9L 的除濕量、適用坪數、nanoeX、安全裝置與價格。</li><li><a href=\"https://pnforce.github.io/GoodStuff/articles/product-comparisons/panasonic-11l-vs-hitachi-8l/\">Panasonic 11L vs HITACHI 8L 除濕機：安全功能與小容量節電怎麼選</a>：比較 Panasonic F-Y22PN 11L 與 HITACHI RD-16FR1 8L 的容量、坪數、安全、乾衣模式與價格。</li><li><a href=\"https://pnforce.github.io/GoodStuff/articles/product-comparisons/panasonic-9l-vs-sharp-6l/\">Panasonic 9L vs SHARP 6L mini：小房間除濕與美型迷你機怎麼選</a>：比較 Panasonic F-Y18PN 9L 與 SHARP DW-X6NT-W 6L 的容量、體積、噪音、安全與小空間適配。</li></ul>\n  </section>\n</noscript>",
+    "url": "https://pnforce.github.io/GoodStuff/search/"
   }
 ]

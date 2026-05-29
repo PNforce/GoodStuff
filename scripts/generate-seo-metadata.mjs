@@ -5,6 +5,8 @@ const DEFAULT_SITE_URL = 'https://pnforce.github.io/GoodStuff/';
 const DEFAULT_LASTMOD = '2026-05-29';
 const SITE_NAME = 'GoodStuff';
 const SITE_DESCRIPTION = 'GoodStuff 整理家電、生活商品、店鋪與單品選購指南，協助讀者用公開資料、價格、銷量與使用情境做出更好的購買判斷。';
+const SEARCH_TITLE = '搜尋商品比較、店鋪與單品指南 | GoodStuff';
+const SEARCH_DESCRIPTION = '用關鍵字快速搜尋 GoodStuff 的商品比較、店鋪介紹與單品推薦，依照用途、品牌、品類與使用情境找到可閱讀的選購內容。';
 
 const root = process.cwd();
 const publicDir = path.join(root, 'public');
@@ -167,7 +169,7 @@ addRoute({
       inLanguage: 'zh-TW',
       potentialAction: {
         '@type': 'SearchAction',
-        target: `${absoluteUrl('/')}?q={search_term_string}`,
+        target: `${absolutePageUrl('/search')}?q={search_term_string}`,
         'query-input': 'required name=search_term_string',
       },
     },
@@ -196,10 +198,12 @@ const llmsLines = [
   `- Site: ${absoluteUrl('/')}`,
   `- Sitemap: ${absoluteUrl('/sitemap.xml')}`,
   `- RSS: ${absoluteUrl('/feed.xml')}`,
+  `- Search: ${absolutePageUrl('/search')}`,
   '',
   '## Collections',
 ];
 const feedItems = [];
+const searchLinks = [];
 
 for (const bookRef of books) {
   const bookJsonPath = publicFilePath(bookRef.bookJson);
@@ -221,6 +225,12 @@ for (const bookRef of books) {
   }));
 
   llmsLines.push(`- [${bookTitle}](${bookUrl}): ${bookDescription}`);
+  searchLinks.push({
+    title: bookTitle,
+    summary: bookDescription,
+    path: bookPath,
+    url: bookUrl,
+  });
 
   addRoute({
     path: bookPath,
@@ -272,6 +282,12 @@ for (const bookRef of books) {
     const description = truncate(chapter.summary || articleBody || `${chapter.title} on ${SITE_NAME}`, 240);
 
     llmsLines.push(`- [${chapter.title}](${chapterUrl}): ${description}`);
+    searchLinks.push({
+      title: chapter.title,
+      summary: description,
+      path: chapterPath,
+      url: chapterUrl,
+    });
     feedItems.push({
       title: chapter.title,
       description,
@@ -331,6 +347,46 @@ for (const bookRef of books) {
 
   llmsLines.push('');
 }
+
+addRoute({
+  path: '/search',
+  title: SEARCH_TITLE,
+  description: SEARCH_DESCRIPTION,
+  type: 'website',
+  priority: '0.95',
+  lastmod: catalogLastmod,
+  image: absoluteUrl('/images/books/product-comparisons.svg'),
+  structuredData: [
+    {
+      '@context': 'https://schema.org',
+      '@type': 'SearchResultsPage',
+      name: SEARCH_TITLE,
+      headline: SEARCH_TITLE,
+      description: SEARCH_DESCRIPTION,
+      url: absolutePageUrl('/search'),
+      inLanguage: 'zh-TW',
+      dateModified: catalogLastmod,
+      isPartOf: {
+        '@type': 'WebSite',
+        name: SITE_NAME,
+        url: absoluteUrl('/'),
+      },
+      mainEntity: itemList(searchLinks.slice(0, 80)),
+    },
+    {
+      '@context': 'https://schema.org',
+      ...breadcrumbItems([
+        { name: SITE_NAME, url: absoluteUrl('/') },
+        { name: '搜尋入口', url: absolutePageUrl('/search') },
+      ]),
+    },
+  ],
+  staticHtml: staticHtml({
+    title: SEARCH_TITLE,
+    description: SEARCH_DESCRIPTION,
+    links: searchLinks.slice(0, 80),
+  }),
+});
 
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

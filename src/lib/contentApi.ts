@@ -5,6 +5,8 @@ import type {
   CatalogContent,
   ChapterContent,
   HomeContent,
+  SearchContent,
+  SearchIndexItem,
   SiteContent,
 } from '../types';
 
@@ -271,5 +273,67 @@ export async function loadBookRouteContent(
     catalog,
     bookRef,
     book,
+  };
+}
+
+const normalizeSearchText = (...values: string[]) =>
+  values
+    .join(' ')
+    .toLocaleLowerCase('zh-TW')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+export async function loadSearchContent(signal?: AbortSignal): Promise<SearchContent> {
+  const catalog = await loadCatalogContent(signal);
+  const bookRefs = catalog.books.filter((book) => book.published);
+  const books = await Promise.all(bookRefs.map((book) => loadBookContent(book.bookJson, signal)));
+  const items: SearchIndexItem[] = [];
+
+  for (const book of books) {
+    const bookRef = bookRefs.find((item) => item.slug === book.slug);
+    const updatedAt = book.updatedAt || bookRef?.updatedAt || catalog.version;
+
+    items.push({
+      id: `collection:${book.slug}`,
+      type: 'collection',
+      title: book.title,
+      summary: book.summary || bookRef?.summary || '',
+      url: `/articles/${book.slug}`,
+      bookSlug: book.slug,
+      bookTitle: book.title,
+      category: book.category || bookRef?.category || 'uncategorized',
+      order: bookRef?.order ?? 0,
+      updatedAt,
+      searchableText: normalizeSearchText(book.title, book.summary, book.slug, book.category),
+    });
+
+    for (const chapter of book.chapters.filter((chapter) => chapter.published)) {
+      items.push({
+        id: `article:${book.slug}:${chapter.slug}`,
+        type: 'article',
+        title: chapter.title,
+        summary: chapter.summary,
+        url: `/articles/${book.slug}/${chapter.slug}`,
+        bookSlug: book.slug,
+        bookTitle: book.title,
+        category: book.category || bookRef?.category || 'uncategorized',
+        order: (bookRef?.order ?? 0) * 1000 + chapter.order,
+        updatedAt,
+        searchableText: normalizeSearchText(
+          chapter.title,
+          chapter.summary,
+          chapter.slug,
+          book.title,
+          book.summary,
+          book.category,
+        ),
+      });
+    }
+  }
+
+  return {
+    catalog,
+    books,
+    items: items.sort((a, b) => a.order - b.order),
   };
 }
