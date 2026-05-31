@@ -406,6 +406,86 @@
       "md": "/content/books/product-comparisons/chapters/050-songh-stainless-kettle-vs-glass-kettle.md",
       "order": 500,
       "published": true
+    },
+    {
+      "slug": "mini-electric-pot-vs-jh26-smart-cooker",
+      "title": "迷你電煮鍋 vs JH-26 智能快煮鍋：宿舍小鍋與 4L 家用鍋怎麼選",
+      "summary": "比較皇兒小舖迷你電煮鍋與 JH-26 4.0L 智能快煮鍋，從容量、宿舍使用、蒸煮需求、清潔、配件與用電安全判斷。",
+      "md": "/content/books/product-comparisons/chapters/051-mini-electric-pot-vs-jh26-smart-cooker.md",
+      "order": 510,
+      "published": true
+    },
+    {
+      "slug": "hongjin-le01-vs-usb-mosquito-racket",
+      "title": "HongJin LE-01 vs USB 大網面電蚊拍：立架滅蚊燈與低價手持款怎麼選",
+      "summary": "比較 HongJin LE-01 兩用電蚊拍與黃小鴨 USB 大網面電蚊拍，從充電、立架、手電筒、放置位置、價格與安全收納判斷。",
+      "md": "/content/books/product-comparisons/chapters/052-hongjin-le01-vs-usb-mosquito-racket.md",
+      "order": 520,
+      "published": true
+    },
+    {
+      "slug": "hongjin-surge-extension-vs-ilife-overload-extension",
+      "title": "宏晉防雷延長線 vs iLife 過載斷電延長線：USB 充電與高銷量安全款怎麼選",
+      "summary": "比較宏晉 4 孔 3USB 防雷延長線與 iLife 台灣製過載斷電延長線，從 BSMI、過載保護、USB、線長、插座數與使用場景判斷。",
+      "md": "/content/books/product-comparisons/chapters/053-hongjin-surge-extension-vs-ilife-overload-extension.md",
+      "order": 530,
+      "published": true
+    },
+    {
+      "slug": "panasonic-battery-vs-energizer-battery",
+      "title": "Panasonic 電池 vs 勁量鹼性電池：低價補貨與遙控器常備電怎麼選",
+      "summary": "比較 Panasonic 國際牌電池與勁量鹼性電池，從單價、銷量、遙控器、玩具、小家電、保存與回收方式判斷。",
+      "md": "/content/books/product-comparisons/chapters/054-panasonic-battery-vs-energizer-battery.md",
+      "order": 540,
+      "published": true
+    },
+    {
+      "slug": "xiaomi-mini-vacuum-vs-catchdream-handheld-vacuum",
+      "title": "米家無線吸塵器 mini vs 捕夢網手持吸塵器：品牌迷你款與低價車用款怎麼選",
+      "summary": "比較米家無線吸塵器 mini 與捕夢網無線手持吸塵器，從車用、桌面、品牌、濾網、吸力期待、價格與收納判斷。",
+      "md": "/content/books/product-comparisons/chapters/055-xiaomi-mini-vacuum-vs-catchdream-handheld-vacuum.md",
+      "order": 550,
+      "published": true
+    },
+    {
+      "slug": "shengang-wall-tap-vs-ilife-switch-adapter",
+      "title": "聖岡壁插分接器 vs iLife 獨立開關分接器：直插擴充與節能開關怎麼選",
+      "summary": "比較聖岡科技節能壁插分接器與 iLife 獨立開關分接器，從直插、旋轉插頭、獨立開關、USB、插座方向與負載安全判斷。",
+      "md": "/content/books/product-comparisons/chapters/056-shengang-wall-tap-vs-ilife-switch-adapter.md",
+      "order": 560,
+      "published": true
+    },
+    {
+      "slug": "usb-water-pump-vs-filter-water-pitcher",
+      "title": "USB 桶裝水抽水器 vs 活性炭濾水壺：取水便利與水質過濾怎麼選",
+      "summary": "比較黃小鴨自動智能抽水器與 CATIS 活性炭濾水壺，從桶裝水、USB 充電、濾芯、家庭飲水、清洗與耗材判斷。",
+      "md": "/content/books/product-comparisons/chapters/057-usb-water-pump-vs-filter-water-pitcher.md",
+      "order": 570,
+      "published": true
+    },
+    {
+      "slug": "havegreen-xiaomi-filter-vs-yiyue-hepa-filter",
+      "title": "綠綠好日小米濾網 vs 怡悅 HEPA 濾芯：RFID 相容款與高銷量台灣製怎麼選",
+      "summary": "比較綠綠好日小米空氣清淨機濾網與怡悅 HEPA 抗菌濾芯，從 RFID、相容機型、HEPA、活性碳、銷量與更換成本判斷。",
+      "md": "/content/books/product-comparisons/chapters/058-havegreen-xiaomi-filter-vs-yiyue-hepa-filter.md",
+      "order": 580,
+      "published": true
+    },
+    {
+      "slug": "kai-wireless-doorbell-vs-hongjiayuan-af1",
+      "title": "KAI 無線門鈴 vs 鴻嘉源 AF1：贈電池款與免電池門鈴怎麼選",
+      "summary": "比較 KAI 卡斯佳無線門鈴與鴻嘉源 AF1 免電池無線門鈴，從安裝、音量、鈴聲、看護鈴用途、電池維護與距離判斷。",
+      "md": "/content/books/product-comparisons/chapters/059-kai-wireless-doorbell-vs-hongjiayuan-af1.md",
+      "order": 590,
+      "published": true
+    },
+    {
+      "slug": "electric-food-chopper-vs-kolin-kje-hc500",
+      "title": "低價電動攪拌機 vs Kolin KJE-HC500：副食品切碎與品牌調理機怎麼選",
+      "summary": "比較低價電動食品攪拌機與 Kolin KJE-HC500 萬用食物調理機，從切菜、絞肉、副食品、清洗、容量、品牌與食品安全判斷。",
+      "md": "/content/books/product-comparisons/chapters/060-electric-food-chopper-vs-kolin-kje-hc500.md",
+      "order": 600,
+      "published": true
     }
   ]
 }
