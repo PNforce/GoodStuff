@@ -5,7 +5,7 @@
     "description": "GoodStuff 整理家電、生活商品、店鋪與單品選購指南，協助讀者用公開資料、價格、銷量與使用情境做出更好的購買判斷。",
     "type": "website",
     "priority": "1.0",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -220,7 +220,7 @@
     "description": "整理空氣清淨、除濕、吸塵清潔與影音設備的選購比較，協助依照空間、預算與使用頻率判斷。",
     "type": "website",
     "priority": "0.9",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -231,7 +231,7 @@
         "description": "整理空氣清淨、除濕、吸塵清潔與影音設備的選購比較，協助依照空間、預算與使用頻率判斷。",
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/",
         "inLanguage": "zh-TW",
-        "dateModified": "2026-05-29",
+        "dateModified": "2026-05-31",
         "isPartOf": {
           "@type": "WebSite",
           "name": "GoodStuff",
@@ -479,6 +479,66 @@
               "position": 40,
               "name": "recolte Cordless Bonne RCP-7 vs Bonne RCP-3：無線調理機與插電萬用調理機怎麼選",
               "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/recolte-cordless-bonne-vs-bonne-rcp3/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 41,
+              "name": "CT17 vs CT15 空氣清淨除濕機：浴室防潮與千元小空間怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/ct17-vs-ct15-dehumidifier/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 42,
+              "name": "Jessga H3-S vs H2 智能除濕機：雙排水浴室款與 20 坪房間款怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/jessga-h3s-vs-h2-dehumidifier/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 43,
+              "name": "KOCA Dusty Mini 1 vs SUiTU 迷你吸塵器：車用小鋼炮與高銷量預算款怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/koca-dusty-mini-vs-suitu-mini-vacuum/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 44,
+              "name": "Kolin PTC 陶瓷電暖器 vs 三檔桌上型電暖器：浴室壁掛與租屋取暖怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/kolin-ptc-heater-vs-table-heater/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 45,
+              "name": "GK2 vs Z1Air 電視盒：繁體介面、Google Play 與串流畫質怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/gk2-vs-z1air-tv-box/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 46,
+              "name": "高溫蒸汽清洗機 vs SANSUI WHITE-A1：廚房油污與布沙發深層清潔怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/steam-cleaner-vs-sansui-white-a1/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 47,
+              "name": "SONGH 鴛鴦雙拼電火鍋 vs Kolin 三人份電鍋：租屋煮食與日常米飯怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/songh-dual-hotpot-vs-kolin-rice-cooker/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 48,
+              "name": "KINYO TRFP 小圓鍋 vs Taiwanis 折疊鍋：雙電壓旅行鍋與寬電壓宿舍鍋怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/kinyo-trfp-vs-taiwanis-folding-pot/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 49,
+              "name": "Brita 通用濾芯 vs BRITA MAXTRA Plus PRO：低價替換與品牌濾芯怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/brita-compatible-filter-vs-maxtra-pro/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 50,
+              "name": "SONGH 304 不鏽鋼電熱水壺 vs 高硼矽玻璃電茶壺：快煮耐用與泡茶觀察怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/songh-stainless-kettle-vs-glass-kettle/"
             }
           ]
         }
@@ -511,7 +571,7 @@
     "description": "整合官方規格、獨立評測與公開使用者討論，深入比較 Dyson BP04 與 Dyson HushJet HJ10 的空間定位、濾網差異、噪音表現與真實選購取捨。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -524,8 +584,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/bp04-vs-hushjet/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/bp04-vs-hushjet/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -571,7 +631,7 @@
     "description": "比較 Dyson BP04 與 HP11 的清淨定位、暖風功能、濾網配置、使用者期待落差與購買取捨。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -584,8 +644,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/bp04-vs-hp11/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/bp04-vs-hp11/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -631,7 +691,7 @@
     "description": "從房間大小、寵物毛髮與氣味、低噪需求、濾網設計與公開評測討論比較 HushJet HJ10 和 LG AS651。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -644,8 +704,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/hushjet-vs-lg-as651/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/hushjet-vs-lg-as651/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -691,7 +751,7 @@
     "description": "比較 LG AS651 寵物功能增加版與 AS601 大白 Hit 的空間定位、濾網訴求、價格差距與使用族群。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -704,8 +764,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-as651-vs-lg-as601/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-as651-vs-lg-as601/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -751,7 +811,7 @@
     "description": "從坪數、預算、濾網功能、外型與長期維護比較 LG AS601 和 Electrolux EP32。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -764,8 +824,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-as601-vs-electrolux-ep32/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-as601-vs-electrolux-ep32/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -811,7 +871,7 @@
     "description": "比較 Dyson V12s Complete 與 V12s Origin 的配件差異、Submarine 濕拖定位、價格與適合族群。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -824,8 +884,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/v12s-complete-vs-v12s-origin/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/v12s-complete-vs-v12s-origin/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -871,7 +931,7 @@
     "description": "比較 V12 Detect Slim 與 Digital Slim 的偵測功能、重量、吸力、價格與日常清潔體驗。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -884,8 +944,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/v12-detect-vs-digital-slim/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/v12-detect-vs-digital-slim/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -931,7 +991,7 @@
     "description": "從價格、機身架構、手感、功能新舊與日常維護比較 Dyson V8 Cyclone 和 Digital Slim。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -944,8 +1004,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/v8-vs-digital-slim/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/v8-vs-digital-slim/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -991,7 +1051,7 @@
     "description": "比較 PencilVac SV50 和 Digital Slim 的硬地定位、集塵容量、續航、手持能力與適合家庭。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -1004,8 +1064,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/pencilvac-vs-digital-slim/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/pencilvac-vs-digital-slim/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -1051,7 +1111,7 @@
     "description": "比較 V12 Detect Slim 和 V8 Cyclone 的感測科技、吸力架構、重量、價格與適用清潔習慣。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -1064,8 +1124,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/v12-detect-vs-v8/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/v12-detect-vs-v8/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -1111,7 +1171,7 @@
     "description": "比較 LG DD181MWE0 18L 與 MD161QPK3 16L 的除濕量、噪音、功能、價格與銷量口碑。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -1124,8 +1184,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-18l-vs-lg-16l/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-18l-vs-lg-16l/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -1171,7 +1231,7 @@
     "description": "比較 LG DD181MWE0 18L 與 DD121MWE0 12L 的容量、功能、重量、價格與適合空間。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -1184,8 +1244,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-18l-vs-lg-12l/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-18l-vs-lg-12l/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -1231,7 +1291,7 @@
     "description": "比較 LG MD161QPK3 16L 與 DD121MWE0 12L 的價格、銷量、容量、噪音與空間適配。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -1244,8 +1304,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-16l-vs-lg-12l/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-16l-vs-lg-12l/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -1291,7 +1351,7 @@
     "description": "比較 Panasonic F-Y22PN 11L 和 F-Y18PN 9L 的除濕量、適用坪數、nanoeX、安全裝置與價格。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -1304,8 +1364,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/panasonic-11l-vs-9l/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/panasonic-11l-vs-9l/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -1351,7 +1411,7 @@
     "description": "比較 Panasonic F-Y22PN 11L 與 HITACHI RD-16FR1 8L 的容量、坪數、安全、乾衣模式與價格。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -1364,8 +1424,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/panasonic-11l-vs-hitachi-8l/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/panasonic-11l-vs-hitachi-8l/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -1411,7 +1471,7 @@
     "description": "比較 Panasonic F-Y18PN 9L 與 SHARP DW-X6NT-W 6L 的容量、體積、噪音、安全與小空間適配。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -1424,8 +1484,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/panasonic-9l-vs-sharp-6l/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/panasonic-9l-vs-sharp-6l/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -1471,7 +1531,7 @@
     "description": "比較 Xiaomi CSJ0110DM 與 Electrolux ED1031WC 的公升數標示、App、清淨功能、噪音與評價。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -1484,8 +1544,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/xiaomi-vs-electrolux-10l/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/xiaomi-vs-electrolux-10l/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -1531,7 +1591,7 @@
     "description": "比較 HITACHI RD-16FR1 8L 與 SHARP DW-X6NT-W 6L 的公升數、乾衣模式、體積、噪音與價格。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -1544,8 +1604,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/hitachi-8l-vs-sharp-6l/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/hitachi-8l-vs-sharp-6l/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -1591,7 +1651,7 @@
     "description": "比較 LG DD121MWE0 12L 與 Electrolux ED1031WC 10L 的容量、Wi-Fi、UVnano、清淨功能與價格。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -1604,8 +1664,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-12l-vs-electrolux-10l/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/lg-12l-vs-electrolux-10l/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -1651,7 +1711,7 @@
     "description": "比較 VMI M600 投影機與 65 型 4K QLED 電視的使用場景、畫面穩定性、環境光、安裝與長期體驗。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -1664,8 +1724,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/vmi-m600-vs-qled-tv/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/vmi-m600-vs-qled-tv/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -1711,7 +1771,7 @@
     "description": "比較 Electrolux ZB3324B 與 ZB3302AK 兩款完美管家系列無線吸塵器，從除蟎需求、HEPA 過濾、地板清潔、價格與耗材維護判斷適合族群。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -1724,8 +1784,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/electrolux-zb3324b-vs-zb3302ak/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/electrolux-zb3324b-vs-zb3302ak/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -1771,7 +1831,7 @@
     "description": "比較 1Zpresso K-Ultra 與 ZP6 特仕版，從手沖清晰度、義式與摩卡壺適配、刻度調整、研磨手感與預算判斷咖啡玩家該選哪台。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -1784,8 +1844,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/1zpresso-k-ultra-vs-zp6/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/1zpresso-k-ultra-vs-zp6/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -1831,7 +1891,7 @@
     "description": "比較 Whirlpool WM07PW 7 公斤直立洗衣機與 SONGH 迷你便攜洗衣機，從租屋空間、洗衣量、排水安裝、貼身衣物分洗與長期使用安全判斷。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -1844,8 +1904,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/whirlpool-wm07pw-vs-songh-mini-washer/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/whirlpool-wm07pw-vs-songh-mini-washer/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -1891,7 +1951,7 @@
     "description": "比較 K200 國民投影機與低價 1080P 便攜投影機，從保固、亮度、原生解析度、投影距離、白牆使用與租屋追劇情境判斷。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -1904,8 +1964,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/k200-vs-1080p-portable-projector/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/k200-vs-1080p-portable-projector/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -1951,7 +2011,7 @@
     "description": "比較 SAMPO RE-B020PM 與 Whirlpool AKM2064ES 兩款 20L 微波爐，從租屋族、加熱便當、操作方式、安全注意與價格銷量判斷。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -1964,8 +2024,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/sampo-reb020pm-vs-whirlpool-akm2064es/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/sampo-reb020pm-vs-whirlpool-akm2064es/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -2011,7 +2071,7 @@
     "description": "比較 BRUNO BOE076 與 Philips STH3020 手持蒸氣掛燙機，從外型、旅行收納、水箱容量、預熱速度、安全查核與衣物材質判斷。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -2024,8 +2084,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/bruno-boe076-vs-philips-sth3020/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/bruno-boe076-vs-philips-sth3020/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -2071,7 +2131,7 @@
     "description": "比較 Roborock Q8 Max Pro 與 Xiaomi S40 Pro 掃拖機器人，從吸力、防纏繞、導航、拖地設計、App 生態與售價判斷。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -2084,8 +2144,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/roborock-q8-max-pro-vs-xiaomi-s40-pro/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/roborock-q8-max-pro-vs-xiaomi-s40-pro/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -2131,7 +2191,7 @@
     "description": "比較 Tefal Ultra 4.2L 與 Electrolux E3AF1-110B 氣炸鍋，從容量、操作介面、小家庭份量、清潔與食安使用習慣判斷。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -2144,8 +2204,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/tefal-ultra-vs-electrolux-e3af1/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/tefal-ultra-vs-electrolux-e3af1/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -2191,7 +2251,7 @@
     "description": "比較 Haier 小海鷗 WD301 瞬熱式飲水機與 CHIMEI WB-50YS02 5L 熱水瓶，從泡奶、泡茶、辦公室、水量、保溫耗電與清潔判斷。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -2204,8 +2264,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/haier-wd301-vs-chimei-wb50ys02/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/haier-wd301-vs-chimei-wb50ys02/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -2251,7 +2311,7 @@
     "description": "比較 Future Lab GC2 與 GC1 光能清淨機，從車用、浴廁、小房間、HEPA/活氧宣稱、公開查核資料與廣告風險判斷。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -2264,8 +2324,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/futurelab-gc2-vs-gc1/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/futurelab-gc2-vs-gc1/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -2311,7 +2371,7 @@
     "description": "比較 Hysure Q9 與 Hysure Polo 兩款小型清淨除濕機，從浴室防潮、衣櫃鞋櫃、小房間濕氣、銷量訊號與長期維護判斷適合族群。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -2324,8 +2384,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/hysure-q9-vs-polo/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/hysure-q9-vs-polo/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -2371,7 +2431,7 @@
     "description": "比較 HERAN HDH-12DY030 6 公升除濕機與 Hysure George 小型除濕機，從除濕量、能效、浴室使用、小坪數與預算判斷。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -2384,8 +2444,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/heran-hdh-12dy030-vs-hysure-george/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/heran-hdh-12dy030-vs-hysure-george/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -2431,7 +2491,7 @@
     "description": "比較 Apolnus Ultra S7 與 Xiaomi 空氣淨化器 4 Lite，從適用坪數、濾網、CADR 查核、智慧功能、耗材與預算判斷。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -2444,8 +2504,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/apolnus-ultra-s7-vs-xiaomi-air-purifier-4-lite/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/apolnus-ultra-s7-vs-xiaomi-air-purifier-4-lite/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -2491,7 +2551,7 @@
     "description": "比較 Future Lab Midizon 衛浴殺菌除濕機與 SANSUI GRA360+NF100 小植淨除濕器，從浴室、衣櫃鞋櫃、活性碳、加熱還原與使用限制判斷。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -2504,8 +2564,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/futurelab-midizon-vs-sansui-gra360/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/futurelab-midizon-vs-sansui-gra360/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -2551,7 +2611,7 @@
     "description": "比較 SONGH 全鋼破壁豆漿機與 OX9 冷熱雙用豆漿機，從豆漿、果汁、碎冰、預約、清洗與保固判斷適合客群。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -2564,8 +2624,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/songh-soymilk-maker-vs-ox9/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/songh-soymilk-maker-vs-ox9/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -2611,7 +2671,7 @@
     "description": "比較 SAMPO RE-C020PR 與 Whirlpool MWP201EBT 兩款 20L 微波爐，從機械式與電子式、便當加熱、租屋族、清潔與安全判斷。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -2624,8 +2684,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/sampo-rec020pr-vs-whirlpool-mwp201ebt/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/sampo-rec020pr-vs-whirlpool-mwp201ebt/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -2671,7 +2731,7 @@
     "description": "比較兆基 40 吋智慧聯網電視與 32 吋智慧聯網電視，從觀看距離、解析度、租屋空間、價格與安裝判斷。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -2684,8 +2744,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/zhaoji-40-inch-vs-32-inch-smart-tv/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/zhaoji-40-inch-vs-32-inch-smart-tv/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -2731,7 +2791,7 @@
     "description": "比較 Xiaomi G20 Lite 與 Xiaomi P30 無線吸塵器，從吸力、LED 探照、續航、重量、Type-C 充電與清潔任務判斷。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -2744,8 +2804,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/xiaomi-g20-lite-vs-p30-vacuum/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/xiaomi-g20-lite-vs-p30-vacuum/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -2791,7 +2851,7 @@
     "description": "比較 Kolin KNJP-SD2063 5L 透視旋風氣炸鍋與 Arlink AF205 2L 小型氣炸鍋，從容量、透視窗、租屋、一人食與食安判斷。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -2804,8 +2864,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/kolin-5l-vs-arlink-2l-air-fryer/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/kolin-5l-vs-arlink-2l-air-fryer/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -2851,7 +2911,7 @@
     "description": "比較 recolte Cordless Bonne RCP-7 與 recolte Bonne RCP-3 萬用調理機，從無線便利、切碎攪拌、甜點副食品、清洗與收納判斷。",
     "type": "article",
     "priority": "0.8",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -2864,8 +2924,8 @@
         "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/recolte-cordless-bonne-vs-bonne-rcp3/",
         "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/recolte-cordless-bonne-vs-bonne-rcp3/",
         "inLanguage": "zh-TW",
-        "datePublished": "2026-05-29",
-        "dateModified": "2026-05-29",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
         "publisher": {
           "@type": "Organization",
           "name": "GoodStuff",
@@ -2904,6 +2964,606 @@
     ],
     "staticHtml": "<noscript data-goodstuff-seo>\n  <section lang=\"zh-TW\">\n    <h1>recolte Cordless Bonne RCP-7 vs Bonne RCP-3：無線調理機與插電萬用調理機怎麼選</h1>\n    <p>比較 recolte Cordless Bonne RCP-7 與 recolte Bonne RCP-3 萬用調理機，從無線便利、切碎攪拌、甜點副食品、清洗與收納判斷。</p>\n    <p>recolte Cordless Bonne RCP-7 vs Bonne RCP-3：無線調理機與插電萬用調理機怎麼選 插圖圖片 recolte Cordless Bonne RCP-7 vs Bonne RCP-3：無線調理機與插電萬用調理機怎麼選 使用場景地圖 圖一：兩款產品的空間定位、價格比較圖。 recolte Cordless Bonne RCP-7 vs Bonne RCP-3：無線調理機與插電萬用調理機怎麼選 功能取捨流程 圖二：空間、需求、功能與成本比較圖。 購買參考 recolte Cordless Bonne RCP-7：看 Shopee 商品與即時價格 recolte Bonne RCP-3：看 Shopee 商品與即時價格 適合誰看這篇 這篇適合喜歡做副食品、甜點、醬料、冰沙或小份量備料的人。recolte Cordless Bonne RCP-7 是無線萬用調理機，主打切碎、攪拌、磨泥、打發與不受插座限制；Bonne RCP-3 則是較常見的插電萬用調理機，定位穩定、價格較低。 目前公開商品資料顯示，RCP-7 價格約 NT$3,480、銷量約 3,000…</p>\n    \n  </section>\n</noscript>",
     "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/recolte-cordless-bonne-vs-bonne-rcp3/"
+  },
+  {
+    "path": "/articles/product-comparisons/ct17-vs-ct15-dehumidifier",
+    "title": "CT17 vs CT15 空氣清淨除濕機：浴室防潮與千元小空間怎麼選 | 家電與生活商品比較指南 | GoodStuff",
+    "description": "比較 CT17 與 CT15 兩款千元級空氣清淨除濕機，從浴室防潮、雙核冷凝、數顯遙控、銷量與長期維護判斷。",
+    "type": "article",
+    "priority": "0.8",
+    "lastmod": "2026-05-31",
+    "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "CT17 vs CT15 空氣清淨除濕機：浴室防潮與千元小空間怎麼選",
+        "description": "比較 CT17 與 CT15 兩款千元級空氣清淨除濕機，從浴室防潮、雙核冷凝、數顯遙控、銷量與長期維護判斷。",
+        "articleBody": "CT17 vs CT15 空氣清淨除濕機：浴室防潮與千元小空間怎麼選 插圖圖片 CT17 vs CT15 空氣清淨除濕機：浴室防潮與千元小空間怎麼選 使用場景地圖 圖一：兩款產品的空間定位、價格比較圖。 CT17 vs CT15 空氣清淨除濕機：浴室防潮與千元小空間怎麼選 功能取捨流程 圖二：空間、需求、功能與成本比較圖。 購買參考 CT17 空氣清淨除濕機：看 Shopee 商品與即時價格 CT15 空氣清淨除濕機：看 Shopee 商品與即時價格 適合誰看這篇 這篇適合正在比較「浴室、廁所、衣櫃旁、小房間與租屋防潮」的人。CT17 主打清淨除霜除濕二合一，CT15 主打千元價格與雙核冷凝、數顯遙控。 兩款商品價格都不是高階家電等級，但這反而容易讓人低估選錯的成本：買了不用、放不下、清潔太麻煩，最後都會變成閒置。 如果你已經知道自己要解決的問題，這篇會幫你把價格、銷量、使用位置、維護方式和限制放在同一張表裡看。本文整理時，CT17 空氣清淨除濕機 的公開價格為 約 NT$1,529、銷量為 約 849；CT15 空氣清淨除濕機 的公開價格為 約 NT$1,439、銷量為 約 1,000+。這些數字只能代表查核當下的市場訊號，實際售價、庫存、券後價與保固仍以下單頁為準。 如果你只是被短影音或折扣推著看商品，建議先不要急著下單。小型清淨除濕機 的滿意度通常不是由最低價決定，而是由「實際場景是否吻合」決定。尤其是租屋、小房間、桌面、浴室、廚房或客廳角落使用時，插座位置、排水、收納、噪音、清潔與安全距離都會比商品標題更重要。 這篇不適合已經鎖定大型正式家電、需要精準實驗室測試數據，或只想找最低價的人。GoodStuff 的比較目的不是替任何一款商品背書，而是把適合與不適合都說清楚，讓你點進商品頁前已經知道自己要確認什麼。 兩款商品快速比較 產品重點 CT17 空氣清淨除濕機 重點 CT17 空氣清淨除濕機 在這組比較裡的角色是「清淨與除濕二合一的小型浴室機」。如果你的主要情境是 浴室、廁所與想要清淨附加功能的人，它的優勢會比單看規格更明確；但如果你其實需要的是 租屋、浴室門口、衣櫃旁與低預算防潮，就不應只因為價格或銷量被帶著走。本文整理時，CT17 空氣清淨除濕機 的公開價格為 約 NT$1,529、銷量為 約 849，販售商店為「優尚生活旗艦館」。第一個判斷點是「使用位置」。 這類商品要先想清楚每天會不會用、放在哪裡、清潔或耗材能不能接受，最後才看折扣。 CT17 空氣清淨除濕機 的核心賣點是「把小空間除濕與負離子清淨訴求放在同一台」。這句話聽起來簡單，但真正影響…",
+        "articleSection": "家電與生活商品比較指南",
+        "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/ct17-vs-ct15-dehumidifier/",
+        "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/ct17-vs-ct15-dehumidifier/",
+        "inLanguage": "zh-TW",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
+        "publisher": {
+          "@type": "Organization",
+          "name": "GoodStuff",
+          "url": "https://pnforce.github.io/GoodStuff/"
+        },
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "GoodStuff",
+          "url": "https://pnforce.github.io/GoodStuff/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "GoodStuff",
+            "item": "https://pnforce.github.io/GoodStuff/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "家電與生活商品比較指南",
+            "item": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "CT17 vs CT15 空氣清淨除濕機：浴室防潮與千元小空間怎麼選",
+            "item": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/ct17-vs-ct15-dehumidifier/"
+          }
+        ]
+      }
+    ],
+    "staticHtml": "<noscript data-goodstuff-seo>\n  <section lang=\"zh-TW\">\n    <h1>CT17 vs CT15 空氣清淨除濕機：浴室防潮與千元小空間怎麼選</h1>\n    <p>比較 CT17 與 CT15 兩款千元級空氣清淨除濕機，從浴室防潮、雙核冷凝、數顯遙控、銷量與長期維護判斷。</p>\n    <p>CT17 vs CT15 空氣清淨除濕機：浴室防潮與千元小空間怎麼選 插圖圖片 CT17 vs CT15 空氣清淨除濕機：浴室防潮與千元小空間怎麼選 使用場景地圖 圖一：兩款產品的空間定位、價格比較圖。 CT17 vs CT15 空氣清淨除濕機：浴室防潮與千元小空間怎麼選 功能取捨流程 圖二：空間、需求、功能與成本比較圖。 購買參考 CT17 空氣清淨除濕機：看 Shopee 商品與即時價格 CT15 空氣清淨除濕機：看 Shopee 商品與即時價格 適合誰看這篇 這篇適合正在比較「浴室、廁所、衣櫃旁、小房間與租屋防潮」的人。CT17 主打清淨除霜除濕二合一，CT15 主打千元價格與雙核冷凝、數顯遙控。 兩款商品價格都不是高階家電等級，但這反而容易讓人低估選錯的成本：買了不用、放不下、清潔太麻煩，最後都會變成閒置。 如果你已經知道自己要解決的問題，這篇會幫你把價格、銷量、使用位置、維護方式和限制放在同一張表裡看。本文整理時，CT17 空氣清淨除濕機 的公開價格為 約 NT$1,529、銷量為 約 849；CT15 空氣清淨除濕機 的公開價格為 約 NT$1,439、銷量為 約 1,0…</p>\n    \n  </section>\n</noscript>",
+    "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/ct17-vs-ct15-dehumidifier/"
+  },
+  {
+    "path": "/articles/product-comparisons/jessga-h3s-vs-h2-dehumidifier",
+    "title": "Jessga H3-S vs H2 智能除濕機：雙排水浴室款與 20 坪房間款怎麼選 | 家電與生活商品比較指南 | GoodStuff",
+    "description": "比較 Jessga H3-S 與 Jessga H2 兩款小型智能除濕機，從雙排水、坪數標示、浴室與房間使用、銷量與價格判斷。",
+    "type": "article",
+    "priority": "0.8",
+    "lastmod": "2026-05-31",
+    "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Jessga H3-S vs H2 智能除濕機：雙排水浴室款與 20 坪房間款怎麼選",
+        "description": "比較 Jessga H3-S 與 Jessga H2 兩款小型智能除濕機，從雙排水、坪數標示、浴室與房間使用、銷量與價格判斷。",
+        "articleBody": "Jessga H3-S vs H2 智能除濕機：雙排水浴室款與 20 坪房間款怎麼選 插圖圖片 Jessga H3-S vs H2 智能除濕機：雙排水浴室款與 20 坪房間款怎麼選 使用場景地圖 圖一：兩款產品的空間定位、價格比較圖。 Jessga H3-S vs H2 智能除濕機：雙排水浴室款與 20 坪房間款怎麼選 功能取捨流程 圖二：空間、需求、功能與成本比較圖。 購買參考 Jessga H3-S 浴室除濕機：看 Shopee 商品與即時價格 Jessga H2 智能除濕機：看 Shopee 商品與即時價格 適合誰看這篇 這篇適合正在比較「浴室連續排水、租屋房間、客廳角落與不想搬大台除濕機的人」的人。H3-S 偏向浴室與連續排水，H2 偏向房間、客廳與較大坪數標示。 兩款商品價格都不是高階家電等級，但這反而容易讓人低估選錯的成本：買了不用、放不下、清潔太麻煩，最後都會變成閒置。 如果你已經知道自己要解決的問題，這篇會幫你把價格、銷量、使用位置、維護方式和限制放在同一張表裡看。本文整理時，Jessga H3-S 浴室除濕機 的公開價格為 約 NT$1,160、銷量為 約 2,000+；Jessga H2 智能除濕機 的公開價格為 約 NT$1,120、銷量為 約 260。這些數字只能代表查核當下的市場訊號，實際售價、庫存、券後價與保固仍以下單頁為準。 如果你只是被短影音或折扣推著看商品，建議先不要急著下單。智能除濕機 的滿意度通常不是由最低價決定，而是由「實際場景是否吻合」決定。尤其是租屋、小房間、桌面、浴室、廚房或客廳角落使用時，插座位置、排水、收納、噪音、清潔與安全距離都會比商品標題更重要。 這篇不適合已經鎖定大型正式家電、需要精準實驗室測試數據，或只想找最低價的人。GoodStuff 的比較目的不是替任何一款商品背書，而是把適合與不適合都說清楚，讓你點進商品頁前已經知道自己要確認什麼。 兩款商品快速比較 產品重點 Jessga H3-S 浴室除濕機 重點 Jessga H3-S 浴室除濕機 在這組比較裡的角色是「雙排水、浴室與小空間防潮取向」。如果你的主要情境是 浴室、洗手間、連續排水與不想頻繁倒水的人，它的優勢會比單看規格更明確；但如果你其實需要的是 房間、客廳角落、希望一機多處輪流移動的人，就不應只因為價格或銷量被帶著走。本文整理時，Jessga H3-S 浴室除濕機 的公開價格為 約 NT$1,160、銷量為 約 2,000+，販售商店為「Jessga品牌旗艦館」。第一個判斷點是「使用位置」。 這類商品要先想清楚每天會不會用、放在哪裡、清潔或耗…",
+        "articleSection": "家電與生活商品比較指南",
+        "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/jessga-h3s-vs-h2-dehumidifier/",
+        "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/jessga-h3s-vs-h2-dehumidifier/",
+        "inLanguage": "zh-TW",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
+        "publisher": {
+          "@type": "Organization",
+          "name": "GoodStuff",
+          "url": "https://pnforce.github.io/GoodStuff/"
+        },
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "GoodStuff",
+          "url": "https://pnforce.github.io/GoodStuff/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "GoodStuff",
+            "item": "https://pnforce.github.io/GoodStuff/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "家電與生活商品比較指南",
+            "item": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Jessga H3-S vs H2 智能除濕機：雙排水浴室款與 20 坪房間款怎麼選",
+            "item": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/jessga-h3s-vs-h2-dehumidifier/"
+          }
+        ]
+      }
+    ],
+    "staticHtml": "<noscript data-goodstuff-seo>\n  <section lang=\"zh-TW\">\n    <h1>Jessga H3-S vs H2 智能除濕機：雙排水浴室款與 20 坪房間款怎麼選</h1>\n    <p>比較 Jessga H3-S 與 Jessga H2 兩款小型智能除濕機，從雙排水、坪數標示、浴室與房間使用、銷量與價格判斷。</p>\n    <p>Jessga H3-S vs H2 智能除濕機：雙排水浴室款與 20 坪房間款怎麼選 插圖圖片 Jessga H3-S vs H2 智能除濕機：雙排水浴室款與 20 坪房間款怎麼選 使用場景地圖 圖一：兩款產品的空間定位、價格比較圖。 Jessga H3-S vs H2 智能除濕機：雙排水浴室款與 20 坪房間款怎麼選 功能取捨流程 圖二：空間、需求、功能與成本比較圖。 購買參考 Jessga H3-S 浴室除濕機：看 Shopee 商品與即時價格 Jessga H2 智能除濕機：看 Shopee 商品與即時價格 適合誰看這篇 這篇適合正在比較「浴室連續排水、租屋房間、客廳角落與不想搬大台除濕機的人」的人。H3-S 偏向浴室與連續排水，H2 偏向房間、客廳與較大坪數標示。 兩款商品價格都不是高階家電等級，但這反而容易讓人低估選錯的成本：買了不用、放不下、清潔太麻煩，最後都會變成閒置。 如果你已經知道自己要解決的問題，這篇會幫你把價格、銷量、使用位置、維護方式和限制放在同一張表裡看。本文整理時，Jessga H3-S 浴室除濕機 的公開價格為 約 NT$1,160、銷量為 約 2,00…</p>\n    \n  </section>\n</noscript>",
+    "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/jessga-h3s-vs-h2-dehumidifier/"
+  },
+  {
+    "path": "/articles/product-comparisons/koca-dusty-mini-vs-suitu-mini-vacuum",
+    "title": "KOCA Dusty Mini 1 vs SUiTU 迷你吸塵器：車用小鋼炮與高銷量預算款怎麼選 | 家電與生活商品比較指南 | GoodStuff",
+    "description": "比較 KOCA Dusty Mini 1 與 SUiTU 迷你無線吸塵器，從車用、桌面清潔、吸力期待、配件收納、價格與銷量判斷。",
+    "type": "article",
+    "priority": "0.8",
+    "lastmod": "2026-05-31",
+    "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "KOCA Dusty Mini 1 vs SUiTU 迷你吸塵器：車用小鋼炮與高銷量預算款怎麼選",
+        "description": "比較 KOCA Dusty Mini 1 與 SUiTU 迷你無線吸塵器，從車用、桌面清潔、吸力期待、配件收納、價格與銷量判斷。",
+        "articleBody": "KOCA Dusty Mini 1 vs SUiTU 迷你吸塵器：車用小鋼炮與高銷量預算款怎麼選 插圖圖片 KOCA Dusty Mini 1 vs SUiTU 迷你吸塵器：車用小鋼炮與高銷量預算款怎麼選 使用場景地圖 圖一：兩款產品的空間定位、價格比較圖。 KOCA Dusty Mini 1 vs SUiTU 迷你吸塵器：車用小鋼炮與高銷量預算款怎麼選 功能取捨流程 圖二：空間、需求、功能與成本比較圖。 購買參考 KOCA Dusty Mini 1：看 Shopee 商品與即時價格 SUiTU 迷你無線吸塵器：看 Shopee 商品與即時價格 適合誰看這篇 這篇適合正在比較「車內碎屑、書桌鍵盤、沙發縫隙、租屋快速清潔」的人。KOCA 偏品牌化與小家電定位，SUiTU 以更低價格與高銷量吸引預算型買家。 兩款商品價格都不是高階家電等級，但這反而容易讓人低估選錯的成本：買了不用、放不下、清潔太麻煩，最後都會變成閒置。 如果你已經知道自己要解決的問題，這篇會幫你把價格、銷量、使用位置、維護方式和限制放在同一張表裡看。本文整理時，KOCA Dusty Mini 1 的公開價格為 約 NT$985、銷量為 約 2,000+；SUiTU 迷你無線吸塵器 的公開價格為 約 NT$799、銷量為 約 5萬+。這些數字只能代表查核當下的市場訊號，實際售價、庫存、券後價與保固仍以下單頁為準。 如果你只是被短影音或折扣推著看商品，建議先不要急著下單。迷你無線吸塵器 的滿意度通常不是由最低價決定，而是由「實際場景是否吻合」決定。尤其是租屋、小房間、桌面、浴室、廚房或客廳角落使用時，插座位置、排水、收納、噪音、清潔與安全距離都會比商品標題更重要。 這篇不適合已經鎖定大型正式家電、需要精準實驗室測試數據，或只想找最低價的人。GoodStuff 的比較目的不是替任何一款商品背書，而是把適合與不適合都說清楚，讓你點進商品頁前已經知道自己要確認什麼。 兩款商品快速比較 產品重點 KOCA Dusty Mini 1 重點 KOCA Dusty Mini 1 在這組比較裡的角色是「車用與桌面小範圍清潔的迷你吸塵器」。如果你的主要情境是 想要外型、配件與授權保固資訊較清楚的人，它的優勢會比單看規格更明確；但如果你其實需要的是 重視價格、銷量訊號與基本碎屑清潔的人，就不應只因為價格或銷量被帶著走。本文整理時，KOCA Dusty Mini 1 的公開價格為 約 NT$985、銷量為 約 2,000+，販售商店為「KOCA科卡台灣官方授權經銷商」。第一個判斷點是「使用位置」。 這類商品要先想清楚每天會…",
+        "articleSection": "家電與生活商品比較指南",
+        "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/koca-dusty-mini-vs-suitu-mini-vacuum/",
+        "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/koca-dusty-mini-vs-suitu-mini-vacuum/",
+        "inLanguage": "zh-TW",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
+        "publisher": {
+          "@type": "Organization",
+          "name": "GoodStuff",
+          "url": "https://pnforce.github.io/GoodStuff/"
+        },
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "GoodStuff",
+          "url": "https://pnforce.github.io/GoodStuff/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "GoodStuff",
+            "item": "https://pnforce.github.io/GoodStuff/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "家電與生活商品比較指南",
+            "item": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "KOCA Dusty Mini 1 vs SUiTU 迷你吸塵器：車用小鋼炮與高銷量預算款怎麼選",
+            "item": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/koca-dusty-mini-vs-suitu-mini-vacuum/"
+          }
+        ]
+      }
+    ],
+    "staticHtml": "<noscript data-goodstuff-seo>\n  <section lang=\"zh-TW\">\n    <h1>KOCA Dusty Mini 1 vs SUiTU 迷你吸塵器：車用小鋼炮與高銷量預算款怎麼選</h1>\n    <p>比較 KOCA Dusty Mini 1 與 SUiTU 迷你無線吸塵器，從車用、桌面清潔、吸力期待、配件收納、價格與銷量判斷。</p>\n    <p>KOCA Dusty Mini 1 vs SUiTU 迷你吸塵器：車用小鋼炮與高銷量預算款怎麼選 插圖圖片 KOCA Dusty Mini 1 vs SUiTU 迷你吸塵器：車用小鋼炮與高銷量預算款怎麼選 使用場景地圖 圖一：兩款產品的空間定位、價格比較圖。 KOCA Dusty Mini 1 vs SUiTU 迷你吸塵器：車用小鋼炮與高銷量預算款怎麼選 功能取捨流程 圖二：空間、需求、功能與成本比較圖。 購買參考 KOCA Dusty Mini 1：看 Shopee 商品與即時價格 SUiTU 迷你無線吸塵器：看 Shopee 商品與即時價格 適合誰看這篇 這篇適合正在比較「車內碎屑、書桌鍵盤、沙發縫隙、租屋快速清潔」的人。KOCA 偏品牌化與小家電定位，SUiTU 以更低價格與高銷量吸引預算型買家。 兩款商品價格都不是高階家電等級，但這反而容易讓人低估選錯的成本：買了不用、放不下、清潔太麻煩，最後都會變成閒置。 如果你已經知道自己要解決的問題，這篇會幫你把價格、銷量、使用位置、維護方式和限制放在同一張表裡看。本文整理時，KOCA Dusty Mini 1 的公開價格為 約 NT$…</p>\n    \n  </section>\n</noscript>",
+    "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/koca-dusty-mini-vs-suitu-mini-vacuum/"
+  },
+  {
+    "path": "/articles/product-comparisons/kolin-ptc-heater-vs-table-heater",
+    "title": "Kolin PTC 陶瓷電暖器 vs 三檔桌上型電暖器：浴室壁掛與租屋取暖怎麼選 | 家電與生活商品比較指南 | GoodStuff",
+    "description": "比較 Kolin PTC 陶瓷電暖器與三檔搖頭桌上型電暖器，從浴室壁掛、租屋取暖、價格、安全距離與使用限制判斷。",
+    "type": "article",
+    "priority": "0.8",
+    "lastmod": "2026-05-31",
+    "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Kolin PTC 陶瓷電暖器 vs 三檔桌上型電暖器：浴室壁掛與租屋取暖怎麼選",
+        "description": "比較 Kolin PTC 陶瓷電暖器與三檔搖頭桌上型電暖器，從浴室壁掛、租屋取暖、價格、安全距離與使用限制判斷。",
+        "articleBody": "Kolin PTC 陶瓷電暖器 vs 三檔桌上型電暖器：浴室壁掛與租屋取暖怎麼選 插圖圖片 Kolin PTC 陶瓷電暖器 vs 三檔桌上型電暖器：浴室壁掛與租屋取暖怎麼選 使用場景地圖 圖一：兩款產品的空間定位、價格比較圖。 Kolin PTC 陶瓷電暖器 vs 三檔桌上型電暖器：浴室壁掛與租屋取暖怎麼選 功能取捨流程 圖二：空間、需求、功能與成本比較圖。 購買參考 Kolin PTC 陶瓷電暖器：看 Shopee 商品與即時價格 三檔搖頭桌上型電暖器：看 Shopee 商品與即時價格 適合誰看這篇 這篇適合正在比較「浴室暖房、書桌旁、臥室短時間取暖、租屋冬季備用」的人。Kolin PTC 偏浴室與壁掛，桌上型電暖器偏便宜、移動與臨時取暖。 兩款商品價格都不是高階家電等級，但這反而容易讓人低估選錯的成本：買了不用、放不下、清潔太麻煩，最後都會變成閒置。 如果你已經知道自己要解決的問題，這篇會幫你把價格、銷量、使用位置、維護方式和限制放在同一張表裡看。本文整理時，Kolin PTC 陶瓷電暖器 的公開價格為 約 NT$1,880、銷量為 約 258；三檔搖頭桌上型電暖器 的公開價格為 約 NT$880、銷量為 約 3,000+。這些數字只能代表查核當下的市場訊號，實際售價、庫存、券後價與保固仍以下單頁為準。 如果你只是被短影音或折扣推著看商品，建議先不要急著下單。電暖器 的滿意度通常不是由最低價決定，而是由「實際場景是否吻合」決定。尤其是租屋、小房間、桌面、浴室、廚房或客廳角落使用時，插座位置、排水、收納、噪音、清潔與安全距離都會比商品標題更重要。 這篇不適合已經鎖定大型正式家電、需要精準實驗室測試數據，或只想找最低價的人。GoodStuff 的比較目的不是替任何一款商品背書，而是把適合與不適合都說清楚，讓你點進商品頁前已經知道自己要確認什麼。 兩款商品快速比較 產品重點 Kolin PTC 陶瓷電暖器 重點 Kolin PTC 陶瓷電暖器 在這組比較裡的角色是「可壁掛、三秒瞬熱的浴室/小空間取暖機」。如果你的主要情境是 想在浴室或固定牆面位置使用的人，它的優勢會比單看規格更明確；但如果你其實需要的是 書桌旁、租屋短時間取暖與需要移動的人，就不應只因為價格或銷量被帶著走。本文整理時，Kolin PTC 陶瓷電暖器 的公開價格為 約 NT$1,880、銷量為 約 258，販售商店為「利聯居」。第一個判斷點是「使用位置」。 這類商品要先想清楚每天會不會用、放在哪裡、清潔或耗材能不能接受，最後才看折扣。 Kolin PTC 陶瓷電暖器 的核心賣點是「壁掛與 PTC…",
+        "articleSection": "家電與生活商品比較指南",
+        "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/kolin-ptc-heater-vs-table-heater/",
+        "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/kolin-ptc-heater-vs-table-heater/",
+        "inLanguage": "zh-TW",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
+        "publisher": {
+          "@type": "Organization",
+          "name": "GoodStuff",
+          "url": "https://pnforce.github.io/GoodStuff/"
+        },
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "GoodStuff",
+          "url": "https://pnforce.github.io/GoodStuff/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "GoodStuff",
+            "item": "https://pnforce.github.io/GoodStuff/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "家電與生活商品比較指南",
+            "item": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Kolin PTC 陶瓷電暖器 vs 三檔桌上型電暖器：浴室壁掛與租屋取暖怎麼選",
+            "item": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/kolin-ptc-heater-vs-table-heater/"
+          }
+        ]
+      }
+    ],
+    "staticHtml": "<noscript data-goodstuff-seo>\n  <section lang=\"zh-TW\">\n    <h1>Kolin PTC 陶瓷電暖器 vs 三檔桌上型電暖器：浴室壁掛與租屋取暖怎麼選</h1>\n    <p>比較 Kolin PTC 陶瓷電暖器與三檔搖頭桌上型電暖器，從浴室壁掛、租屋取暖、價格、安全距離與使用限制判斷。</p>\n    <p>Kolin PTC 陶瓷電暖器 vs 三檔桌上型電暖器：浴室壁掛與租屋取暖怎麼選 插圖圖片 Kolin PTC 陶瓷電暖器 vs 三檔桌上型電暖器：浴室壁掛與租屋取暖怎麼選 使用場景地圖 圖一：兩款產品的空間定位、價格比較圖。 Kolin PTC 陶瓷電暖器 vs 三檔桌上型電暖器：浴室壁掛與租屋取暖怎麼選 功能取捨流程 圖二：空間、需求、功能與成本比較圖。 購買參考 Kolin PTC 陶瓷電暖器：看 Shopee 商品與即時價格 三檔搖頭桌上型電暖器：看 Shopee 商品與即時價格 適合誰看這篇 這篇適合正在比較「浴室暖房、書桌旁、臥室短時間取暖、租屋冬季備用」的人。Kolin PTC 偏浴室與壁掛，桌上型電暖器偏便宜、移動與臨時取暖。 兩款商品價格都不是高階家電等級，但這反而容易讓人低估選錯的成本：買了不用、放不下、清潔太麻煩，最後都會變成閒置。 如果你已經知道自己要解決的問題，這篇會幫你把價格、銷量、使用位置、維護方式和限制放在同一張表裡看。本文整理時，Kolin PTC 陶瓷電暖器 的公開價格為 約 NT$1,880、銷量為 約 258；三檔搖頭桌上型電暖器 的公開價格為…</p>\n    \n  </section>\n</noscript>",
+    "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/kolin-ptc-heater-vs-table-heater/"
+  },
+  {
+    "path": "/articles/product-comparisons/gk2-vs-z1air-tv-box",
+    "title": "GK2 vs Z1Air 電視盒：繁體介面、Google Play 與串流畫質怎麼選 | 家電與生活商品比較指南 | GoodStuff",
+    "description": "比較 GK2 台灣繁體電視盒與 Z1Air 台灣版繁體電視盒，從介面、Google Play、Netflix 需求、銷量與合法串流使用判斷。",
+    "type": "article",
+    "priority": "0.8",
+    "lastmod": "2026-05-31",
+    "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "GK2 vs Z1Air 電視盒：繁體介面、Google Play 與串流畫質怎麼選",
+        "description": "比較 GK2 台灣繁體電視盒與 Z1Air 台灣版繁體電視盒，從介面、Google Play、Netflix 需求、銷量與合法串流使用判斷。",
+        "articleBody": "GK2 vs Z1Air 電視盒：繁體介面、Google Play 與串流畫質怎麼選 插圖圖片 GK2 vs Z1Air 電視盒：繁體介面、Google Play 與串流畫質怎麼選 使用場景地圖 圖一：兩款產品的空間定位、價格比較圖。 GK2 vs Z1Air 電視盒：繁體介面、Google Play 與串流畫質怎麼選 功能取捨流程 圖二：空間、需求、功能與成本比較圖。 購買參考 GK2 台灣繁體電視盒：看 Shopee 商品與即時價格 Z1Air 台灣版電視盒：看 Shopee 商品與即時價格 適合誰看這篇 這篇適合正在比較「老電視升級、租屋追劇、長輩繁體介面、Google Play app 使用」的人。GK2 銷量較高，Z1Air 強調台灣版與 Google Play；兩者都應以合法串流 app 與裝置相容性為核心。 兩款商品價格都不是高階家電等級，但這反而容易讓人低估選錯的成本：買了不用、放不下、清潔太麻煩，最後都會變成閒置。 如果你已經知道自己要解決的問題，這篇會幫你把價格、銷量、使用位置、維護方式和限制放在同一張表裡看。本文整理時，GK2 台灣繁體電視盒 的公開價格為 約 NT$1,286、銷量為 約 759；Z1Air 台灣版電視盒 的公開價格為 約 NT$1,290、銷量為 約 66。這些數字只能代表查核當下的市場訊號，實際售價、庫存、券後價與保固仍以下單頁為準。 如果你只是被短影音或折扣推著看商品，建議先不要急著下單。電視盒 的滿意度通常不是由最低價決定，而是由「實際場景是否吻合」決定。尤其是租屋、小房間、桌面、浴室、廚房或客廳角落使用時，插座位置、排水、收納、噪音、清潔與安全距離都會比商品標題更重要。 這篇不適合已經鎖定大型正式家電、需要精準實驗室測試數據，或只想找最低價的人。GoodStuff 的比較目的不是替任何一款商品背書，而是把適合與不適合都說清楚，讓你點進商品頁前已經知道自己要確認什麼。 兩款商品快速比較 產品重點 GK2 台灣繁體電視盒 重點 GK2 台灣繁體電視盒 在這組比較裡的角色是「繁體介面與高規格宣稱的 Android 電視盒」。如果你的主要情境是 想用低預算讓舊電視多 app 功能的人，它的優勢會比單看規格更明確；但如果你其實需要的是 重視 Google Play 與較新款定位的人，就不應只因為價格或銷量被帶著走。本文整理時，GK2 台灣繁體電視盒 的公開價格為 約 NT$1,286、銷量為 約 759，販售商店為「XPMC旗艦店」。第一個判斷點是「使用位置」。 這類商品要先想清楚每天會不會用、放在哪裡、清潔或耗材能不能…",
+        "articleSection": "家電與生活商品比較指南",
+        "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/gk2-vs-z1air-tv-box/",
+        "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/gk2-vs-z1air-tv-box/",
+        "inLanguage": "zh-TW",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
+        "publisher": {
+          "@type": "Organization",
+          "name": "GoodStuff",
+          "url": "https://pnforce.github.io/GoodStuff/"
+        },
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "GoodStuff",
+          "url": "https://pnforce.github.io/GoodStuff/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "GoodStuff",
+            "item": "https://pnforce.github.io/GoodStuff/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "家電與生活商品比較指南",
+            "item": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "GK2 vs Z1Air 電視盒：繁體介面、Google Play 與串流畫質怎麼選",
+            "item": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/gk2-vs-z1air-tv-box/"
+          }
+        ]
+      }
+    ],
+    "staticHtml": "<noscript data-goodstuff-seo>\n  <section lang=\"zh-TW\">\n    <h1>GK2 vs Z1Air 電視盒：繁體介面、Google Play 與串流畫質怎麼選</h1>\n    <p>比較 GK2 台灣繁體電視盒與 Z1Air 台灣版繁體電視盒，從介面、Google Play、Netflix 需求、銷量與合法串流使用判斷。</p>\n    <p>GK2 vs Z1Air 電視盒：繁體介面、Google Play 與串流畫質怎麼選 插圖圖片 GK2 vs Z1Air 電視盒：繁體介面、Google Play 與串流畫質怎麼選 使用場景地圖 圖一：兩款產品的空間定位、價格比較圖。 GK2 vs Z1Air 電視盒：繁體介面、Google Play 與串流畫質怎麼選 功能取捨流程 圖二：空間、需求、功能與成本比較圖。 購買參考 GK2 台灣繁體電視盒：看 Shopee 商品與即時價格 Z1Air 台灣版電視盒：看 Shopee 商品與即時價格 適合誰看這篇 這篇適合正在比較「老電視升級、租屋追劇、長輩繁體介面、Google Play app 使用」的人。GK2 銷量較高，Z1Air 強調台灣版與 Google Play；兩者都應以合法串流 app 與裝置相容性為核心。 兩款商品價格都不是高階家電等級，但這反而容易讓人低估選錯的成本：買了不用、放不下、清潔太麻煩，最後都會變成閒置。 如果你已經知道自己要解決的問題，這篇會幫你把價格、銷量、使用位置、維護方式和限制放在同一張表裡看。本文整理時，GK2 台灣繁體電視盒 的公開價格為 約…</p>\n    \n  </section>\n</noscript>",
+    "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/gk2-vs-z1air-tv-box/"
+  },
+  {
+    "path": "/articles/product-comparisons/steam-cleaner-vs-sansui-white-a1",
+    "title": "高溫蒸汽清洗機 vs SANSUI WHITE-A1：廚房油污與布沙發深層清潔怎麼選 | 家電與生活商品比較指南 | GoodStuff",
+    "description": "比較 110V 高溫高壓蒸汽清洗機與 SANSUI WHITE-A1 高壓織物清潔機，從油污、布沙發、地毯、消毒期待與清潔後乾燥判斷。",
+    "type": "article",
+    "priority": "0.8",
+    "lastmod": "2026-05-31",
+    "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "高溫蒸汽清洗機 vs SANSUI WHITE-A1：廚房油污與布沙發深層清潔怎麼選",
+        "description": "比較 110V 高溫高壓蒸汽清洗機與 SANSUI WHITE-A1 高壓織物清潔機，從油污、布沙發、地毯、消毒期待與清潔後乾燥判斷。",
+        "articleBody": "高溫蒸汽清洗機 vs SANSUI WHITE-A1：廚房油污與布沙發深層清潔怎麼選 插圖圖片 高溫蒸汽清洗機 vs SANSUI WHITE-A1：廚房油污與布沙發深層清潔怎麼選 使用場景地圖 圖一：兩款產品的空間定位、價格比較圖。 高溫蒸汽清洗機 vs SANSUI WHITE-A1：廚房油污與布沙發深層清潔怎麼選 功能取捨流程 圖二：空間、需求、功能與成本比較圖。 購買參考 高溫高壓蒸汽清洗機：看 Shopee 商品與即時價格 SANSUI WHITE-A1 織物清潔機：看 Shopee 商品與即時價格 適合誰看這篇 這篇適合正在比較「廚房油煙、浴室縫隙、布沙發、地毯與寵物家庭局部清潔」的人。蒸汽機偏硬表面與油污，織物機偏布料抽洗；兩者不能互相完全取代。 兩款商品價格都不是高階家電等級，但這反而容易讓人低估選錯的成本：買了不用、放不下、清潔太麻煩，最後都會變成閒置。 如果你已經知道自己要解決的問題，這篇會幫你把價格、銷量、使用位置、維護方式和限制放在同一張表裡看。本文整理時，高溫高壓蒸汽清洗機 的公開價格為 約 NT$869、銷量為 約 267；SANSUI WHITE-A1 織物清潔機 的公開價格為 約 NT$2,999、銷量為 約 1,000+。這些數字只能代表查核當下的市場訊號，實際售價、庫存、券後價與保固仍以下單頁為準。 如果你只是被短影音或折扣推著看商品，建議先不要急著下單。居家清潔機 的滿意度通常不是由最低價決定，而是由「實際場景是否吻合」決定。尤其是租屋、小房間、桌面、浴室、廚房或客廳角落使用時，插座位置、排水、收納、噪音、清潔與安全距離都會比商品標題更重要。 這篇不適合已經鎖定大型正式家電、需要精準實驗室測試數據，或只想找最低價的人。GoodStuff 的比較目的不是替任何一款商品背書，而是把適合與不適合都說清楚，讓你點進商品頁前已經知道自己要確認什麼。 兩款商品快速比較 產品重點 高溫高壓蒸汽清洗機 重點 高溫高壓蒸汽清洗機 在這組比較裡的角色是「廚房、油煙機、磁磚縫與硬表面的蒸汽清潔工具」。如果你的主要情境是 想處理油污、縫隙與局部頑垢的人，它的優勢會比單看規格更明確；但如果你其實需要的是 有寵物、小孩、布沙發或地毯局部污漬的人，就不應只因為價格或銷量被帶著走。本文整理時，高溫高壓蒸汽清洗機 的公開價格為 約 NT$869、銷量為 約 267，販售商店為「霧嶼選物生活館」。第一個判斷點是「使用位置」。 這類商品要先想清楚每天會不會用、放在哪裡、清潔或耗材能不能接受，最後才看折扣。 高溫高壓蒸汽清洗機 的核心賣點是「價格低，配件多，適合…",
+        "articleSection": "家電與生活商品比較指南",
+        "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/steam-cleaner-vs-sansui-white-a1/",
+        "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/steam-cleaner-vs-sansui-white-a1/",
+        "inLanguage": "zh-TW",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
+        "publisher": {
+          "@type": "Organization",
+          "name": "GoodStuff",
+          "url": "https://pnforce.github.io/GoodStuff/"
+        },
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "GoodStuff",
+          "url": "https://pnforce.github.io/GoodStuff/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "GoodStuff",
+            "item": "https://pnforce.github.io/GoodStuff/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "家電與生活商品比較指南",
+            "item": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "高溫蒸汽清洗機 vs SANSUI WHITE-A1：廚房油污與布沙發深層清潔怎麼選",
+            "item": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/steam-cleaner-vs-sansui-white-a1/"
+          }
+        ]
+      }
+    ],
+    "staticHtml": "<noscript data-goodstuff-seo>\n  <section lang=\"zh-TW\">\n    <h1>高溫蒸汽清洗機 vs SANSUI WHITE-A1：廚房油污與布沙發深層清潔怎麼選</h1>\n    <p>比較 110V 高溫高壓蒸汽清洗機與 SANSUI WHITE-A1 高壓織物清潔機，從油污、布沙發、地毯、消毒期待與清潔後乾燥判斷。</p>\n    <p>高溫蒸汽清洗機 vs SANSUI WHITE-A1：廚房油污與布沙發深層清潔怎麼選 插圖圖片 高溫蒸汽清洗機 vs SANSUI WHITE-A1：廚房油污與布沙發深層清潔怎麼選 使用場景地圖 圖一：兩款產品的空間定位、價格比較圖。 高溫蒸汽清洗機 vs SANSUI WHITE-A1：廚房油污與布沙發深層清潔怎麼選 功能取捨流程 圖二：空間、需求、功能與成本比較圖。 購買參考 高溫高壓蒸汽清洗機：看 Shopee 商品與即時價格 SANSUI WHITE-A1 織物清潔機：看 Shopee 商品與即時價格 適合誰看這篇 這篇適合正在比較「廚房油煙、浴室縫隙、布沙發、地毯與寵物家庭局部清潔」的人。蒸汽機偏硬表面與油污，織物機偏布料抽洗；兩者不能互相完全取代。 兩款商品價格都不是高階家電等級，但這反而容易讓人低估選錯的成本：買了不用、放不下、清潔太麻煩，最後都會變成閒置。 如果你已經知道自己要解決的問題，這篇會幫你把價格、銷量、使用位置、維護方式和限制放在同一張表裡看。本文整理時，高溫高壓蒸汽清洗機 的公開價格為 約 NT$869、銷量為 約 267；SANSUI WHITE-A1…</p>\n    \n  </section>\n</noscript>",
+    "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/steam-cleaner-vs-sansui-white-a1/"
+  },
+  {
+    "path": "/articles/product-comparisons/songh-dual-hotpot-vs-kolin-rice-cooker",
+    "title": "SONGH 鴛鴦雙拼電火鍋 vs Kolin 三人份電鍋：租屋煮食與日常米飯怎麼選 | 家電與生活商品比較指南 | GoodStuff",
+    "description": "比較 SONGH 鴛鴦雙拼電火鍋與 Kolin KNJ-UD303 三人份電鍋，從租屋煮火鍋、日常煮飯、燉湯、清潔與使用頻率判斷。",
+    "type": "article",
+    "priority": "0.8",
+    "lastmod": "2026-05-31",
+    "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "SONGH 鴛鴦雙拼電火鍋 vs Kolin 三人份電鍋：租屋煮食與日常米飯怎麼選",
+        "description": "比較 SONGH 鴛鴦雙拼電火鍋與 Kolin KNJ-UD303 三人份電鍋，從租屋煮火鍋、日常煮飯、燉湯、清潔與使用頻率判斷。",
+        "articleBody": "SONGH 鴛鴦雙拼電火鍋 vs Kolin 三人份電鍋：租屋煮食與日常米飯怎麼選 插圖圖片 SONGH 鴛鴦雙拼電火鍋 vs Kolin 三人份電鍋：租屋煮食與日常米飯怎麼選 使用場景地圖 圖一：兩款產品的空間定位、價格比較圖。 SONGH 鴛鴦雙拼電火鍋 vs Kolin 三人份電鍋：租屋煮食與日常米飯怎麼選 功能取捨流程 圖二：空間、需求、功能與成本比較圖。 購買參考 SONGH 鴛鴦雙拼電火鍋：看 Shopee 商品與即時價格 Kolin KNJ-UD303 三人份電鍋：看 Shopee 商品與即時價格 適合誰看這篇 這篇適合正在比較「租屋、一到三人煮食、火鍋、燉湯、白飯與小廚房收納」的人。SONGH 電火鍋偏多菜色與雙膽火鍋，Kolin 三人份電鍋偏米飯與日常穩定主食。 兩款商品價格都不是高階家電等級，但這反而容易讓人低估選錯的成本：買了不用、放不下、清潔太麻煩，最後都會變成閒置。 如果你已經知道自己要解決的問題，這篇會幫你把價格、銷量、使用位置、維護方式和限制放在同一張表裡看。本文整理時，SONGH 鴛鴦雙拼電火鍋 的公開價格為 約 NT$660、銷量為 約 503；Kolin KNJ-UD303 三人份電鍋 的公開價格為 約 NT$891、銷量為 約 4,000+。這些數字只能代表查核當下的市場訊號，實際售價、庫存、券後價與保固仍以下單頁為準。 如果你只是被短影音或折扣推著看商品，建議先不要急著下單。小型料理鍋 的滿意度通常不是由最低價決定，而是由「實際場景是否吻合」決定。尤其是租屋、小房間、桌面、浴室、廚房或客廳角落使用時，插座位置、排水、收納、噪音、清潔與安全距離都會比商品標題更重要。 這篇不適合已經鎖定大型正式家電、需要精準實驗室測試數據，或只想找最低價的人。GoodStuff 的比較目的不是替任何一款商品背書，而是把適合與不適合都說清楚，讓你點進商品頁前已經知道自己要確認什麼。 兩款商品快速比較 產品重點 SONGH 鴛鴦雙拼電火鍋 重點 SONGH 鴛鴦雙拼電火鍋 在這組比較裡的角色是「雙膽火鍋、燉湯與一鍋多用的租屋料理鍋」。如果你的主要情境是 常煮火鍋、湯麵、燉湯與想分隔口味的人，它的優勢會比單看規格更明確；但如果你其實需要的是 每天需要煮飯、蒸包子、熱菜與穩定主食的人，就不應只因為價格或銷量被帶著走。本文整理時，SONGH 鴛鴦雙拼電火鍋 的公開價格為 約 NT$660、銷量為 約 503，販售商店為「小魚家居精品館」。第一個判斷點是「使用位置」。 這類商品要先想清楚每天會不會用、放在哪裡、清潔或耗材能不能接受，最後才看折扣。 SO…",
+        "articleSection": "家電與生活商品比較指南",
+        "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/songh-dual-hotpot-vs-kolin-rice-cooker/",
+        "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/songh-dual-hotpot-vs-kolin-rice-cooker/",
+        "inLanguage": "zh-TW",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
+        "publisher": {
+          "@type": "Organization",
+          "name": "GoodStuff",
+          "url": "https://pnforce.github.io/GoodStuff/"
+        },
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "GoodStuff",
+          "url": "https://pnforce.github.io/GoodStuff/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "GoodStuff",
+            "item": "https://pnforce.github.io/GoodStuff/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "家電與生活商品比較指南",
+            "item": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "SONGH 鴛鴦雙拼電火鍋 vs Kolin 三人份電鍋：租屋煮食與日常米飯怎麼選",
+            "item": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/songh-dual-hotpot-vs-kolin-rice-cooker/"
+          }
+        ]
+      }
+    ],
+    "staticHtml": "<noscript data-goodstuff-seo>\n  <section lang=\"zh-TW\">\n    <h1>SONGH 鴛鴦雙拼電火鍋 vs Kolin 三人份電鍋：租屋煮食與日常米飯怎麼選</h1>\n    <p>比較 SONGH 鴛鴦雙拼電火鍋與 Kolin KNJ-UD303 三人份電鍋，從租屋煮火鍋、日常煮飯、燉湯、清潔與使用頻率判斷。</p>\n    <p>SONGH 鴛鴦雙拼電火鍋 vs Kolin 三人份電鍋：租屋煮食與日常米飯怎麼選 插圖圖片 SONGH 鴛鴦雙拼電火鍋 vs Kolin 三人份電鍋：租屋煮食與日常米飯怎麼選 使用場景地圖 圖一：兩款產品的空間定位、價格比較圖。 SONGH 鴛鴦雙拼電火鍋 vs Kolin 三人份電鍋：租屋煮食與日常米飯怎麼選 功能取捨流程 圖二：空間、需求、功能與成本比較圖。 購買參考 SONGH 鴛鴦雙拼電火鍋：看 Shopee 商品與即時價格 Kolin KNJ-UD303 三人份電鍋：看 Shopee 商品與即時價格 適合誰看這篇 這篇適合正在比較「租屋、一到三人煮食、火鍋、燉湯、白飯與小廚房收納」的人。SONGH 電火鍋偏多菜色與雙膽火鍋，Kolin 三人份電鍋偏米飯與日常穩定主食。 兩款商品價格都不是高階家電等級，但這反而容易讓人低估選錯的成本：買了不用、放不下、清潔太麻煩，最後都會變成閒置。 如果你已經知道自己要解決的問題，這篇會幫你把價格、銷量、使用位置、維護方式和限制放在同一張表裡看。本文整理時，SONGH 鴛鴦雙拼電火鍋 的公開價格為 約 NT$660、銷量為 約 503；Ko…</p>\n    \n  </section>\n</noscript>",
+    "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/songh-dual-hotpot-vs-kolin-rice-cooker/"
+  },
+  {
+    "path": "/articles/product-comparisons/kinyo-trfp-vs-taiwanis-folding-pot",
+    "title": "KINYO TRFP 小圓鍋 vs Taiwanis 折疊鍋：雙電壓旅行鍋與寬電壓宿舍鍋怎麼選 | 家電與生活商品比較指南 | GoodStuff",
+    "description": "比較 KINYO TRFP 小圓鍋與 Taiwanis 微電腦寬電壓折疊鍋，從旅行、宿舍、雙電壓、容量、收納與煮食安全判斷。",
+    "type": "article",
+    "priority": "0.8",
+    "lastmod": "2026-05-31",
+    "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "KINYO TRFP 小圓鍋 vs Taiwanis 折疊鍋：雙電壓旅行鍋與寬電壓宿舍鍋怎麼選",
+        "description": "比較 KINYO TRFP 小圓鍋與 Taiwanis 微電腦寬電壓折疊鍋，從旅行、宿舍、雙電壓、容量、收納與煮食安全判斷。",
+        "articleBody": "KINYO TRFP 小圓鍋 vs Taiwanis 折疊鍋：雙電壓旅行鍋與寬電壓宿舍鍋怎麼選 插圖圖片 KINYO TRFP 小圓鍋 vs Taiwanis 折疊鍋：雙電壓旅行鍋與寬電壓宿舍鍋怎麼選 使用場景地圖 圖一：兩款產品的空間定位、價格比較圖。 KINYO TRFP 小圓鍋 vs Taiwanis 折疊鍋：雙電壓旅行鍋與寬電壓宿舍鍋怎麼選 功能取捨流程 圖二：空間、需求、功能與成本比較圖。 購買參考 KINYO TRFP 小圓鍋：看 Shopee 商品與即時價格 Taiwanis 折疊鍋：看 Shopee 商品與即時價格 適合誰看這篇 這篇適合正在比較「海外旅行、宿舍、空姐鍋、辦公室簡單煮食與小空間收納」的人。KINYO TRFP 偏品牌旗艦與 0.9L 小容量，Taiwanis 偏寬電壓、折疊與價格較低。 兩款商品價格都不是高階家電等級，但這反而容易讓人低估選錯的成本：買了不用、放不下、清潔太麻煩，最後都會變成閒置。 如果你已經知道自己要解決的問題，這篇會幫你把價格、銷量、使用位置、維護方式和限制放在同一張表裡看。本文整理時，KINYO TRFP 小圓鍋 的公開價格為 約 NT$1,380、銷量為 約 3,000+；Taiwanis 折疊鍋 的公開價格為 約 NT$949、銷量為 約 551。這些數字只能代表查核當下的市場訊號，實際售價、庫存、券後價與保固仍以下單頁為準。 如果你只是被短影音或折扣推著看商品，建議先不要急著下單。旅行電煮鍋 的滿意度通常不是由最低價決定，而是由「實際場景是否吻合」決定。尤其是租屋、小房間、桌面、浴室、廚房或客廳角落使用時，插座位置、排水、收納、噪音、清潔與安全距離都會比商品標題更重要。 這篇不適合已經鎖定大型正式家電、需要精準實驗室測試數據，或只想找最低價的人。GoodStuff 的比較目的不是替任何一款商品背書，而是把適合與不適合都說清楚，讓你點進商品頁前已經知道自己要確認什麼。 兩款商品快速比較 產品重點 KINYO TRFP 小圓鍋 重點 KINYO TRFP 小圓鍋 在這組比較裡的角色是「0.9L 雙電壓旅行鍋，主打品牌與小份量」。如果你的主要情境是 常旅行、重視品牌售後與一人份熱食的人，它的優勢會比單看規格更明確；但如果你其實需要的是 宿舍、旅行備用與想降低行李體積的人，就不應只因為價格或銷量被帶著走。本文整理時，KINYO TRFP 小圓鍋 的公開價格為 約 NT$1,380、銷量為 約 3,000+，販售商店為「KINYO官方旗艦店」。第一個判斷點是「使用位置」。 這類商品要先想清楚每天會不會用、放在哪…",
+        "articleSection": "家電與生活商品比較指南",
+        "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/kinyo-trfp-vs-taiwanis-folding-pot/",
+        "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/kinyo-trfp-vs-taiwanis-folding-pot/",
+        "inLanguage": "zh-TW",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
+        "publisher": {
+          "@type": "Organization",
+          "name": "GoodStuff",
+          "url": "https://pnforce.github.io/GoodStuff/"
+        },
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "GoodStuff",
+          "url": "https://pnforce.github.io/GoodStuff/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "GoodStuff",
+            "item": "https://pnforce.github.io/GoodStuff/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "家電與生活商品比較指南",
+            "item": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "KINYO TRFP 小圓鍋 vs Taiwanis 折疊鍋：雙電壓旅行鍋與寬電壓宿舍鍋怎麼選",
+            "item": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/kinyo-trfp-vs-taiwanis-folding-pot/"
+          }
+        ]
+      }
+    ],
+    "staticHtml": "<noscript data-goodstuff-seo>\n  <section lang=\"zh-TW\">\n    <h1>KINYO TRFP 小圓鍋 vs Taiwanis 折疊鍋：雙電壓旅行鍋與寬電壓宿舍鍋怎麼選</h1>\n    <p>比較 KINYO TRFP 小圓鍋與 Taiwanis 微電腦寬電壓折疊鍋，從旅行、宿舍、雙電壓、容量、收納與煮食安全判斷。</p>\n    <p>KINYO TRFP 小圓鍋 vs Taiwanis 折疊鍋：雙電壓旅行鍋與寬電壓宿舍鍋怎麼選 插圖圖片 KINYO TRFP 小圓鍋 vs Taiwanis 折疊鍋：雙電壓旅行鍋與寬電壓宿舍鍋怎麼選 使用場景地圖 圖一：兩款產品的空間定位、價格比較圖。 KINYO TRFP 小圓鍋 vs Taiwanis 折疊鍋：雙電壓旅行鍋與寬電壓宿舍鍋怎麼選 功能取捨流程 圖二：空間、需求、功能與成本比較圖。 購買參考 KINYO TRFP 小圓鍋：看 Shopee 商品與即時價格 Taiwanis 折疊鍋：看 Shopee 商品與即時價格 適合誰看這篇 這篇適合正在比較「海外旅行、宿舍、空姐鍋、辦公室簡單煮食與小空間收納」的人。KINYO TRFP 偏品牌旗艦與 0.9L 小容量，Taiwanis 偏寬電壓、折疊與價格較低。 兩款商品價格都不是高階家電等級，但這反而容易讓人低估選錯的成本：買了不用、放不下、清潔太麻煩，最後都會變成閒置。 如果你已經知道自己要解決的問題，這篇會幫你把價格、銷量、使用位置、維護方式和限制放在同一張表裡看。本文整理時，KINYO TRFP 小圓鍋 的公開價格為 約…</p>\n    \n  </section>\n</noscript>",
+    "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/kinyo-trfp-vs-taiwanis-folding-pot/"
+  },
+  {
+    "path": "/articles/product-comparisons/brita-compatible-filter-vs-maxtra-pro",
+    "title": "Brita 通用濾芯 vs BRITA MAXTRA Plus PRO：低價替換與品牌濾芯怎麼選 | 家電與生活商品比較指南 | GoodStuff",
+    "description": "比較 Brita 通用活性炭濾芯與 BRITA MAXTRA Plus PRO 濾芯，從價格、相容性、濾水壺適配、耗材成本與飲用水安全判斷。",
+    "type": "article",
+    "priority": "0.8",
+    "lastmod": "2026-05-31",
+    "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Brita 通用濾芯 vs BRITA MAXTRA Plus PRO：低價替換與品牌濾芯怎麼選",
+        "description": "比較 Brita 通用活性炭濾芯與 BRITA MAXTRA Plus PRO 濾芯，從價格、相容性、濾水壺適配、耗材成本與飲用水安全判斷。",
+        "articleBody": "Brita 通用濾芯 vs BRITA MAXTRA Plus PRO：低價替換與品牌濾芯怎麼選 插圖圖片 Brita 通用濾芯 vs BRITA MAXTRA Plus PRO：低價替換與品牌濾芯怎麼選 使用場景地圖 圖一：兩款產品的空間定位、價格比較圖。 Brita 通用濾芯 vs BRITA MAXTRA Plus PRO：低價替換與品牌濾芯怎麼選 功能取捨流程 圖二：空間、需求、功能與成本比較圖。 購買參考 Brita 通用活性炭濾芯：看 Shopee 商品與即時價格 BRITA MAXTRA Plus PRO：看 Shopee 商品與即時價格 適合誰看這篇 這篇適合正在比較「濾水壺耗材、租屋飲水、家庭泡茶、降低水垢與長期替換成本」的人。通用濾芯以低價與大量銷售吸引，BRITA MAXTRA Plus PRO 偏品牌濾芯與相容資訊。 兩款商品價格都不是高階家電等級，但這反而容易讓人低估選錯的成本：買了不用、放不下、清潔太麻煩，最後都會變成閒置。 如果你已經知道自己要解決的問題，這篇會幫你把價格、銷量、使用位置、維護方式和限制放在同一張表裡看。本文整理時，Brita 通用活性炭濾芯 的公開價格為 約 NT$55、銷量為 約 20萬+；BRITA MAXTRA Plus PRO 的公開價格為 約 NT$195、銷量為 約 10萬+。這些數字只能代表查核當下的市場訊號，實際售價、庫存、券後價與保固仍以下單頁為準。 如果你只是被短影音或折扣推著看商品，建議先不要急著下單。濾水壺濾芯 的滿意度通常不是由最低價決定，而是由「實際場景是否吻合」決定。尤其是租屋、小房間、桌面、浴室、廚房或客廳角落使用時，插座位置、排水、收納、噪音、清潔與安全距離都會比商品標題更重要。 這篇不適合已經鎖定大型正式家電、需要精準實驗室測試數據，或只想找最低價的人。GoodStuff 的比較目的不是替任何一款商品背書，而是把適合與不適合都說清楚，讓你點進商品頁前已經知道自己要確認什麼。 兩款商品快速比較 產品重點 Brita 通用活性炭濾芯 重點 Brita 通用活性炭濾芯 在這組比較裡的角色是「低價相容濾芯，主打替換成本低」。如果你的主要情境是 已知道自家濾水壺規格且想壓低耗材成本的人，它的優勢會比單看規格更明確；但如果你其實需要的是 重視品牌規格、相容說明與穩定飲水體驗的人，就不應只因為價格或銷量被帶著走。本文整理時，Brita 通用活性炭濾芯 的公開價格為 約 NT$55、銷量為 約 20萬+，販售商店為「CATIS卡蒂斯」。第一個判斷點是「使用位置」。 這類商品要先想清楚每天會不會…",
+        "articleSection": "家電與生活商品比較指南",
+        "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/brita-compatible-filter-vs-maxtra-pro/",
+        "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/brita-compatible-filter-vs-maxtra-pro/",
+        "inLanguage": "zh-TW",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
+        "publisher": {
+          "@type": "Organization",
+          "name": "GoodStuff",
+          "url": "https://pnforce.github.io/GoodStuff/"
+        },
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "GoodStuff",
+          "url": "https://pnforce.github.io/GoodStuff/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "GoodStuff",
+            "item": "https://pnforce.github.io/GoodStuff/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "家電與生活商品比較指南",
+            "item": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Brita 通用濾芯 vs BRITA MAXTRA Plus PRO：低價替換與品牌濾芯怎麼選",
+            "item": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/brita-compatible-filter-vs-maxtra-pro/"
+          }
+        ]
+      }
+    ],
+    "staticHtml": "<noscript data-goodstuff-seo>\n  <section lang=\"zh-TW\">\n    <h1>Brita 通用濾芯 vs BRITA MAXTRA Plus PRO：低價替換與品牌濾芯怎麼選</h1>\n    <p>比較 Brita 通用活性炭濾芯與 BRITA MAXTRA Plus PRO 濾芯，從價格、相容性、濾水壺適配、耗材成本與飲用水安全判斷。</p>\n    <p>Brita 通用濾芯 vs BRITA MAXTRA Plus PRO：低價替換與品牌濾芯怎麼選 插圖圖片 Brita 通用濾芯 vs BRITA MAXTRA Plus PRO：低價替換與品牌濾芯怎麼選 使用場景地圖 圖一：兩款產品的空間定位、價格比較圖。 Brita 通用濾芯 vs BRITA MAXTRA Plus PRO：低價替換與品牌濾芯怎麼選 功能取捨流程 圖二：空間、需求、功能與成本比較圖。 購買參考 Brita 通用活性炭濾芯：看 Shopee 商品與即時價格 BRITA MAXTRA Plus PRO：看 Shopee 商品與即時價格 適合誰看這篇 這篇適合正在比較「濾水壺耗材、租屋飲水、家庭泡茶、降低水垢與長期替換成本」的人。通用濾芯以低價與大量銷售吸引，BRITA MAXTRA Plus PRO 偏品牌濾芯與相容資訊。 兩款商品價格都不是高階家電等級，但這反而容易讓人低估選錯的成本：買了不用、放不下、清潔太麻煩，最後都會變成閒置。 如果你已經知道自己要解決的問題，這篇會幫你把價格、銷量、使用位置、維護方式和限制放在同一張表裡看。本文整理時，Brita 通用活性炭…</p>\n    \n  </section>\n</noscript>",
+    "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/brita-compatible-filter-vs-maxtra-pro/"
+  },
+  {
+    "path": "/articles/product-comparisons/songh-stainless-kettle-vs-glass-kettle",
+    "title": "SONGH 304 不鏽鋼電熱水壺 vs 高硼矽玻璃電茶壺：快煮耐用與泡茶觀察怎麼選 | 家電與生活商品比較指南 | GoodStuff",
+    "description": "比較 SONGH 304 不鏽鋼電熱水壺與高硼矽玻璃電茶壺，從快煮、泡茶、材質、清潔、水垢與燙傷風險判斷。",
+    "type": "article",
+    "priority": "0.8",
+    "lastmod": "2026-05-31",
+    "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
+    "structuredData": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "SONGH 304 不鏽鋼電熱水壺 vs 高硼矽玻璃電茶壺：快煮耐用與泡茶觀察怎麼選",
+        "description": "比較 SONGH 304 不鏽鋼電熱水壺與高硼矽玻璃電茶壺，從快煮、泡茶、材質、清潔、水垢與燙傷風險判斷。",
+        "articleBody": "SONGH 304 不鏽鋼電熱水壺 vs 高硼矽玻璃電茶壺：快煮耐用與泡茶觀察怎麼選 插圖圖片 SONGH 304 不鏽鋼電熱水壺 vs 高硼矽玻璃電茶壺：快煮耐用與泡茶觀察怎麼選 使用場景地圖 圖一：兩款產品的空間定位、價格比較圖。 SONGH 304 不鏽鋼電熱水壺 vs 高硼矽玻璃電茶壺：快煮耐用與泡茶觀察怎麼選 功能取捨流程 圖二：空間、需求、功能與成本比較圖。 購買參考 SONGH 304 不鏽鋼電熱水壺：看 Shopee 商品與即時價格 高硼矽玻璃電茶壺：看 Shopee 商品與即時價格 適合誰看這篇 這篇適合正在比較「租屋、辦公室、泡茶、熱水備用、長期清潔水垢」的人。304 不鏽鋼壺偏耐用快煮，玻璃電茶壺偏可視化泡茶與水色觀察。 兩款商品價格都不是高階家電等級，但這反而容易讓人低估選錯的成本：買了不用、放不下、清潔太麻煩，最後都會變成閒置。 如果你已經知道自己要解決的問題，這篇會幫你把價格、銷量、使用位置、維護方式和限制放在同一張表裡看。本文整理時，SONGH 304 不鏽鋼電熱水壺 的公開價格為 約 NT$410、銷量為 約 4,000+；高硼矽玻璃電茶壺 的公開價格為 約 NT$410、銷量為 約 4,000+。這些數字只能代表查核當下的市場訊號，實際售價、庫存、券後價與保固仍以下單頁為準。 如果你只是被短影音或折扣推著看商品，建議先不要急著下單。快煮壺與電茶壺 的滿意度通常不是由最低價決定，而是由「實際場景是否吻合」決定。尤其是租屋、小房間、桌面、浴室、廚房或客廳角落使用時，插座位置、排水、收納、噪音、清潔與安全距離都會比商品標題更重要。 這篇不適合已經鎖定大型正式家電、需要精準實驗室測試數據，或只想找最低價的人。GoodStuff 的比較目的不是替任何一款商品背書，而是把適合與不適合都說清楚，讓你點進商品頁前已經知道自己要確認什麼。 兩款商品快速比較 產品重點 SONGH 304 不鏽鋼電熱水壺 重點 SONGH 304 不鏽鋼電熱水壺 在這組比較裡的角色是「304 不鏽鋼快煮壺，重視耐用與簡單熱水」。如果你的主要情境是 只需要快速煮水、泡咖啡、沖泡即食的人，它的優勢會比單看規格更明確；但如果你其實需要的是 會煮茶、花茶、需要觀察水色或辦公室共用的人，就不應只因為價格或銷量被帶著走。本文整理時，SONGH 304 不鏽鋼電熱水壺 的公開價格為 約 NT$410、銷量為 約 4,000+，販售商店為「SONGH松禾科技」。第一個判斷點是「使用位置」。 這類商品要先想清楚每天會不會用、放在哪裡、清潔或耗材能不能接受，最後才看折扣。 SONGH…",
+        "articleSection": "家電與生活商品比較指南",
+        "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/songh-stainless-kettle-vs-glass-kettle/",
+        "mainEntityOfPage": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/songh-stainless-kettle-vs-glass-kettle/",
+        "inLanguage": "zh-TW",
+        "datePublished": "2026-05-31",
+        "dateModified": "2026-05-31",
+        "publisher": {
+          "@type": "Organization",
+          "name": "GoodStuff",
+          "url": "https://pnforce.github.io/GoodStuff/"
+        },
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "GoodStuff",
+          "url": "https://pnforce.github.io/GoodStuff/"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "GoodStuff",
+            "item": "https://pnforce.github.io/GoodStuff/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "家電與生活商品比較指南",
+            "item": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "SONGH 304 不鏽鋼電熱水壺 vs 高硼矽玻璃電茶壺：快煮耐用與泡茶觀察怎麼選",
+            "item": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/songh-stainless-kettle-vs-glass-kettle/"
+          }
+        ]
+      }
+    ],
+    "staticHtml": "<noscript data-goodstuff-seo>\n  <section lang=\"zh-TW\">\n    <h1>SONGH 304 不鏽鋼電熱水壺 vs 高硼矽玻璃電茶壺：快煮耐用與泡茶觀察怎麼選</h1>\n    <p>比較 SONGH 304 不鏽鋼電熱水壺與高硼矽玻璃電茶壺，從快煮、泡茶、材質、清潔、水垢與燙傷風險判斷。</p>\n    <p>SONGH 304 不鏽鋼電熱水壺 vs 高硼矽玻璃電茶壺：快煮耐用與泡茶觀察怎麼選 插圖圖片 SONGH 304 不鏽鋼電熱水壺 vs 高硼矽玻璃電茶壺：快煮耐用與泡茶觀察怎麼選 使用場景地圖 圖一：兩款產品的空間定位、價格比較圖。 SONGH 304 不鏽鋼電熱水壺 vs 高硼矽玻璃電茶壺：快煮耐用與泡茶觀察怎麼選 功能取捨流程 圖二：空間、需求、功能與成本比較圖。 購買參考 SONGH 304 不鏽鋼電熱水壺：看 Shopee 商品與即時價格 高硼矽玻璃電茶壺：看 Shopee 商品與即時價格 適合誰看這篇 這篇適合正在比較「租屋、辦公室、泡茶、熱水備用、長期清潔水垢」的人。304 不鏽鋼壺偏耐用快煮，玻璃電茶壺偏可視化泡茶與水色觀察。 兩款商品價格都不是高階家電等級，但這反而容易讓人低估選錯的成本：買了不用、放不下、清潔太麻煩，最後都會變成閒置。 如果你已經知道自己要解決的問題，這篇會幫你把價格、銷量、使用位置、維護方式和限制放在同一張表裡看。本文整理時，SONGH 304 不鏽鋼電熱水壺 的公開價格為 約 NT$410、銷量為 約 4,000+；高硼矽玻璃電茶壺 的公開價格…</p>\n    \n  </section>\n</noscript>",
+    "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/songh-stainless-kettle-vs-glass-kettle/"
   },
   {
     "path": "/articles/shops-introduce",
@@ -9421,7 +10081,7 @@
     "description": "用關鍵字快速搜尋 GoodStuff 的商品比較、店鋪介紹與單品推薦，依照用途、品牌、品類與使用情境找到可閱讀的選購內容。",
     "type": "website",
     "priority": "0.95",
-    "lastmod": "2026-05-29",
+    "lastmod": "2026-05-31",
     "image": "https://pnforce.github.io/GoodStuff/images/books/product-comparisons.svg",
     "structuredData": [
       {
@@ -9432,7 +10092,7 @@
         "description": "用關鍵字快速搜尋 GoodStuff 的商品比較、店鋪介紹與單品推薦，依照用途、品牌、品類與使用情境找到可閱讀的選購內容。",
         "url": "https://pnforce.github.io/GoodStuff/search/",
         "inLanguage": "zh-TW",
-        "dateModified": "2026-05-29",
+        "dateModified": "2026-05-31",
         "isPartOf": {
           "@type": "WebSite",
           "name": "GoodStuff",
@@ -9708,218 +10368,218 @@
             {
               "@type": "ListItem",
               "position": 45,
+              "name": "CT17 vs CT15 空氣清淨除濕機：浴室防潮與千元小空間怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/ct17-vs-ct15-dehumidifier/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 46,
+              "name": "Jessga H3-S vs H2 智能除濕機：雙排水浴室款與 20 坪房間款怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/jessga-h3s-vs-h2-dehumidifier/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 47,
+              "name": "KOCA Dusty Mini 1 vs SUiTU 迷你吸塵器：車用小鋼炮與高銷量預算款怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/koca-dusty-mini-vs-suitu-mini-vacuum/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 48,
+              "name": "Kolin PTC 陶瓷電暖器 vs 三檔桌上型電暖器：浴室壁掛與租屋取暖怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/kolin-ptc-heater-vs-table-heater/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 49,
+              "name": "GK2 vs Z1Air 電視盒：繁體介面、Google Play 與串流畫質怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/gk2-vs-z1air-tv-box/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 50,
+              "name": "高溫蒸汽清洗機 vs SANSUI WHITE-A1：廚房油污與布沙發深層清潔怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/steam-cleaner-vs-sansui-white-a1/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 51,
+              "name": "SONGH 鴛鴦雙拼電火鍋 vs Kolin 三人份電鍋：租屋煮食與日常米飯怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/songh-dual-hotpot-vs-kolin-rice-cooker/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 52,
+              "name": "KINYO TRFP 小圓鍋 vs Taiwanis 折疊鍋：雙電壓旅行鍋與寬電壓宿舍鍋怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/kinyo-trfp-vs-taiwanis-folding-pot/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 53,
+              "name": "Brita 通用濾芯 vs BRITA MAXTRA Plus PRO：低價替換與品牌濾芯怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/brita-compatible-filter-vs-maxtra-pro/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 54,
+              "name": "SONGH 304 不鏽鋼電熱水壺 vs 高硼矽玻璃電茶壺：快煮耐用與泡茶觀察怎麼選",
+              "url": "https://pnforce.github.io/GoodStuff/articles/product-comparisons/songh-stainless-kettle-vs-glass-kettle/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 55,
               "name": "店鋪介紹",
               "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/"
             },
             {
               "@type": "ListItem",
-              "position": 46,
+              "position": 56,
               "name": "＂緣來是你＂雞血藤(台灣發貨) 產品比較指南",
               "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-001/"
             },
             {
               "@type": "ListItem",
-              "position": 47,
+              "position": 57,
               "name": "168批發生活百貨館熱賣玩具比較指南",
               "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-002/"
             },
             {
               "@type": "ListItem",
-              "position": 48,
+              "position": 58,
               "name": "🌸小花go物批發🌸 產品比較指南",
               "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-003/"
             },
             {
               "@type": "ListItem",
-              "position": 49,
+              "position": 59,
               "name": "🎀安娜Shop🔥美麗養成計劃🌟美膚🌟美胸🌟超有感の女神秘密 產品比較指南",
               "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-004/"
             },
             {
               "@type": "ListItem",
-              "position": 50,
+              "position": 60,
               "name": "🏆詮信商行 產品比較指南",
               "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-005/"
             },
             {
               "@type": "ListItem",
-              "position": 51,
+              "position": 61,
               "name": "🐘石之靈🐘 產品比較指南",
               "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-006/"
             },
             {
               "@type": "ListItem",
-              "position": 52,
+              "position": 62,
               "name": "🐳鯨達🐳【貼紙、兒童貼紙、卡通貼紙、獎勵貼紙、防水貼紙】 產品比較指南",
               "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-007/"
             },
             {
               "@type": "ListItem",
-              "position": 53,
+              "position": 63,
               "name": "💃WillMusic 產品比較指南",
               "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-008/"
             },
             {
               "@type": "ListItem",
-              "position": 54,
+              "position": 64,
               "name": "💎天宮珠寶💎 產品比較指南",
               "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-009/"
             },
             {
               "@type": "ListItem",
-              "position": 55,
+              "position": 65,
               "name": "💎梦想家💎品质好物 產品比較指南",
               "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-010/"
             },
             {
               "@type": "ListItem",
-              "position": 56,
+              "position": 66,
               "name": "💕購物狂女孩💕 小布飾品 & 之之平價服飾 直播場比較指南",
               "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-011/"
             },
             {
               "@type": "ListItem",
-              "position": 57,
+              "position": 67,
               "name": "💖趁財財燈飾💖 產品比較指南",
               "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-012/"
             },
             {
               "@type": "ListItem",
-              "position": 58,
+              "position": 68,
               "name": "💙小熊居家優選💙 產品比較指南",
               "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-013/"
             },
             {
               "@type": "ListItem",
-              "position": 59,
+              "position": 69,
               "name": "💝氣質娘娘的嚴選客製水晶礦石💝 產品比較指南",
               "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-014/"
             },
             {
               "@type": "ListItem",
-              "position": 60,
+              "position": 70,
               "name": "📢《特殊傳說》稀有周邊出清專場 產品比較指南",
               "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-015/"
             },
             {
               "@type": "ListItem",
-              "position": 61,
+              "position": 71,
               "name": "😊居家樂😊 產品比較指南",
               "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-016/"
             },
             {
               "@type": "ListItem",
-              "position": 62,
+              "position": 72,
               "name": "🛠艾瑪五金生活百貨🛠 專業電工接線器比較指南",
               "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-017/"
             },
             {
               "@type": "ListItem",
-              "position": 63,
+              "position": 73,
               "name": "《100種桌遊介紹和技巧解說》深度推薦評析",
               "url": "https://pnforce.github.io/GoodStuff/articles/shops-introduce/shops-018/"
             },
             {
               "@type": "ListItem",
-              "position": 64,
+              "position": 74,
               "name": "單件商品介紹",
               "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/"
             },
             {
               "@type": "ListItem",
-              "position": 65,
+              "position": 75,
               "name": "Electrolux ZB3324B HEPA 除蟎版無線吸塵器：床墊、毛髮與日常地板清潔選購筆記",
               "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-001/"
             },
             {
               "@type": "ListItem",
-              "position": 66,
+              "position": 76,
               "name": "Whirlpool WM07PW 7公斤直立洗衣機：小家庭、租屋與陽台空間的實用選購筆記",
               "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-002/"
             },
             {
               "@type": "ListItem",
-              "position": 67,
+              "position": 77,
               "name": "Hysure 海說 Q9 除濕清淨機：小空間濕氣、衣櫃旁與臥室角落的選購筆記",
               "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-003/"
             },
             {
               "@type": "ListItem",
-              "position": 68,
+              "position": 78,
               "name": "Apolnus Ultra S7 空氣清淨機：小坪數、低噪音與免頻繁換濾網需求的選購筆記",
               "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-004/"
             },
             {
               "@type": "ListItem",
-              "position": 69,
+              "position": 79,
               "name": "1Zpresso K-Ultra 手搖磨豆機：手沖、義式入門與高階手磨使用者的選購筆記",
               "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-005/"
             },
             {
               "@type": "ListItem",
-              "position": 70,
+              "position": 80,
               "name": "Electrolux Well Q6 WQ61-1OGG 無線吸塵器：毛髮、灰塵與輕量日常清潔選購筆記",
               "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-006/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 71,
-              "name": "Roborock Q8 Max Pro 掃拖機器人：10,000Pa、LiDAR 導航與防纏繞需求選購筆記",
-              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-007/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 72,
-              "name": "K200 三代 4K 國民投影機：租屋、臥室與入門大畫面娛樂選購筆記",
-              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-008/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 73,
-              "name": "Esense LED 超明亮護眼檯燈：讀書、辦公與長時間桌面照明選購筆記",
-              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-009/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 74,
-              "name": "Hysure Polo 空氣清淨除濕機：小房間、衣櫃旁與局部濕氣管理選購筆記",
-              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-010/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 75,
-              "name": "recolte Cordless Bonne RCP-7 無線萬用調理機：備料、絞碎與小家庭料理選購筆記",
-              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-011/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 76,
-              "name": "Electrolux ZB3302AK HEPA 進化版無線吸塵器：日常地板與床墊配件選購筆記",
-              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-012/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 77,
-              "name": "1Zpresso ZP6 Special 手搖磨豆機：手沖清晰度、風味層次與非義式玩家選購筆記",
-              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-013/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 78,
-              "name": "HERAN HDH-12DY030(N) 6公升除濕機：臥室、小房間與節能除濕選購筆記",
-              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-014/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 79,
-              "name": "Jazzy DP-10+ 88鍵折疊電子琴：租屋、初學與可攜練琴選購筆記",
-              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-015/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 80,
-              "name": "SANSUI WHITE-A1 高壓織物清潔機：沙發、床墊與布面污漬清潔選購筆記",
-              "url": "https://pnforce.github.io/GoodStuff/articles/profuct-introduce/profuct-016/"
             }
           ]
         }
